@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: #000;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+/* General Styles */
+
+.white {
+  background-color: #fff;
+  color: #000;
+}
+
+.black {
+  background-color: #000;
+  color: #fff;
+}
+
+.section {
+  text-align: center;
+  margin: 0px;
+  padding: 30px 30px 40px 40px;
+}
+
+.section-header {
+  font-family: 'Slabo 27px', serif;
+  font-size: 42px;
+  text-transform: lowercase;
+  padding-bottom: 20px;
+}
+
+.section-text {
+  margin: auto;
+  max-width: 850px;
+}
+
+.large-text {
+  line-height: 28px;
+  max-width: 750px;
+}
+
+/* Navbar */
+
+.navbar ul {
+  list-style: none;
+  font-family: 'Slabo 27px', serif;
+  font-size: 24px;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar li {
+  /* Default things to do when the screen isn't large enough */
+}
+
+@media screen and (min-width: 600px) {
+  .navbar li {
+    display: inline-block;
+    width: 120px;
+    height: 60px;
+    line-height: 60px;
+  }
+}
+
+/* Logo */
+
+.logo {
+  padding: 30px;
+}
+
+.logo img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* What We Do */
+
+.what-we-do {
+}
+
+/* Our Projects */
+
+.featured-projects li {
+  display: inline-block;
+  padding: 10px;
+}
+
+.project-header {
+  font-family: 'Slabo 27px', serif;
+  font-size: 27px;
+}
+
+.project-location {
+  color: #b7b7b7;
+}
+
+.project-text {}
