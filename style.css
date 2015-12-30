@@ -46,7 +46,7 @@ body {
 .navbar ul {
   list-style: none;
   font-family: 'Slabo 27px', serif;
-  font-size: 24px;
+  font-size: 0px; /*remove space between links*/
   text-align: center;
   padding: 0;
   margin: 0;
@@ -54,6 +54,20 @@ body {
 
 .navbar li {
   /* Default things to do when the screen isn't large enough */
+  font-size: 24px;
+  border-top: 5px solid black;
+  cursor: pointer;
+  transition: .3s ease;
+}
+
+.navbar li:hover {
+  /* Default things to do when the screen isn't large enough */
+  border-top: 5px solid #008FFF;
+}
+
+.navbar li.active {
+  border-top: 5px solid white;
+  box-sizing: border-box;
 }
 
 @media screen and (min-width: 600px) {
@@ -84,9 +98,27 @@ body {
 
 /* Our Projects */
 
-.featured-projects li {
+.all-projects ul{
+  max-width:800px;
+  margin: 0 auto;
+  font-size: 0; 
+}
+
+.all-projects li{
   display: inline-block;
   padding: 10px;
+  box-sizing: border-box;
+  white-space: normal;  
+}
+
+ul.featured-projects li {
+  width: 50%;
+  min-width: 400px;
+}
+
+ul.other-projects li {
+  width: 33%;
+  min-width: 230px;
 }
 
 .project-header {
@@ -94,8 +126,20 @@ body {
   font-size: 27px;
 }
 
-.project-location {
+.project-location, .project-date {
   color: #b7b7b7;
 }
 
-.project-text {}
+.project-image img {
+  max-width:100%;
+}
+.project-text {font-size: 15px;}
+
+ul.other-projects .project-header {
+  font-size: 20px;
+}
+
+.all-projects a {
+  text-decoration: none;
+  color: #008FFF;
+}
