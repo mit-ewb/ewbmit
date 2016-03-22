@@ -18,6 +18,11 @@ body {
   color: #fff;
 }
 
+.black-transparent {
+  background-color: rgba(0, 0, 0, 0.25);
+  color: #fff;
+}
+
 .section {
   text-align: center;
   margin: 0px;
@@ -39,6 +44,11 @@ body {
 .large-text {
   line-height: 28px;
   max-width: 750px;
+}
+
+a {
+  text-decoration: none;
+  color: #008FFF;
 }
 
 /* Navbar */
@@ -137,9 +147,4 @@ ul.other-projects li {
 
 ul.other-projects .project-header {
   font-size: 20px;
-}
-
-.all-projects a {
-  text-decoration: none;
-  color: #008FFF;
 }
