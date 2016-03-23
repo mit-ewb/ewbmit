@@ -148,3 +148,24 @@ ul.other-projects li {
 ul.other-projects .project-header {
   font-size: 20px;
 }
+
+/* Donate */
+
+.donate-button {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #444;
+  border-radius: 6px;
+  display: inline-block;
+  color: #fff;
+
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+}
+
+.donate-button:hover {
+  background-color: #008FFF;
+}
