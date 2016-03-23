@@ -23,6 +23,10 @@ body {
   color: #fff;
 }
 
+.gray {
+  color: #aaa;
+}
+
 .section {
   text-align: center;
   margin: 0px;
@@ -136,14 +140,13 @@ ul.other-projects li {
   font-size: 27px;
 }
 
-.project-location, .project-date {
-  color: #b7b7b7;
+.project-image img {
+  max-width: 100%;
 }
 
-.project-image img {
-  max-width:100%;
+.project-text {
+  font-size: 15px;
 }
-.project-text {font-size: 15px;}
 
 ul.other-projects .project-header {
   font-size: 20px;
@@ -168,4 +171,26 @@ ul.other-projects .project-header {
 
 .donate-button:hover {
   background-color: #008FFF;
+}
+
+/* Meet Our Team */
+
+.team-table {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-spacing: 10px;
+}
+
+.team-image {
+  float: right;
+}
+
+.team-text {
+  text-align: left;
+}
+
+.team-name {
+  font-family: 'Slabo 27px', serif;
+  font-size: 27px;
 }

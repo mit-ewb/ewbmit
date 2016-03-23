@@ -4,7 +4,7 @@ var projects = [
     {
         "name": "Project Infiltrate Meche",
         "date": "Spring 2015",
-        "location": "Kenya",
+        "location": "kenya",
         "url": "pim",
         "summary": placeholder,
         "img": "project-2-placeholder.jpg",
@@ -12,7 +12,7 @@ var projects = [
     },{
         "name": "Pipes are Fun",
         "date": "Spring 2015",
-        "location": "Ghana",
+        "location": "ghana",
         "url": "pin",
         "summary": placeholder,
         "img": "project-2-placeholder.jpg",
@@ -53,13 +53,13 @@ projects.forEach(function(e){
         var html = '<li class="project-description">\
             <div class="project-image"><a href="'+e.url+'"><img src="'+e.img+'"/></a></div>\
             <div class="project-header">'+e.name+
-            ' <span class="project-location">'+e.location+'</span>\
+            ' <span class="project-location gray">'+e.location+'</span>\
             </div><div class="project-text">'+e.summary+' <a href="'+e.url+'">read more...</a></div></li>';
         active.append(html);
     } else {
         var html = '<li class="project-description">\
             <div class="project-image"><a href="'+e.url+'"><img src="'+e.img+'"/></a></div>\
-            <div class="project-header"><span class="project-date">'+e.date+
+            <div class="project-header"><span class="project-date gray">'+e.date+
             '</span> '+e.name+'</div></div></li>';
         inactive.append(html);
     }
