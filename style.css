@@ -57,7 +57,12 @@ a {
 
 /* Navbar */
 
-.navbar ul {
+.navbar {
+  position: fixed;
+  width: 100%;
+}
+
+.navbar ul, .spacer ul {
   list-style: none;
   font-family: 'Slabo 27px', serif;
   font-size: 0px; /*remove space between links*/
@@ -66,7 +71,7 @@ a {
   margin: 0;
 }
 
-.navbar li {
+.navbar li, .spacer li {
   /* Default things to do when the screen isn't large enough */
   font-size: 24px;
   border-top: 5px solid black;
@@ -85,7 +90,7 @@ a {
 }
 
 @media screen and (min-width: 600px) {
-  .navbar li {
+  .navbar li, .spacer li {
     display: inline-block;
     width: 120px;
     height: 60px;
