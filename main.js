@@ -7,7 +7,7 @@ var projects = [
         "location": "kenya",
         "url": "pim",
         "summary": placeholder,
-        "img": "project-2-placeholder.jpg",
+        "img": "images/project-2-placeholder.jpg",
         "active": true
     },{
         "name": "Pipes are Fun",
@@ -15,7 +15,7 @@ var projects = [
         "location": "ghana",
         "url": "pin",
         "summary": placeholder,
-        "img": "project-2-placeholder.jpg",
+        "img": "images/project-2-placeholder.jpg",
         "active": true
     },{
         "name": "Another Project",
@@ -23,7 +23,7 @@ var projects = [
         "location": "MIT",
         "url": "MIT",
         "summary": placeholder,
-        "img": "project-2-placeholder.jpg",
+        "img": "images/project-2-placeholder.jpg",
         "active": false
     },{
         "name": "Showergy",
@@ -31,7 +31,7 @@ var projects = [
         "location": "lol",
         "url": "lol",
         "summary": placeholder,
-        "img": "project-2-placeholder.jpg",
+        "img": "images/project-2-placeholder.jpg",
         "active": false
     },{
         "name": "Some words",
@@ -39,7 +39,7 @@ var projects = [
         "location": "idk",
         "url": "idk",
         "summary": placeholder,
-        "img": "project-2-placeholder.jpg",
+        "img": "images/project-2-placeholder.jpg",
         "active": false
     },
 ]

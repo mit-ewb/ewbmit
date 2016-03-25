@@ -194,3 +194,26 @@ ul.other-projects .project-header {
   font-family: 'Slabo 27px', serif;
   font-size: 27px;
 }
+
+/* Footer */
+
+.designed-by {
+  padding-top: 60px;
+  color: #666;
+}
+
+.made-by {
+  padding-bottom: 10px;
+  color: #666;
+}
+
+.earth {
+  font-family: 'Slabo 27px', serif;
+  font-size: 32px;
+  color: #666;
+}
+
+.fraction-top {
+  border-bottom: solid #666 2px;
+  display: inline-block;
+}
