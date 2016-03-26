@@ -1,3 +1,5 @@
+/* Generate Projects Section */
+
 var placeholder = "Short Summary";
 
 var projects = [
@@ -63,4 +65,15 @@ projects.forEach(function(e){
             '</span> '+e.name+'</div></div></li>';
         inactive.append(html);
     }
+});
+
+/* Add Scrolling Animations */
+
+$('.navbar li').click(function() {
+    // Update active section
+    $('.navbar li').removeClass('active');
+    $(this).closest('li').addClass('active');
+    // Scrolling animation to section
+    $.scrollTo("#" + (this.id.substring("navbar-".length)), 500);
+    return false;
 });

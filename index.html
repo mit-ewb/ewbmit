@@ -11,15 +11,20 @@
 
   <div class="navbar black">
     <ul>
-      <li class="active">home</li>
-      <li>purpose</li>
-      <li>projects</li>
-      <li>donate</li>
-      <li>team</li>
-      <li>contact</li>
+      <li id="navbar-home" class="active">home</li>
+      <li id="navbar-purpose">purpose</li>
+      <li id="navbar-projects">projects</li>
+      <li id="navbar-donate">donate</li>
+      <li id="navbar-team">team</li>
+      <li id="navbar-contact">contact</li>
     </ul>
   </div>
-  <div class="spacer">
+  <div class="mini-navbar black">
+    <ul>
+      <li>navigate</li>
+    </ul>
+  </div>
+  <div class="spacer" id="home">
     <ul>
       <li></li>
     </ul>
@@ -28,22 +33,26 @@
     <img src="images/ewb-logo.png" width=852 height=160 />
   </div>
   <div class="sections">
-    <div class="what-we-do section black-transparent">
+    <a class="anchor" id="purpose"></a>
+    <div class="section black-transparent">
       <div class="section-header">What We Do</div>
       <div class="section-text large-text">we are a non-profit humanitarian organization established to partner with developing communities worldwide, in order to improve their quality of life. this partnership involves the implementation of sustainable engineering projects, while involving and training internationally responsible engineers.</div>
     </div>
-    <div class="our-projects section white">
+    <a class="anchor" id="projects"></a>
+    <div class="section white">
       <div class="section-header">Our Projects</div>
       <div class="section-text">we aim to give members of the MIT community hands-on international development experience. join one of our project teams to engineer real change into people's lives.</div>
       <div class="all-projects">
       </div>
     </div>
-    <div class="donate section black">
+    <a class="anchor" id="donate"></a>
+    <div class="section black">
       <div class="section-header">Donate</div>
       <div class="section-text">support one of our projects. we will love you.</div>
       <a href="https://giving.mit.edu/taxonomy/term/9#2721177" target="_"><div class="donate-button">help us out</div></a>
     </div>
-    <div class="about section white">
+    <a class="anchor" id="team"></a>
+    <div class="section white">
       <div class="section-header">Meet Our Team</div>
       <div class="section-text">
       	<table class="team-table">
@@ -100,7 +109,8 @@
       </div>
     </div>
   </div>
-  <div class="contact section black">
+  <a class="anchor" id="contact"></a>
+  <div class="section black">
     <div class="section-header">Talk to Us</div>
   	<div class="section-text">reach us at ewb-exec [at] mit [dot] edu
   		<div class="designed-by">designed by victor hung</div>
@@ -112,5 +122,6 @@
   </div>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="main.js" type="text/javascript"></script>
+  <script src="js/jquery.scrollTo-2.1.2/jquery.scrollTo.min.js"></script>
+  <script src="js/main.js" type="text/javascript"></script>
 </body>

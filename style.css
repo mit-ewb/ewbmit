@@ -55,14 +55,21 @@ a {
   color: #008FFF;
 }
 
+a.anchor {
+    display: block;
+    position: relative;
+    top: -60px;
+    visibility: hidden;
+}
+
 /* Navbar */
 
-.navbar {
+.navbar, .mini-navbar {
   position: fixed;
   width: 100%;
 }
 
-.navbar ul, .spacer ul {
+.navbar ul, .mini-navbar ul, .spacer ul {
   list-style: none;
   font-family: 'Slabo 27px', serif;
   font-size: 0px; /*remove space between links*/
@@ -71,7 +78,7 @@ a {
   margin: 0;
 }
 
-.navbar li, .spacer li {
+.navbar li, .mini-navbar li, .spacer li {
   /* Default things to do when the screen isn't large enough */
   font-size: 24px;
   border-top: 5px solid black;
@@ -89,8 +96,23 @@ a {
   box-sizing: border-box;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 750px) {
   .navbar li, .spacer li {
+    display: inline-block;
+    width: 120px;
+    height: 60px;
+    line-height: 60px;
+  }
+  .mini-navbar {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 749px) {
+  .navbar li {
+    display: none;
+  }
+  .mini-navbar li, .spacer li {
     display: inline-block;
     width: 120px;
     height: 60px;
@@ -111,9 +133,6 @@ a {
 }
 
 /* What We Do */
-
-.what-we-do {
-}
 
 /* Our Projects */
 
