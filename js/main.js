@@ -1,49 +1,23 @@
 /* Generate Projects Section */
 
-var placeholder = "Short Summary";
-
 var projects = [
     {
-        "name": "Project Infiltrate Meche",
-        "date": "Spring 2015",
-        "location": "kenya",
-        "url": "pim",
-        "summary": placeholder,
-        "img": "images/project-2-placeholder.jpg",
+        "name": "charcoal",
+        "date": "Spring 2016",
+        "location": "tanzania",
+        "url": "",
+        "summary": "we're developing tech to make useful plastic objects out of waste plastic bags.",
+        "img": "images/charcoal-1.png",
         "active": true
     },{
-        "name": "Pipes are Fun",
-        "date": "Spring 2015",
+        "name": "rammed earth",
+        "date": "Spring 2016",
         "location": "ghana",
-        "url": "pin",
-        "summary": placeholder,
-        "img": "images/project-2-placeholder.jpg",
+        "url": "",
+        "summary": "we're building a processing plant using sustainable construction techniques.",
+        "img": "images/rammed-earth-1.png",
         "active": true
-    },{
-        "name": "Another Project",
-        "date": "Spring 2013",
-        "location": "MIT",
-        "url": "MIT",
-        "summary": placeholder,
-        "img": "images/project-2-placeholder.jpg",
-        "active": false
-    },{
-        "name": "Showergy",
-        "date": "Spring 2012",
-        "location": "lol",
-        "url": "lol",
-        "summary": placeholder,
-        "img": "images/project-2-placeholder.jpg",
-        "active": false
-    },{
-        "name": "Some words",
-        "date": "Spring 2011",
-        "location": "idk",
-        "url": "idk",
-        "summary": placeholder,
-        "img": "images/project-2-placeholder.jpg",
-        "active": false
-    },
+    }
 ]
 
 var proj = $('.all-projects');
@@ -52,11 +26,17 @@ var inactive = $('<ul class="other-projects"></ul>').appendTo(proj);
 
 projects.forEach(function(e){
     if(e.active) {
+        // TODO: Add a page for each project that we can link to.
+        // var html = '<li class="project-description">\
+        //     <div class="project-image"><a href="'+e.url+'"><img src="'+e.img+'"/></a></div>\
+        //     <div class="project-header">'+e.name+
+        //     ' <span class="project-location gray">'+e.location+'</span>\
+        //     </div><div class="project-text">'+e.summary+' <a href="'+e.url+'">read more...</a></div></li>';
         var html = '<li class="project-description">\
-            <div class="project-image"><a href="'+e.url+'"><img src="'+e.img+'"/></a></div>\
+            <div class="project-image"><img src="'+e.img+'"/></div>\
             <div class="project-header">'+e.name+
             ' <span class="project-location gray">'+e.location+'</span>\
-            </div><div class="project-text">'+e.summary+' <a href="'+e.url+'">read more...</a></div></li>';
+            </div><div class="project-text">'+e.summary+'</div></li>';
         active.append(html);
     } else {
         var html = '<li class="project-description">\

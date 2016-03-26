@@ -136,10 +136,14 @@ a.anchor {
 
 /* Our Projects */
 
+.all-projects {
+  padding-top: 20px;
+}
+
 .all-projects ul{
   max-width:800px;
   margin: 0 auto;
-  font-size: 0; 
+  font-size: 0;
 }
 
 .all-projects li{
@@ -169,7 +173,7 @@ ul.other-projects li {
 }
 
 .project-text {
-  font-size: 15px;
+  font-size: 20px;
 }
 
 ul.other-projects .project-header {
