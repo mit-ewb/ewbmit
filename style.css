@@ -212,6 +212,7 @@ ul.other-projects .project-header {
 
 .team-image {
   float: right;
+  width: 300px;
 }
 
 .team-text {
