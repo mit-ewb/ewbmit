@@ -24,33 +24,33 @@
 
   <body>
 
-  <!-- Navigation -->
-  <?php include('navigationBar.html'); ?>
+    <!-- Navigation -->
+    <?php include('navigationBar.html'); ?>
 
 
     <!-- Page Content -->
     <div class="container">
 
       <!-- Page Heading/Breadcrumbs -->
-      <h1 class="mt-4 mb-3">Charcoal Briquettes
-        <small>D-Lab</small>
+      <h1 class="mt-4 mb-3">Plastics
+        <small>Uganda</small>
       </h1>
 
       <ol class="breadcrumb">
-        <li class="breadcrumb-item">
+        <!-- <li class="breadcrumb-item"> -->
           <a href="index.php">Projects</a>
         </li>
-        <li class="breadcrumb-item active">Charcoal Briquettes</li>
+        <li class="breadcrumb-item active">Plastics</li>
       </ol>
 
       <!-- Intro Content -->
       <div class="row">
         <div class="col-lg-6">
-          <img class="img-fluid rounded mb-4" src="images/projects/plastics.png" alt="">
+          <img class="img-fluid rounded mb-4" src="images/projects/plastics.jpg" alt="">
         </div>
         <div class="col-lg-6">
           <h2>Project Description</h2>
-          Through MIT D-Lab, we connected with Betty Ikalany, who founded Appropriate Energy Saving Technologies, Limited. Her company produces charcoal briquettes for use in cook stoves, which provides a cleaner cooking alternative to three stone fires. Briquettes are formed by first burning natural agricultural waste to create an ash, which is then mixed with a binder. This mixture is pushed through an extruder to create cylindrical, chimney-like briquettes. This process induces a lot of stress on the extruder screw, which breaks very easily. EWB developed a case hardening treatment, that when applied to the extruder screw, greatly extends its lifetime.
+          It is common to find plastic bags scattered across the ground in developing communities, or for plastic waste to be burned with other trash (which can cause noxious fumes to be released). Our team worked to develop a method through which plastic waste could be melted down and then molded into household tools. We established partnerships with non-profit organizations in Kampala and Soroti, Uganda in hopes of proliferating these methods in the developing world.
         </div>
       </div>
       <!-- /.row -->

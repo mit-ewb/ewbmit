@@ -22,65 +22,9 @@
 
   <body>
 
-    <!-- Navigation -->
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
-      <div class="container">
-        <a class="navbar-brand" href="index.html"> <img src="images/ewb-logo.png" width="200px"></a>
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="about.html">About</a>
-            </li>
-            <!-- <li class="nav-item">
-              <a class="nav-link" href="services.html">Services</a>
-            </li> -->
-            <!-- <li class="nav-item">
-              <a class="nav-link" href="contact.html">Contact</a>
-            </li> -->
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Projects
-              </a>
-              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
-                <a class="dropdown-item" href="projects.html">All Projects</a>
-                <a class="dropdown-item" href="mkutani.html">Solar Pump, Tanzania</a>
-                <a class="dropdown-item" href="moringa.html">Moringa Connect, Ghana</a>
-                <a class="dropdown-item" href="plastics.html">Plastics, Uganda</a>
-                <a class="dropdown-item" href="charcoal.html">Charcoal, D-Lab</a>
-              </div>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="updates.html">Updates</a>
-            </li>
-            <!-- <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Updates
-              </a>
-              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-                <a class="dropdown-item" href="blog-home-1.html">Blog Home 1</a>
-                <a class="dropdown-item" href="blog-home-2.html">Blog Home 2</a>
-                <a class="dropdown-item" href="blog-post.html">Blog Post</a>
-              </div>
-            </li> -->
-            <!-- <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Other Pages
-              </a>
-              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-                <a class="dropdown-item" href="full-width.html">Full Width Page</a>
-                <a class="dropdown-item" href="sidebar.html">Sidebar Page</a>
-                <a class="dropdown-item" href="faq.html">FAQ</a>
-                <a class="dropdown-item" href="404.html">404</a>
-                <a class="dropdown-item" href="pricing.html">Pricing Table</a>
-              </div>
-            </li> -->
-          </ul>
-        </div>
-      </div>
-    </nav>
+  <!-- Navigation -->
+  <?php include('navigationBar.php'); ?>
+
     <!-- Page Content -->
     <div class="container">
 
@@ -91,7 +35,7 @@
 
       <ol class="breadcrumb">
         <li class="breadcrumb-item">
-          <a href="index.html">Home</a>
+          <a href="index.php">Home</a>
         </li>
         <li class="breadcrumb-item active">About Us</li>
       </ol>
@@ -119,8 +63,8 @@
             <img class="card-img-top" src="images/milani-chatterji-len.jpg" alt="">
             <div class="card-body">
               <h4 class="card-title">Milani Chatterji-Len</h4>
-              <h5 class="card-title">President</h4>
-              <h6 class="card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2019</h6>
+                <h5 class="card-title">President </h5>
+                  <h6 class="card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2019</h6>
               <p class="card-text">"It's better to know how to learn than to know."</p>
             </div>
             <div class="card-footer">
@@ -133,7 +77,7 @@
             <img class="card-img-top" src="images/vibha-agarwal.jpg" alt="">
             <div class="card-body">
               <h4 class="card-title">Vibha Agarwal</h4>
-              <h5 class="card-title">Technical Lead</h4>
+              <h5 class="card-title">Technical Lead</h5>
               <h6 class="card-subtitle mb-2 text-muted">Electrical Engineering and Computer Science | 2020 </h6>
               <p class="card-text">"It always seems impossible until it's done."</p>
             </div>
@@ -147,7 +91,7 @@
             <img class="card-img-top" src="images/rahma-zakaria.jpg" alt="">
             <div class="card-body">
               <h4 class="card-title">Rahma Zakaria</h4>
-              <h5 class="card-title">Program Manager</h4>
+              <h5 class="card-title">Program Manager</h5>
               <h6 class="card-subtitle mb-2 text-muted">Biological Engineering | 2019</h6>
               <p class="card-text">"Run from what's comfortable."</p>
             <div class="card-footer">
@@ -164,7 +108,7 @@
             <img class="card-img-top" src="images/chris-eschler.jpg" alt="">
             <div class="card-body">
               <h4 class="card-title">Chris Eschler</h4>
-              <h5 class="card-title">Secretary</h4>
+              <h5 class="card-title">Secretary</h5>
               <h6 class="card-subtitle mb-2 text-muted">Material Science and Engineering | 2021</h6>
               <p class="card-text">"If you wouldn't follow yourself, why should anyone else?"</p>
             </div>
@@ -178,7 +122,7 @@
             <img class="card-img-top" src="images/tofunmi-ogunfunmi.jpg" alt="">
             <div class="card-body">
               <h4 class="card-title">Tofunmi Ogunfunmi</h4>
-              <h5 class="card-title">Treasurer</h4>
+              <h5 class="card-title">Treasurer</h5>
               <h6 class="card-subtitle mb-2 text-muted">Materials Science | 2019</h6>
               <p class="card-text">"Time's fun when you're having flies."</p>
             </div>
@@ -192,7 +136,7 @@
             <img class="card-img-top" src="images/kaleigh-hunt.jpg" alt="">
             <div class="card-body">
               <h4 class="card-title">Kaleigh Hunt</h4>
-              <h5 class="card-title">Liason to Boston Professional Chapter</h4>
+              <h5 class="card-title">Liason to Boston Professional Chapter</h5>
               <h6 class="card-subtitle mb-2 text-muted">Chemical Engineering | 2020</h6>
               <p class="card-text">"Don't sweat the petty things, and don't pet the sweaty things."</p>
             <div class="card-footer">
@@ -209,7 +153,7 @@
             <img class="card-img-top" src="images/amel-elawad.jpg" alt="">
             <div class="card-body">
               <h4 class="card-title">Amel Elawad</h4>
-              <h5 class="card-title">Liason to Harvard Chapter</h4>
+              <h5 class="card-title">Liason to Harvard Chapter</h5>
               <h6 class="card-subtitle mb-2 text-muted">Electrical Engineering and Physics | 2021</h6>
               <p class="card-text">“You learn the most about yourself in practice, not in theory.”</p>
             </div>
@@ -223,7 +167,7 @@
             <img class="card-img-top" src="images/valerie-muldoon.jpg" alt="">
             <div class="card-body">
               <h4 class="card-title">Valerie Muldoon</h4>
-              <h5 class="card-title">Publicity Chair</h4>
+              <h5 class="card-title">Publicity Chair</h5>
               <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2020</h6>
               <p class="card-text">“Hope that you spend your days, but they all add up.”</p>
             </div>
@@ -237,7 +181,7 @@
             <img class="card-img-top" src="images/chealsea-watanabe.jpg" alt="">
             <div class="card-body">
               <h4 class="card-title">Chelsea Watanabe</h4>
-              <h5 class="card-title">Social Chair</h4>
+              <h5 class="card-title">Social Chair</h5>
               <h6 class="card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2021</h6>
               <p class="card-text">“No one can do everything, but everyone can do something.”</p>
             <div class="card-footer">
@@ -310,12 +254,7 @@
     <!-- /.container -->
 
     <!-- Footer -->
-    <footer class="py-5 bg-dark">
-      <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; MIT EWB 2018</p>
-      </div>
-      <!-- /.container -->
-    </footer>
+    <?php include('footer.php'); ?>
 
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>

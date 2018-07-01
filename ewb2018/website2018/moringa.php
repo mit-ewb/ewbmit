@@ -25,89 +25,33 @@
   <body>
 
     <!-- Navigation -->
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
-      <div class="container">
-        <a class="navbar-brand" href="index.html"> <img src="images/ewb-logo.png" width="200px"> </a>
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="about.html">About</a>
-            </li>
-            <!-- <li class="nav-item">
-              <a class="nav-link" href="services.html">Services</a>
-            </li> -->
-            <!-- <li class="nav-item">
-              <a class="nav-link" href="contact.html">Contact</a>
-            </li> -->
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Projects
-              </a>
-              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
-                <a class="dropdown-item" href="projects.html">All Projects</a>
-                <a class="dropdown-item" href="mkutani.html">Solar Pump, Tanzania</a>
-                <a class="dropdown-item" href="moringa.html">Moringa Connect, Ghana</a>
-                <a class="dropdown-item" href="plastics.html">Plastics, Uganda</a>
-                <a class="dropdown-item" href="charcoal.html">Charcoal, D-Lab</a>                
-              </div>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="updates.html">Updates</a>
-            </li>
-            <!-- <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Updates
-              </a>
-              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-                <a class="dropdown-item" href="blog-home-1.html">Blog Home 1</a>
-                <a class="dropdown-item" href="blog-home-2.html">Blog Home 2</a>
-                <a class="dropdown-item" href="blog-post.html">Blog Post</a>
-              </div>
-            </li> -->
-            <!-- <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Other Pages
-              </a>
-              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-                <a class="dropdown-item" href="full-width.html">Full Width Page</a>
-                <a class="dropdown-item" href="sidebar.html">Sidebar Page</a>
-                <a class="dropdown-item" href="faq.html">FAQ</a>
-                <a class="dropdown-item" href="404.html">404</a>
-                <a class="dropdown-item" href="pricing.html">Pricing Table</a>
-              </div>
-            </li> -->
-          </ul>
-        </div>
-      </div>
-    </nav>
+    <?php include('navigationBar.php'); ?>
 
 
     <!-- Page Content -->
     <div class="container">
 
       <!-- Page Heading/Breadcrumbs -->
-      <h1 class="mt-4 mb-3">Plastics
-        <small>Uganda</small>
+      <h1 class="mt-4 mb-3">Moringa Connect
+        <small>Ghana</small>
       </h1>
 
       <ol class="breadcrumb">
-        <!-- <li class="breadcrumb-item"> -->
-          <a href="index.html">Projects</a>
+        <li class="breadcrumb-item">
+          <a href="index.php">Projects</a>
         </li>
-        <li class="breadcrumb-item active">Plastics</li>
+        <li class="breadcrumb-item active">Moninga Connect</li>
       </ol>
 
       <!-- Intro Content -->
       <div class="row">
         <div class="col-lg-6">
-          <img class="img-fluid rounded mb-4" src="images/projects/plastics.jpg" alt="">
+          <img class="img-fluid rounded mb-4" src="images/projects/leaves.jpg" alt="">
         </div>
         <div class="col-lg-6">
           <h2>Project Description</h2>
-          It is common to find plastic bags scattered across the ground in developing communities, or for plastic waste to be burned with other trash (which can cause noxious fumes to be released). Our team worked to develop a method through which plastic waste could be melted down and then molded into household tools. We established partnerships with non-profit organizations in Kampala and Soroti, Uganda in hopes of proliferating these methods in the developing world.
+          After graduation, MIT alum Kwami Williams started his company MoringaConnect to bolster small-scale farmers in his native Accra, Ghana. MoringaConnect provides moringa seeds, fertilizer, and training to its farmers, and buys back the mature seeds and leaves. Oil is pressed from the seeds to produced beauty products, and the leaves are processed into teas. Both products offer extraordinary health benefits, and are shipped to customers around the world. </p>
+          <p> EWB served as consultants to MoringaConnect, and led research inquiries in multiple areas: processing line optimization and design, biological processes for eliminating bacteria on leaf surfaces, seed desheller machine design, and oil press methods. 
         </div>
       </div>
       <!-- /.row -->
@@ -188,12 +132,7 @@
     <!-- /.container -->
 
     <!-- Footer -->
-    <footer class="py-5 bg-dark">
-      <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2018</p>
-      </div>
-      <!-- /.container -->
-    </footer>
+    <?php include('footer.php'); ?>
 
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>

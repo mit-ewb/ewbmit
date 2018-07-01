@@ -25,7 +25,7 @@
   <body>
 
     <!-- Navigation -->
-    <?php include('navigationBar.html'); ?>
+    <?php include('navigationBar.php'); ?>
 
     <header>
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -90,7 +90,7 @@
               <p class="card-text">We're working on installing a solar powered-water pump in a Tanzanian village to help bring clean drinking water to the community.</p>
             </div>
             <div class="card-footer">
-              <a href="mkutani.html" class="btn btn-primary">Learn More</a>
+              <a href="mkutani.php" class="btn btn-primary">Learn More</a>
             </div>
           </div>
         </div>
@@ -105,7 +105,7 @@
               <p class="card-text">We helped Moringa Connect, a Ghanaian startup, improve techniques for processing native moringa plants into useful products. </p>
             </div>
             <div class="card-footer">
-              <a href="moringa.html" class="btn btn-primary">Learn More</a>
+              <a href="moringa.php" class="btn btn-primary">Learn More</a>
             </div>
           </div>
         </div>
@@ -120,7 +120,7 @@
               <p class="card-text">We combat plastic bag waste by reforming it into new materials.</p>
             </div>
             <div class="card-footer">
-              <a href="plastics.html" class="btn btn-primary">Learn More</a>
+              <a href="plastics.php" class="btn btn-primary">Learn More</a>
             </div>
           </div>
         </div>
@@ -180,12 +180,7 @@
     <!-- /.container -->
 
     <!-- Footer -->
-    <footer class="py-5 bg-dark">
-      <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; MIT EWB 2018</p>
-      </div>
-      <!-- /.container -->
-    </footer>
+    <?php include('footer.php'); ?>
 
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>

@@ -22,67 +22,11 @@
 
   <body>
 
-    <!-- Navigation -->
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
-      <div class="container">
-        <a class="navbar-brand" href="index.html"> <img src="images/ewb-logo.png" width="400px"></a>
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="about.html">About</a>
-            </li>
-            <!-- <li class="nav-item">
-              <a class="nav-link" href="services.html">Services</a>
-            </li> -->
-            <!-- <li class="nav-item">
-              <a class="nav-link" href="contact.html">Contact</a>
-            </li> -->
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Projects
-              </a>
-              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
-                <a class="dropdown-item" href="projects.html">All Projects</a>
-                <a class="dropdown-item" href="mkutani.html">Solar Pump, Tanzania</a>
-                <a class="dropdown-item" href="moringa.html">Moringa Connect, Ghana</a>
-                <a class="dropdown-item" href="plastics.html">Plastics, Uganda</a>
-                <a class="dropdown-item" href="charcoal.html">Charcoal, D-Lab</a> 
-              </div>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="updates.html">Updates</a>
-            </li>
-            <!-- <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Updates
-              </a>
-              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-                <a class="dropdown-item" href="blog-home-1.html">Blog Home 1</a>
-                <a class="dropdown-item" href="blog-home-2.html">Blog Home 2</a>
-                <a class="dropdown-item" href="blog-post.html">Blog Post</a>
-              </div>
-            </li> -->
-            <!-- <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Other Pages
-              </a>
-              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-                <a class="dropdown-item" href="full-width.html">Full Width Page</a>
-                <a class="dropdown-item" href="sidebar.html">Sidebar Page</a>
-                <a class="dropdown-item" href="faq.html">FAQ</a>
-                <a class="dropdown-item" href="404.html">404</a>
-                <a class="dropdown-item" href="pricing.html">Pricing Table</a>
-              </div>
-            </li> -->
-          </ul>
-        </div>
-      </div>
-    </nav>
+
+  <!-- Navigation -->
+  <?php include('navigationBar.html'); ?>
+
   </br>
-</br>
 
     <!-- Page Content -->
     <div class="container">
@@ -94,7 +38,7 @@
 
       <ol class="breadcrumb">
         <li class="breadcrumb-item">
-          <a href="index.html">Home</a>
+          <a href="index.php">Home</a>
         </li>
         <li class="breadcrumb-item active">Projects</li>
       </ol>
@@ -109,7 +53,7 @@
         <div class="col-md-5">
           <h3>Solar Pump, Tanzania</h3>
           <p>We are working to improve access to clean drinking water for the village of Mkutani, Tanzania. (Current) </p>
-          <a class="btn btn-primary" href="mkutani.html">View Project
+          <a class="btn btn-primary" href="mkutani.php">View Project
             <span class="glyphicon glyphicon-chevron-right"></span>
           </a>
         </div>
@@ -205,12 +149,7 @@
     <!-- /.container -->
 
     <!-- Footer -->
-    <footer class="py-5 bg-dark">
-      <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; MIT EWB 2018</p>
-      </div>
-      <!-- /.container -->
-    </footer>
+  <?php include('footer.php'); ?>
 
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
