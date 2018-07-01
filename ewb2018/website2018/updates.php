@@ -25,7 +25,7 @@
   <body>
 
     <!-- Navigation -->
-    <?php include('navigationBar.html'); ?>
+    <?php include('navigationBar.php'); ?>
 
 
     <!-- Page Content -->
@@ -57,7 +57,7 @@
               <p class="card-text">We've been working with the Boston Professional Chapter and the local Mkutani water organization to design a solar powered water pump that will be easier to use and more reliable than the current system.
                 Three of our members will be travelling to Mkutani to help install the pump this upcoming August 2018. Materials, labor, and travel are costly, so we are fundraising to make the trip possible. Please consider
                 <a href="https://crowdfund.mit.edu/project/10403"> donating to our fundraiser to help us out!</a></p>
-              <a href="#" class="btn btn-primary">Read More &rarr;</a>
+<!--              <a href="#" class="btn btn-primary">Read More &rarr;</a>-->
             </div>
           </div>
         </div>

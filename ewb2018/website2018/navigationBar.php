@@ -24,11 +24,14 @@
                         <a class="dropdown-item" href="mkutani.php">Solar Pump, Tanzania</a>
                         <a class="dropdown-item" href="moringa.php">Moringa Connect, Ghana</a>
                         <a class="dropdown-item" href="plastics.php">Plastics, Uganda</a>
-                        <a class="dropdown-item" href="charcoal.html">Charcoal, D-Lab</a>
+                        <a class="dropdown-item" href="charcoal.php">Charcoal, D-Lab</a>
                     </div>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="updates.php">Updates</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="getInvolved.php.php">Get Involved</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="https://crowdfund.mit.edu/project/10403">Donate</a>

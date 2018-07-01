@@ -71,10 +71,11 @@
     <!-- Page Content -->
     <div class="container">
       <div>
-        <br/>
         <img class="img-fluid rounded mb-4" src="images/ewb-logo.png" alt="">
       </div>
-      <h1 class="my-4">Welcome to MIT Engineers Without Borders!</h1>
+
+
+        <h1 class="my-4">Welcome to MIT Engineers Without Borders!</h1>
 
       <!-- Portfolio Section -->
       <h2>Our Projects</h2>
@@ -135,7 +136,7 @@
               <p class="card-text">We improve methods of creating charcoal briquetts to provide a cleaner cooking alternative for developing nations.</p>
             </div>
             <div class="card-footer">
-              <a href="charcoal.html" class="btn btn-primary">Learn More</a>
+              <a href="charcoal.php" class="btn btn-primary">Learn More</a>
             </div>
           </div>
         </div>
@@ -146,7 +147,7 @@
         </div>
       <!-- /.row -->
 
-      <!-- Features Section -->
+      <!-- Get Involved Section -->
       <div class="row">
         <div class="col-lg-6">
           <h2>Get Involved</h2>
@@ -165,7 +166,7 @@
       </div>
       <!-- /.row -->
 
-      <hr>
+
       <!-- Call to Action Section -->
       <!-- <div class="row mb-4">
         <div class="col-md-8">

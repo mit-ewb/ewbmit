@@ -24,7 +24,7 @@
 
 
   <!-- Navigation -->
-  <?php include('navigationBar.html'); ?>
+  <?php include('navigationBar.php'); ?>
 
   </br>
 
@@ -72,7 +72,7 @@
         <div class="col-md-5">
           <h3>Moringa Connect, Ghana</h3>
           <p>We work with a start-up in Ghana to bring a super food to more people.</p>
-          <a class="btn btn-primary" href="#">View Project
+          <a class="btn btn-primary" href="mkutani.php">View Project
             <span class="glyphicon glyphicon-chevron-right"></span>
           </a>
         </div>
@@ -91,7 +91,7 @@
         <div class="col-md-5">
           <h3>Plastics, Uganda</h3>
           <p>We combat plastic bag waste by reforming it into new materials. </p>
-          <a class="btn btn-primary" href="#">View Project
+          <a class="btn btn-primary" href="plastics.php">View Project
             <span class="glyphicon glyphicon-chevron-right"></span>
           </a>
         </div>
@@ -111,7 +111,7 @@
         <div class="col-md-5">
           <h3>Charcoal, D-Lab</h3>
           <p>We improve methods of creating charcoal briquetts to provide a cleaner cooking alternative for developing nations. </p>
-          <a class="btn btn-primary" href="#">View Project
+          <a class="btn btn-primary" href="charcoal.php">View Project
             <span class="glyphicon glyphicon-chevron-right"></span>
           </a>
         </div>

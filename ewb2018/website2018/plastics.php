@@ -25,7 +25,7 @@
   <body>
 
     <!-- Navigation -->
-    <?php include('navigationBar.html'); ?>
+    <?php include('navigationBar.php'); ?>
 
 
     <!-- Page Content -->
@@ -37,7 +37,7 @@
       </h1>
 
       <ol class="breadcrumb">
-        <!-- <li class="breadcrumb-item"> -->
+         <li class="breadcrumb-item">
           <a href="index.php">Projects</a>
         </li>
         <li class="breadcrumb-item active">Plastics</li>
