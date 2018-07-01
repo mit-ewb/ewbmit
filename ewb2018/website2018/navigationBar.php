@@ -31,7 +31,7 @@
                     <a class="nav-link" href="updates.php">Updates</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="getInvolved.php.php">Get Involved</a>
+                    <a class="nav-link" href="getInvolved.php">Get Involved</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="https://crowdfund.mit.edu/project/10403">Donate</a>
