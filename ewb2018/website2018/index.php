@@ -36,10 +36,10 @@
         </ol>
         <div class="carousel-inner" role="listbox">
           <!-- Slide One - Set the background image for this slide in the line below -->
-          <div class="carousel-item active" style="background-image: url('images/projects/mkutani1.jpg')">
+          <div class="carousel-item active" style="background-image: url('images/projects/borehole3.png')">
             <div class="carousel-caption d-none d-md-block">
               <h3>Making friends in Mkutani, Tanzania</h3>
-              <p>In January 2018, two of our members got the opportunity to travel to Tanzania to conduct an assessment trip and learn about the community's needs. </p>
+              <p>In January 2018, two of our members got the opportunity to travel to Tanzania to conduct an assessment trip and learn about the community's needs. Together, we will replace this unreliable pump with a solar-powered one. </p>
             </div>
           </div>
           <!-- Slide Two - Set the background image for this slide in the line below -->

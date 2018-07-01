@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8e86e1f-8fa6-49d2-b0d4-9727dd578870" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/ewb2018/website2018/navigationBar.php" beforeDir="false" afterPath="$PROJECT_DIR$/ewb2018/website2018/navigationBar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ewb2018/website2018/images/projects/river.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ewb2018/website2018/images/projects/river.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ewb2018/website2018/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/ewb2018/website2018/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,16 +19,16 @@
         <entry file="file://$PROJECT_DIR$/ewb2018/website2018/moringa.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="570">
-              <caret line="38" column="6" lean-forward="true" selection-start-line="38" selection-start-column="6" selection-end-line="43" selection-end-column="11" />
+              <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="43" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navigationBar.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="navigationBar.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ewb2018/website2018/navigationBar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="61" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+            <state relative-caret-position="375">
+              <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -62,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/ewb2018/website2018/updates.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="211">
-              <caret line="60" column="18" lean-forward="true" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
+              <caret line="60" column="18" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -71,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/ewb2018/website2018/getInvolved.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
-              <caret line="60" column="10" lean-forward="true" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
+              <caret line="60" column="10" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -79,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ewb2018/website2018/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="167" lean-forward="true" selection-start-line="167" selection-end-line="167" />
+            <state relative-caret-position="138">
+              <caret line="38" column="103" selection-start-line="38" selection-start-column="103" selection-end-line="38" selection-end-column="103" />
             </state>
           </provider>
         </entry>
@@ -92,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/ewb2018/website2018/about.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
-              <caret line="239" column="35" lean-forward="true" selection-start-line="239" selection-start-column="35" selection-end-line="239" selection-end-column="35" />
+              <caret line="239" column="35" selection-start-line="239" selection-start-column="35" selection-end-line="239" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -101,12 +103,17 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mkuta</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -124,9 +131,9 @@
         <option value="$PROJECT_DIR$/ewb2018/website2018/rammedEarth.php" />
         <option value="$PROJECT_DIR$/ewb2018/website2018/projects.php" />
         <option value="$PROJECT_DIR$/ewb2018/website2018/updates.php" />
-        <option value="$PROJECT_DIR$/ewb2018/website2018/index.php" />
         <option value="$PROJECT_DIR$/ewb2018/website2018/getInvolved.php" />
         <option value="$PROJECT_DIR$/ewb2018/website2018/navigationBar.php" />
+        <option value="$PROJECT_DIR$/ewb2018/website2018/index.php" />
       </list>
     </option>
   </component>
@@ -201,12 +208,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530393859674</updated>
-      <workItem from="1530393861764" duration="2503000" />
+      <workItem from="1530393861764" duration="3568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2503000" />
+    <option name="totallyTimeSpent" value="3568000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -264,7 +271,7 @@
     <entry file="file://$PROJECT_DIR$/ewb2018/website2018/moringa.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
-          <caret line="38" column="6" lean-forward="true" selection-start-line="38" selection-start-column="6" selection-end-line="43" selection-end-column="11" />
+          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="43" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -285,14 +292,14 @@
     <entry file="file://$PROJECT_DIR$/ewb2018/website2018/updates.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
-          <caret line="60" column="18" lean-forward="true" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
+          <caret line="60" column="18" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -306,21 +313,14 @@
     <entry file="file://$PROJECT_DIR$/ewb2018/website2018/about.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
-          <caret line="239" column="35" lean-forward="true" selection-start-line="239" selection-start-column="35" selection-end-line="239" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ewb2018/website2018/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="167" lean-forward="true" selection-start-line="167" selection-end-line="167" />
+          <caret line="239" column="35" selection-start-line="239" selection-start-column="35" selection-end-line="239" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ewb2018/website2018/getInvolved.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="60" column="10" lean-forward="true" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
+          <caret line="60" column="10" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -329,8 +329,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ewb2018/website2018/navigationBar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="61" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+        <state relative-caret-position="375">
+          <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewb2018/website2018/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="38" column="103" selection-start-line="38" selection-start-column="103" selection-end-line="38" selection-end-column="103" />
         </state>
       </provider>
     </entry>
