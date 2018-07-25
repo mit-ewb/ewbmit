@@ -34,7 +34,7 @@
                     <a class="nav-link" href="getInvolved.php">Get Involved</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://crowdfund.mit.edu/project/10403">Donate</a>
+                    <a class="nav-link" href="https://giving.mit.edu/give/to?fundId=2721177&source=WBMPP">Donate</a>
                 </li>
                 <!-- <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

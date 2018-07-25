@@ -155,7 +155,7 @@
           <ul>
             <li>Join us! We meet on Saturdays at 3pm in room 5-217. Check out our calendar for meeting times, social events, cool conferences, and more! </li>
             <li>Follow us on our <a href="https://www.facebook.com/ewbmit/?hc_ref=ARTD0Bo8IO8L0od1QSwuiDZ6O0QgwsM1KCevMMmD2Ffu0OPFzG112T98VwhQm0z8oH8&fref=nf"> facebook page</a>! Stay up to date on what we're doing, and spread the word to others. </li>
-            <li> <a href="https://crowdfund.mit.edu/project/10403"> Donate</a>. We can't get much done without funding, and every cent brings us closer to accomplishing our goals! Project costs include material costs, travel reimbursements, and community outreach events. </li>
+            <li> <a href="https://giving.mit.edu/give/to?fundId=2721177&source=WBMPP"> Donate</a>. We can't get much done without funding, and every cent brings us closer to accomplishing our goals! Project costs include material costs, travel reimbursements, and community outreach events. </li>
 
           </ul>
         </div>
