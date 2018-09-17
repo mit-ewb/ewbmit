@@ -166,12 +166,12 @@
         </div>
         <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
-            <img class="card-img-top" src="images/chealsea-watanabe.jpg" alt="">
+            <img class="card-img-top" src="images/abigail-frey.jpg" alt="">
             <div class="card-body">
               <h4 class="card-title">Abigail Frey</h4>
               <h5 class="card-title">Fundraising Lead</h5>
               <h6 class="card-subtitle mb-2 text-muted">Chemical-Biological Engineering | 2021</h6>
-              <p class="card-text">“No one can do everything, but everyone can do something.”</p>
+              <p class="card-text">“A problem is a chance for you to do your best.”</p>
             <div class="card-footer">
               <!-- <a href="#">name@example.com</a> -->
             </div>
