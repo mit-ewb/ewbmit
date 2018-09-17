@@ -58,7 +58,7 @@
       <h2>Meet Our Exec Board</h2>
 
       <div class="row">
-        <div class="col-lg-4 mb-4">
+        <!-- <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
             <img class="card-img-top" src="images/milani-chatterji-len.jpg" alt="">
             <div class="card-body">
@@ -68,16 +68,16 @@
               <p class="card-text">"It's better to know how to learn than to know."</p>
             </div>
             <div class="card-footer">
-              <!-- <a href="#">name@example.com</a> -->
+              <a href="#">name@example.com</a>
             </div>
           </div>
-        </div>
+        </div> -->
         <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
             <img class="card-img-top" src="images/vibha-agarwal.jpg" alt="">
             <div class="card-body">
               <h4 class="card-title">Vibha Agarwal</h4>
-              <h5 class="card-title">Technical Lead</h5>
+              <h5 class="card-title">President</h5>
               <h6 class="card-subtitle mb-2 text-muted">Electrical Engineering and Computer Science | 2020 </h6>
               <p class="card-text">"It always seems impossible until it's done."</p>
             </div>
@@ -100,10 +100,7 @@
           </div>
         </div>
       </div>
-    </div>
-      <!-- /.row -->
-      <div class="row">
-        <div class="col-lg-4 mb-4">
+      <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
             <img class="card-img-top" src="images/chris-eschler.jpg" alt="">
             <div class="card-body">
@@ -117,26 +114,30 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 mb-4">
+    </div>
+      <!-- /.row -->
+      <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
-            <img class="card-img-top" src="images/tofunmi-ogunfunmi.jpg" alt="">
+            <img class="card-img-top" src="images/amel-elawad.jpg" alt="">
             <div class="card-body">
-              <h4 class="card-title">Tofunmi Ogunfunmi</h4>
-              <h5 class="card-title">Treasurer</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Materials Science | 2019</h6>
-              <p class="card-text">"Time's fun when you're having flies."</p>
+              <h4 class="card-title">Amel Elawad</h4>
+              <h5 class="card-title">Secretary</h5>
+              <h6 class="card-subtitle mb-2 text-muted">Electrical Engineering and Physics | 2021</h6>
+              <p class="card-text">“You learn the most about yourself in practice, not in theory.”</p>
             </div>
             <div class="card-footer">
               <!-- <a href="#">name@example.com</a> -->
             </div>
           </div>
         </div>
+
+      <div class="row">
         <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
             <img class="card-img-top" src="images/kaleigh-hunt.jpg" alt="">
             <div class="card-body">
               <h4 class="card-title">Kaleigh Hunt</h4>
-              <h5 class="card-title">Liason to Boston Professional Chapter</h5>
+              <h5 class="card-title">Treasurer</h5>
               <h6 class="card-subtitle mb-2 text-muted">Chemical Engineering | 2020</h6>
               <p class="card-text">"Don't sweat the petty things, and don't pet the sweaty things."</p>
             <div class="card-footer">
@@ -146,28 +147,15 @@
         </div>
       </div>
     </div>
+
       <!-- /.row -->
       <div class="row">
-        <div class="col-lg-4 mb-4">
-          <div class="card h-100 text-center">
-            <img class="card-img-top" src="images/amel-elawad.jpg" alt="">
-            <div class="card-body">
-              <h4 class="card-title">Amel Elawad</h4>
-              <h5 class="card-title">Liason to Harvard Chapter</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Electrical Engineering and Physics | 2021</h6>
-              <p class="card-text">“You learn the most about yourself in practice, not in theory.”</p>
-            </div>
-            <div class="card-footer">
-              <!-- <a href="#">name@example.com</a> -->
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 mb-4">
+          <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
             <img class="card-img-top" src="images/valerie-muldoon.jpg" alt="">
             <div class="card-body">
               <h4 class="card-title">Valerie Muldoon</h4>
-              <h5 class="card-title">Publicity Chair</h5>
+              <h5 class="card-title">Communications Officer</h5>
               <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2020</h6>
               <p class="card-text">“Hope that you spend your days, but they all add up.”</p>
             </div>
@@ -180,9 +168,9 @@
           <div class="card h-100 text-center">
             <img class="card-img-top" src="images/chealsea-watanabe.jpg" alt="">
             <div class="card-body">
-              <h4 class="card-title">Chelsea Watanabe</h4>
-              <h5 class="card-title">Social Chair</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2021</h6>
+              <h4 class="card-title">Abigail Frey</h4>
+              <h5 class="card-title">Fundraising Lead</h5>
+              <h6 class="card-subtitle mb-2 text-muted">Chemical-Biological Engineering | 2021</h6>
               <p class="card-text">“No one can do everything, but everyone can do something.”</p>
             <div class="card-footer">
               <!-- <a href="#">name@example.com</a> -->
