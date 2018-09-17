@@ -116,6 +116,8 @@
         </div>
     </div>
       <!-- /.row -->
+
+    <div class="row">
       <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
             <img class="card-img-top" src="images/amel-elawad.jpg" alt="">
@@ -131,7 +133,7 @@
           </div>
         </div>
 
-      <div class="row">
+      
         <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
             <img class="card-img-top" src="images/kaleigh-hunt.jpg" alt="">
@@ -146,11 +148,7 @@
           </div>
         </div>
       </div>
-    </div>
-
-      <!-- /.row -->
-      <div class="row">
-          <div class="col-lg-4 mb-4">
+      <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
             <img class="card-img-top" src="images/valerie-muldoon.jpg" alt="">
             <div class="card-body">
@@ -164,6 +162,12 @@
             </div>
           </div>
         </div>
+    
+    </div>
+      <!-- /.row -->
+    
+      <div class="row">
+          
         <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
             <img class="card-img-top" src="images/abigail-frey.jpg" alt="">
