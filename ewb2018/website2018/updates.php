@@ -73,7 +73,7 @@
           <div class="row">
             <div class="col-lg-6">
               <a href="#">
-                <img class="img-fluid rounded" src="images/projects/river.jpg" width="750px" alt="">
+                <img class="img-fluid rounded" src="images/projects/mkutani_assessment1.jpg" width="750px" alt="">
               </a>
             </div>
             <div class="col-lg-6">
