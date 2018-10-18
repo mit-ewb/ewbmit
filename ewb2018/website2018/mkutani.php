@@ -46,7 +46,7 @@
       <!-- Intro Content -->
       <div class="row">
         <div class="col-lg-6">
-          <img class="img-fluid rounded mb-4" src="images/projects/mkutani1.jpg" alt="">
+          <img class="img-fluid rounded mb-4" src="images/projects/mkutani2.jpg" alt="">
         </div>
         <div class="col-lg-6">
           <h2>Project Description</h2>
