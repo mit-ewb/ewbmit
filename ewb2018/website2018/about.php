@@ -88,18 +88,18 @@
         </div>
         <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
-            <img class="card-img-top" src="images/rahma-zakaria.jpg" alt="">
+            <img class="card-img-top" src="images/liam_herndon.jpg" alt="">
             <div class="card-body">
-              <h4 class="card-title">Rahma Zakaria</h4>
+              <h4 class="card-title">Liam Herndon</h4>
               <h5 class="card-title">Program Manager</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Biological Engineering | 2019</h6>
-              <p class="card-text">"Run from what's comfortable."</p>
+              <h6 class="card-subtitle mb-2 text-muted">Chemical-Biological Engineering | 2021</h6>
+              <p class="card-text">"Don't worry, I'm sure you'll be fine. But eventually everyone runs out of time."</p>
+            </div>
             <div class="card-footer">
               <!-- <a href="#">name@example.com</a> -->
             </div>
           </div>
         </div>
-      </div>
       <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
             <img class="card-img-top" src="images/chris-eschler.jpg" alt="">
@@ -120,12 +120,12 @@
     <div class="row">
       <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
-            <img class="card-img-top" src="images/amel-elawad.jpg" alt="">
+            <img class="card-img-top" src="images/NoPhoto2.jpg" alt="">
             <div class="card-body">
-              <h4 class="card-title">Amel Elawad</h4>
+              <h4 class="card-title">Diego Monroy</h4>
               <h5 class="card-title">Secretary</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Electrical Engineering and Physics | 2021</h6>
-              <p class="card-text">“You learn the most about yourself in practice, not in theory.”</p>
+              <h6 class="card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2021</h6>
+              <p class="card-text"></p>
             </div>
             <div class="card-footer">
               <!-- <a href="#">name@example.com</a> -->
@@ -142,12 +142,12 @@
               <h5 class="card-title">Treasurer</h5>
               <h6 class="card-subtitle mb-2 text-muted">Chemical Engineering | 2020</h6>
               <p class="card-text">"Don't sweat the petty things, and don't pet the sweaty things."</p>
+            </div>
             <div class="card-footer">
               <!-- <a href="#">name@example.com</a> -->
             </div>
           </div>
         </div>
-      </div>
       <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
             <img class="card-img-top" src="images/valerie-muldoon.jpg" alt="">
@@ -155,7 +155,7 @@
               <h4 class="card-title">Valerie Muldoon</h4>
               <h5 class="card-title">Communications Officer</h5>
               <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2020</h6>
-              <p class="card-text">“Hope that you spend your days, but they all add up.”</p>
+              <p class="card-text">"Problems are not stop signs; they are guidelines.”</p>
             </div>
             <div class="card-footer">
               <!-- <a href="#">name@example.com</a> -->
@@ -176,17 +176,44 @@
               <h5 class="card-title">Fundraising Lead</h5>
               <h6 class="card-subtitle mb-2 text-muted">Chemical-Biological Engineering | 2021</h6>
               <p class="card-text">“A problem is a chance for you to do your best.”</p>
+            </div>
             <div class="card-footer">
               <!-- <a href="#">name@example.com</a> -->
             </div>
           </div>
         </div>
-      </div>
-    </div>
+          <div class="col-lg-4 mb-4">
+              <div class="card h-100 text-center">
+                  <img class="card-img-top" src="images/selma_sharaf.png" alt="">
+                  <div class="card-body">
+                      <h4 class="card-title">Selma Sharaf</h4>
+                      <h5 class="card-title">Webmaster</h5>
+                      <h6 class=" card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2022</h6>
+                      <p class="card-text">"Don't stress the could haves. If it should have, it would have."</p>
+                   </div>
+                   <div class="card-footer">
+                          <!-- <a href="#">name@example.com</a> -->
+                      </div>
+                  </div>
+              </div>
+          <div class="col-lg-4 mb-4">
+              <div class="card h-100 text-center">
+                  <img class="card-img-top" src="images/NoPhoto1.jpg" alt="">
+                  <div class="card-body">
+                      <h4 class="card-title">Yu Jing Chen</h4>
+                      <h5 class="card-title">External Relations Chair</h5>
+                      <h6 class="card-subtitle mb-2 text-muted"> 2022</h6>
+                      <p class="card-text"> </p>
+                  </div>
+                  <div class="card-footer">
+                          <!-- <a href="#">name@example.com</a> -->
+                      </div>
+                  </div>
+              </div>
       <!-- /.row -->
 
       <!-- Our Customers -->
-      <h2>Meet the Members</h2>
+      <div> <h2>Meet the Members</h2>
       <div class="row">
         <div class="col-lg-4 mb-4">
           <div class="card h-100">
@@ -204,6 +231,7 @@
           </div>
         </div>
       </div>
+
       <!-- /.row -->
       <div class="row">
         <div class="col-lg-4 mb-4">
@@ -222,6 +250,7 @@
           </div>
         </div>
       </div>
+
       <!-- /.row -->
       <div class="row">
         <div class="col-lg-4 mb-4">
