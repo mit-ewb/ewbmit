@@ -120,7 +120,7 @@
     <div class="row">
       <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
-            <img class="card-img-top" src="images/NoPhoto2.jpg" alt="">
+            <img class="card-img-top" src="images/DiegoMonroy.png" alt="">
             <div class="card-body">
               <h4 class="card-title">Diego Monroy</h4>
               <h5 class="card-title">Secretary</h5>
@@ -184,36 +184,52 @@
         </div>
           <div class="col-lg-4 mb-4">
               <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/selma_sharaf.png" alt="">
+                  <img class="card-img-top" src="images/selma_sharaf%20copy.png" alt="">
                   <div class="card-body">
                       <h4 class="card-title">Selma Sharaf</h4>
                       <h5 class="card-title">Webmaster</h5>
                       <h6 class=" card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2022</h6>
                       <p class="card-text">"Don't stress the could haves. If it should have, it would have."</p>
-                   </div>
-                   <div class="card-footer">
-                          <!-- <a href="#">name@example.com</a> -->
-                      </div>
-                  </div>
-              </div>
-          <div class="col-lg-4 mb-4">
-              <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/NoPhoto1.jpg" alt="">
-                  <div class="card-body">
-                      <h4 class="card-title">Yu Jing Chen</h4>
-                      <h5 class="card-title">External Relations Chair</h5>
-                      <h6 class="card-subtitle mb-2 text-muted"> 2022</h6>
-                      <p class="card-text"> </p>
                   </div>
                   <div class="card-footer">
-                          <!-- <a href="#">name@example.com</a> -->
-                      </div>
+                      <!-- <a href="#">name@example.com</a> -->
                   </div>
               </div>
-      <!-- /.row -->
+          </div>
+  <div class="col-lg-4 mb-4">
+      <div class="card h-100 text-center">
+          <img class="card-img-top" src="images/milani-chatterji-len%20sized.jpg" alt="">
+          <div class="card-body">
+              <h4 class="card-title">Milani Chatterji-Len</h4>
+              <h5 class="card-title">Club Representative</h5>
+              <h6 class=" card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2019</h6>
+              <!--<p class="card-text"></p-->
+          </div>
+          <div class="card-footer">
+              <!-- <a href="#">name@example.com</a> -->
+          </div>
+      </div>
+  </div>
+  <!-- /.row -->
 
-      <!-- Our Customers -->
-      <div> <h2>Meet the Members</h2>
+  <div class="col-lg-4 mb-4">
+      <div class="card h-100 text-center">
+          <img class="card-img-top" src="images/NoPhoto1.jpg" alt="">
+          <div class="card-body">
+              <h4 class="card-title">Yu Jing Chen</h4>
+              <h5 class="card-title">External Relations Chair</h5>
+              <h6 class="card-subtitle mb-2 text-muted"> 2022</h6>
+              <p class="card-text"> </p>
+          </div>
+          <div class="card-footer">
+              <!-- <a href="#">name@example.com</a> -->
+          </div>
+      </div>
+  </div>
+  <!-- /.row -->
+
+      <!-- Our Customers
+      <!<div> <h2>Meet the Members</h2>
       <div class="row">
         <div class="col-lg-4 mb-4">
           <div class="card h-100">
@@ -230,10 +246,10 @@
             <h4 class="card-header">Diana Estrada | Civil Engineering | 2018</h4>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <!-- /.row -->
-      <div class="row">
+      <!-- <div class="row">
         <div class="col-lg-4 mb-4">
           <div class="card h-100">
             <h4 class="card-header">Abigail Frey | Biological-Chemical Engineering | 2021</h4>
@@ -249,10 +265,10 @@
             <h4 class="card-header">Haley Higginbotham | Biological Engineering | 2021</h4>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <!-- /.row -->
-      <div class="row">
+      <!-- <div class="row">
         <div class="col-lg-4 mb-4">
           <div class="card h-100">
             <h4 class="card-header">Zoe Levitt | Mathematics | 2021</h4>
@@ -268,7 +284,7 @@
             <h4 class="card-header">Luis Terrones-Verastegui | Electrical Engineering and Computer Science | 2020</h4>
           </div>
         </div>
-      </div>
+      </div> -->
       <!-- /.row -->
 
     </div>
