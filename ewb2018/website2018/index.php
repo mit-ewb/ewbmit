@@ -33,29 +33,41 @@
           <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+           <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+           <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
         </ol>
         <div class="carousel-inner" role="listbox">
           <!-- Slide One - Set the background image for this slide in the line below -->
-          <div class="carousel-item active" style="background-image: url('images/projects/borehole3.png')">
+          <div class="carousel-item active" style="background-image: url('images/banner1.jpg')">
             <div class="carousel-caption d-none d-md-block">
               <h3>Making friends in Mkutani, Tanzania</h3>
               <p>In January 2018, two of our members got the opportunity to travel to Tanzania to conduct an assessment trip and learn about the community's needs. Together, we will replace this unreliable pump with a solar-powered one. </p>
             </div>
           </div>
           <!-- Slide Two - Set the background image for this slide in the line below -->
-          <div class="carousel-item" style="background-image: url('images/projects/river.jpg')">
+          <div class="carousel-item" style="background-image: url('images/banner5.jpg')">
             <div class="carousel-caption d-none d-md-block">
               <h3>Goal: Clean Drinking Water</h3>
-              <p>This is what the nearest river to Mkutani looks like. Current filtration techniques aren't enough to rid the water of harmful bacteria, so another source must be utilized. </p>
+              <p>Current filtration techniques aren't enough to rid the Mkutani water of harmful bacteria, so another source must be utilized. </p>
             </div>
           </div>
           <!-- Slide Three - Set the background image for this slide in the line below -->
-          <div class="carousel-item" style="background-image: url('images/projects/moringa2.jpg')">
+          <div class="carousel-item" style="background-image: url('images/banner3.jpg')">
             <div class="carousel-caption d-none d-md-block">
-              <h3>Moringa</h3>
-              <p>In the past, one of our members went to Ghana to help process moringa leaves and assess how we could improve the methods. </p>
+              <!-- <h3>Moringa</h3>
+              <p>In the past, one of our members went to Ghana to help process moringa leaves and assess how we could improve the methods. </p> -->
             </div>
           </div>
+          <!-- Slide Four - Set the background image for this slide in the line below -->
+          <div class="carousel-item" style="background-image: url('images/banner2.jpg')">
+              <div class="carousel-caption d-none d-md-block">
+              </div>
+      </div>
+        <!-- Slide Five - Set the background image for this slide in the line below -->
+        <div class="carousel-item" style="background-image: url('images/banner4.jpg')">
+            <div class="carousel-caption d-none d-md-block">
+            </div>
+        </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -70,12 +82,13 @@
 
     <!-- Page Content -->
     <div class="container">
+<br>
       <div>
         <img class="img-fluid rounded mb-4" src="images/ewb-logo.png" alt="">
       </div>
 
 
-        <h1 class="my-4">Welcome to MIT Engineers Without Borders!</h1>
+       <!-- <h1 class="my-4">Welcome to MIT Engineers Without Borders!</h1> -->
 
       <!-- Portfolio Section -->
       <h2>Our Projects</h2>
