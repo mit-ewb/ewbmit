@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ba40f40-6c07-44c8-ab97-23e379480c59" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/newsletter.php" beforeDir="false" afterPath="$PROJECT_DIR$/newsletter.php" afterDir="false" />
-    </list>
+    <list default="true" id="2ba40f40-6c07-44c8-ab97-23e379480c59" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/newsletter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
-              <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+            <state relative-caret-position="360">
+              <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -113,8 +111,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-50" />
-    <option name="y" value="23" />
+    <option name="x" value="13" />
+    <option name="y" value="226" />
     <option name="width" value="1400" />
     <option name="height" value="777" />
   </component>
@@ -176,12 +174,12 @@
       <workItem from="1547766153042" duration="2917000" />
       <workItem from="1552168404617" duration="1068000" />
       <workItem from="1554081966922" duration="1880000" />
-      <workItem from="1554411513044" duration="3154000" />
+      <workItem from="1554411513044" duration="3232000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17602000" />
+    <option name="totallyTimeSpent" value="17680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-50" y="23" width="1400" height="777" extended-state="0" />
@@ -272,8 +270,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/newsletter.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+        <state relative-caret-position="360">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
         </state>
       </provider>
     </entry>
