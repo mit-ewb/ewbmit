@@ -1,4 +1,4 @@
-<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
+<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light fixed-top">
     <div class="container">
         <a class="navbar-brand" href="index.php"> <img src="images/ewb-logo.png" width="200px"> </a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -38,6 +38,9 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="https://giving.mit.edu/give/to?fundId=2721177&source=WBMPP">Donate</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="gallery.php">Gallery</a>
                 </li>
                 <!-- <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

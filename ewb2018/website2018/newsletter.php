@@ -45,5 +45,19 @@
           <iframe width="1000" height="500" src="EWB%20Newsletter-%20final%20draft.pdf" </iframe>
           <!--<img class="img-fluid rounded mb-4" src="images/projects/mkutani1.jpg" alt="">-->
         </div>
+      </div>
 
-      <!-- /.row -->
+        <!-- /.row -->
+
+<!-- Footer -->
+<?php include('footer.php'); ?>
+
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
+
+
