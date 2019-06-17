@@ -37,7 +37,7 @@
                     <a class="nav-link" href="newsletter.php">Newsletter</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://giving.mit.edu/give/to?fundId=2721177&source=WBMPP">Donate</a>
+                    <a class="nav-link" href="https://www.gofundme.com/MITEWB">Donate</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="gallery.php">Gallery</a>
@@ -64,6 +64,7 @@
                     <a class="dropdown-item" href="pricing.html">Pricing Table</a>
                   </div>
                 </li> -->
+            <!--oldlink: https://giving.mit.edu/give/to?fundId=2721177&source=WBMPP -->
             </ul>
         </div>
     </div>
