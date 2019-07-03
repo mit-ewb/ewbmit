@@ -42,10 +42,11 @@
       <!-- Intro Content -->
       <div class="row">
         <div class="col-lg-6">
-          <iframe width="1000" height="500" src="EWB%20Newsletter-%20final%20draft.pdf" </iframe>
+          <iframe width="1000" height="500" "EWB%20Newsletter-%20final%20draft.pdf" ></iframe>
           <!--<img class="img-fluid rounded mb-4" src="images/projects/mkutani1.jpg" alt="">-->
         </div>
-      </div>
+        </div>
+        </div>
 
         <!-- /.row -->
 

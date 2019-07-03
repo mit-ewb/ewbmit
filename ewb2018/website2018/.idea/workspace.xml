@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2ba40f40-6c07-44c8-ab97-23e379480c59" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getInvolved.php" beforeDir="false" afterPath="$PROJECT_DIR$/getInvolved.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navigationBar.php" beforeDir="false" afterPath="$PROJECT_DIR$/navigationBar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newsletter.php" beforeDir="false" afterPath="$PROJECT_DIR$/newsletter.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,20 +36,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/newsletter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="404">
+              <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/getInvolved.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="53" column="14" lean-forward="true" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+            <state relative-caret-position="608">
+              <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -77,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/mkutani.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2145">
-              <caret line="143" column="7" lean-forward="true" selection-start-line="134" selection-start-column="1" selection-end-line="143" selection-end-column="7" />
+              <caret line="143" column="7" selection-start-line="134" selection-start-column="1" selection-end-line="143" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -95,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/navigationBar.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="555">
-              <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -131,15 +130,15 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/gallery.php" />
-        <option value="$PROJECT_DIR$/newsletter.php" />
         <option value="$PROJECT_DIR$/navigationBar.php" />
         <option value="$PROJECT_DIR$/getInvolved.php" />
+        <option value="$PROJECT_DIR$/newsletter.php" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="40" />
-    <option name="y" value="70" />
+    <option name="y" value="63" />
     <option name="width" value="1400" />
     <option name="height" value="777" />
   </component>
@@ -205,17 +204,18 @@
       <workItem from="1554417611504" duration="120000" />
       <workItem from="1560543655736" duration="5703000" />
       <workItem from="1560797911085" duration="190000" />
+      <workItem from="1562188889754" duration="587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24366000" />
+    <option name="totallyTimeSpent" value="24953000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="70" width="1400" height="777" extended-state="0" />
+    <frame x="40" y="63" width="1400" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4948905" visible="true" weight="0.29970545" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4948905" visible="true" weight="0.3041237" />
       <window_info id="Structure" order="1" sideWeight="0.5051095" side_tool="true" weight="0.2952872" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -285,10 +285,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/charcoal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mkutani.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2145">
-          <caret line="143" column="7" lean-forward="true" selection-start-line="134" selection-start-column="1" selection-end-line="143" selection-end-column="7" />
+          <caret line="143" column="7" selection-start-line="134" selection-start-column="1" selection-end-line="143" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -296,6 +303,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2355">
           <caret line="157" column="37" selection-start-line="157" selection-start-column="37" selection-end-line="157" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navigationBar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -309,31 +323,17 @@
     <entry file="file://$PROJECT_DIR$/moringa.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/newsletter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charcoal.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/navigationBar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/getInvolved.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="14" lean-forward="true" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+        <state relative-caret-position="608">
+          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newsletter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
         </state>
       </provider>
     </entry>
