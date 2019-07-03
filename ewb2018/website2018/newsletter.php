@@ -23,7 +23,7 @@
   <body>
 
   <!-- Navigation -->
-  <?php include('navigationBar.php'); ?>
+  <?php include('navigationBar.php'); ?> 
 
     <!-- Page Content -->
     <div class="container">
