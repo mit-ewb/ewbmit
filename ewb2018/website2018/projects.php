@@ -72,7 +72,7 @@
         <div class="col-md-5">
           <h3>Moringa Connect, Ghana</h3>
           <p>We work with a start-up in Ghana to bring a super food to more people.</p>
-          <a class="btn btn-primary" href="mkutani.php">View Project
+          <a class="btn btn-primary" href="moringa.php">View Project
             <span class="glyphicon glyphicon-chevron-right"></span>
           </a>
         </div>
@@ -121,7 +121,7 @@
       <hr>
 
       <!-- Pagination -->
-      <ul class="pagination justify-content-center">
+      <!-- <ul class="pagination justify-content-center">
         <li class="page-item">
           <a class="page-link" href="#" aria-label="Previous">
             <span aria-hidden="true">&laquo;</span>
@@ -143,7 +143,7 @@
             <span class="sr-only">Next</span>
           </a>
         </li>
-      </ul>
+      </ul> -->
 
     </div>
     <!-- /.container -->
