@@ -96,7 +96,7 @@
       <div class="row">
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="images/projects/mkutani1.jpg" alt=""></a>
+            <a href="#"><img class="card-img-top" src="images/projects/mkutani1.jpg" height="200" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
                 <a href="#">Solar Pump, Tanzania</a>
@@ -111,7 +111,7 @@
 
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="images/projects/moringa.png" alt=""></a>
+            <a href="#"><img class="card-img-top" src="images/projects/moringa.png" height="200" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
                 <a href="#">Moringa Connect, Ghana (Past)</a>
@@ -126,7 +126,7 @@
 
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="images/projects/plastics.jpg" alt=""></a>
+            <a href="#"><img class="card-img-top" src="images/projects/plastics.jpg" height="200" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
                 <a href="#">Plastics, Uganda (Past)</a>
@@ -141,7 +141,7 @@
 
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="images/projects/plastics.png" alt=""></a>
+            <a href="#"><img class="card-img-top" src="images/projects/plastics.png" height="200" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
                 <a href="#">Charcoal, D-Lab (Past)</a>

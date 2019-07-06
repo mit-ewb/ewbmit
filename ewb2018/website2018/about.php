@@ -153,7 +153,7 @@
             <img class="card-img-top" src="images/valerie-muldoon.jpg" alt="">
             <div class="card-body">
               <h4 class="card-title">Valerie Muldoon</h4>
-              <h5 class="card-title">Communications Officer</h5>
+              <h5 class="card-title">External Relations Chair</h5>
               <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2020</h6>
               <p class="card-text">"Problems are not stop signs; they are guidelines.”</p>
             </div>
@@ -196,36 +196,37 @@
                   </div>
               </div>
           </div>
-  <div class="col-lg-4 mb-4">
-      <div class="card h-100 text-center">
-          <img class="card-img-top" src="images/milani-chatterji-len%20sized.jpg" alt="">
-          <div class="card-body">
-              <h4 class="card-title">Milani Chatterji-Len</h4>
-              <h5 class="card-title">Club Representative</h5>
-              <h6 class=" card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2019</h6>
-              <!--<p class="card-text"></p-->
+          <div class="col-lg-4 mb-4">
+              <div class="card h-100 text-center">
+                  <img class="card-img-top" src="images/NoPhoto1.jpg" alt="">
+                  <div class="card-body">
+                      <h4 class="card-title">Yu Jing Chen</h4>
+                      <h5 class="card-title">Social Chair</h5>
+                      <h6 class="card-subtitle mb-2 text-muted"> 2022</h6>
+                      <p class="card-text"> </p>
+                  </div>
+                  <div class="card-footer">
+                      <!-- <a href="#">name@example.com</a> -->
+                  </div>
+              </div>
           </div>
-          <div class="card-footer">
-              <!-- <a href="#">name@example.com</a> -->
-          </div>
-      </div>
-  </div>
   <!-- /.row -->
 
-  <div class="col-lg-4 mb-4">
-      <div class="card h-100 text-center">
-          <img class="card-img-top" src="images/NoPhoto1.jpg" alt="">
-          <div class="card-body">
-              <h4 class="card-title">Yu Jing Chen</h4>
-              <h5 class="card-title">External Relations Chair</h5>
-              <h6 class="card-subtitle mb-2 text-muted"> 2022</h6>
-              <p class="card-text"> </p>
+          <div class="col-lg-4 mb-4">
+              <div class="card h-100 text-center">
+                  <img class="card-img-top" src="images/milani-chatterji-len%20sized.jpg" alt="">
+                  <div class="card-body">
+                      <h4 class="card-title">Milani Chatterji-Len</h4>
+                      <h5 class="card-title">Club Representative</h5>
+                      <h6 class=" card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2019</h6>
+                      <!--<p class="card-text"></p-->
+                  </div>
+                  <div class="card-footer">
+                      <!-- <a href="#">name@example.com</a> -->
+                  </div>
+              </div>
           </div>
-          <div class="card-footer">
-              <!-- <a href="#">name@example.com</a> -->
-          </div>
-      </div>
-  </div>
+
   <!-- /.row -->
 
       <!-- Our Customers

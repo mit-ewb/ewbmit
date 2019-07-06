@@ -105,7 +105,7 @@
 
         <div class="col-md-7">
           <a href="#">
-            <img class="img-fluid rounded mb-3 mb-md-0" src="images/projects/charcoal-1.png" alt="">
+            <img class="img-fluid rounded mb-3 mb-md-0" src="images/projects/charcoal-1.png" width="700" alt="">
           </a>
         </div>
         <div class="col-md-5">
