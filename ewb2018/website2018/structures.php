@@ -50,7 +50,7 @@
         </div>
         <div class="col-lg-6">
           <h2>Project Description</h2>
-          <p>We are planning to build additional schoolrooms in the current schoolhouse in Mkutani. Harvard built the schoolhouse in May/June 2018. The idea of building additional schoolrooms came up during their May/June 2018 trip and was identified as a top 5 priority for the community.</p>
+          <p>We are planning to build additional schoolrooms in the current schoolhouse in Mkutani. Harvard built the schoolhouse in May/June 2018, and building additional schoolrooms was identified as a top 5 priority for the community.</p>
         </div>
       </div>
       <!-- /.row -->
