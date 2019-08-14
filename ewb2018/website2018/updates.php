@@ -32,7 +32,7 @@
     <div class="container">
 
       <!-- Page Heading/Breadcrumbs -->
-      <h1 class="mt-4 mb-3">Updates
+      <h1 class="mt-4 mb-3">Blog
         <small>what we've been up to</small>
       </h1>
 

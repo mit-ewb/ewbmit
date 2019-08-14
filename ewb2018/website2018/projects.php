@@ -43,6 +43,44 @@
         <li class="breadcrumb-item active">Projects</li>
       </ol>
 
+        <!-- Project -3 -->
+        <div class="row">
+            <div class="col-md-7">
+                <a href="#">
+                    <img class="img-fluid rounded mb-3 mb-md-0" src="images/gallery2.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-md-5">
+                <h3>Structures, Tanzania</h3>
+                <p>We are building additional schoolrooms to serve the young students in Mkutani. (Current) </p>
+                <a class="btn btn-primary" href="structures.php">View Project
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                </a>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
+
+        <!-- Project -2 -->
+        <div class="row">
+            <div class="col-md-7">
+                <a href="#">
+                    <img class="img-fluid rounded mb-3 mb-md-0" src="images/gallery0.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-md-5">
+                <h3>Female Sanitation, Tanzania</h3>
+                <p>We are working to tackle female sanitation issues that have been brought up during past trips to Mkutani. (Current) </p>
+                <a class="btn btn-primary" href="sanitation.php">View Project
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                </a>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
+
         <!-- Project -1 -->
         <div class="row">
             <div class="col-md-7">
@@ -53,7 +91,7 @@
             <div class="col-md-5">
                 <h3>Local Projects, US</h3>
                 <p>We are working to impact our local community. (Current) </p>
-                <a class="btn btn-primary" href="manual.php">View Project
+                <a class="btn btn-primary" href="local.php">View Project
                     <span class="glyphicon glyphicon-chevron-right"></span>
                 </a>
             </div>

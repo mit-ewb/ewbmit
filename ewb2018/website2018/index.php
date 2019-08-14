@@ -96,6 +96,36 @@
         <div class="row">
             <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
+                    <a href="#"><img class="card-img-top" src="images/gallery2.jpg" height="200" alt=""></a>
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            <a href="#">Structures, Tanzania</a>
+                        </h4>
+                        <p class="card-text">We're building additional schoolrooms in Mkutani.</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="structures.php" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-6 portfolio-item">
+                <div class="card h-100">
+                    <a href="#"><img class="card-img-top" src="images/gallery0.jpg" height="200" alt=""></a>
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            <a href="#">Female Sanitation, Tanzania</a>
+                        </h4>
+                        <p class="card-text">We're investigating ways to reduce female sanitation issues and mitigate their negative impacts on schoolgirls.</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="sanitation.php" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-6 portfolio-item">
+                <div class="card h-100">
                     <a href="#"><img class="card-img-top" src="images/localprojects.jpg" height="200" alt=""></a>
                     <div class="card-body">
                         <h4 class="card-title">
@@ -104,7 +134,7 @@
                         <p class="card-text">We're extending our outreach to our local community.</p>
                     </div>
                     <div class="card-footer">
-                        <a href="mkutani.php" class="btn btn-primary">Learn More</a>
+                        <a href="local.php" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -119,7 +149,7 @@
                         <p class="card-text">We're creating a manual and workshops to support locals in troubleshooting solar pumps.</p>
                     </div>
                     <div class="card-footer">
-                        <a href="mkutani.php" class="btn btn-primary">Learn More</a>
+                        <a href="manual.php" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>

@@ -32,7 +32,7 @@
     <div class="container">
 
       <!-- Page Heading/Breadcrumbs -->
-      <h1 class="mt-4 mb-3">Solar Pump
+      <h1 class="mt-4 mb-3">Female Sanitation
         <small>Mkutani, Tanzania</small>
       </h1>
 
@@ -40,18 +40,17 @@
         <li class="breadcrumb-item">
           <a href="index.php">Projects</a>
         </li>
-        <li class="breadcrumb-item active">Solar Pump</li>
+        <li class="breadcrumb-item active">Female Sanitation</li>
       </ol>
 
       <!-- Intro Content -->
       <div class="row">
         <div class="col-lg-6">
-          <img class="img-fluid rounded mb-4" src="images/projects/mkutani2.jpg" alt="">
+          <img class="img-fluid rounded mb-4" src="images/gallery0.jpg" alt="">
         </div>
         <div class="col-lg-6">
           <h2>Project Description</h2>
-          <p>Our current project is based in a village of 3000 people outside of Dodoma, Tanzania. The village, Mkutani, lacks access to clean drinking water. Currently residents can access water from a polluted river nearby, expensive prepackaged bottles, or a borehole over 2 km away with a frequently-broken hand pump. </p>
-          <p>Our long term goal is to provide a convenient, reliable source of water to Mkutani villagers. To do so, we will install a solar-powered pump system to replace the current hand pump, which is difficult to operate and not robust. In the long term, we will build a distribution system to bring water distribution points closer to the village. </p>
+          <p>We are working with local contacts in Tanzania to investigate ways to address needs expressed by the women in Mkutani.</p>
         </div>
       </div>
       <!-- /.row -->
