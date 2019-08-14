@@ -91,9 +91,39 @@
        <!-- <h1 class="my-4">Welcome to MIT Engineers Without Borders!</h1> -->
 
       <!-- Portfolio Section -->
-      <h2>Our Projects</h2>
+      <h2>Our Current Projects</h2>
 
-      <div class="row">
+        <div class="row">
+            <div class="col-lg-4 col-sm-6 portfolio-item">
+                <div class="card h-100">
+                    <a href="#"><img class="card-img-top" src="images/localprojects.jpg" height="200" alt=""></a>
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            <a href="#">Local Projects, US</a>
+                        </h4>
+                        <p class="card-text">We're extending our outreach to our local community.</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="mkutani.php" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-6 portfolio-item">
+                <div class="card h-100">
+                    <a href="#"><img class="card-img-top" src="images/gallery9.jpg" height="200" alt=""></a>
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            <a href="#">Solar Manual, Tanzania</a>
+                        </h4>
+                        <p class="card-text">We're creating a manual and workshops to support locals in troubleshooting solar pumps.</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="mkutani.php" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
             <a href="#"><img class="card-img-top" src="images/projects/mkutani1.jpg" height="200" alt=""></a>
@@ -109,6 +139,7 @@
           </div>
         </div>
 
+          <!--
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
             <a href="#"><img class="card-img-top" src="images/projects/moringa.png" height="200" alt=""></a>
@@ -152,7 +183,7 @@
               <a href="charcoal.php" class="btn btn-primary">Learn More</a>
             </div>
           </div>
-        </div>
+        </div> -->
 
         
 

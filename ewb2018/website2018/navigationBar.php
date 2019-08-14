@@ -21,6 +21,8 @@
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
                         <a class="dropdown-item" href="projects.php">All Projects</a>
+                        <a class="dropdown-item" href="local.php">Local Projects, US</a>
+                        <a class="dropdown-item" href="manual.php">Solar Manual, Tanzania</a>
                         <a class="dropdown-item" href="mkutani.php">Solar Pump, Tanzania</a>
                         <a class="dropdown-item" href="moringa.php">Moringa Connect, Ghana</a>
                         <a class="dropdown-item" href="plastics.php">Plastics, Uganda</a>

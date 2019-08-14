@@ -52,7 +52,7 @@
           <p>As part of the MIT Engineers Without Borders chapter, a student-run organization, we are learning practices that will make us lifelong change-makers. Our team is a diverse group of engineers, scientists, leaders, designers, humanitarians and innovators that's working together to create a better world, one community at a time.</p>
         </div>
       </div>
-      <!-- /.row -->
+        <br>
 
       <!-- Team Members -->
       <h2>Meet Our Exec Board</h2>
@@ -72,16 +72,16 @@
             </div>
           </div>
         </div> -->
-        <div class="col-lg-4 mb-4">
-          <div class="card h-100 text-center">
-            <img class="card-img-top" src="images/vibha-agarwal.jpg" alt="">
-            <div class="card-body">
-              <h4 class="card-title">Vibha Agarwal</h4>
-              <h5 class="card-title">President</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Electrical Engineering and Computer Science | 2020 </h6>
-              <p class="card-text">"It always seems impossible until it's done."</p>
-            </div>
-            <div class="card-footer">
+          <div class="col-lg-4 mb-4">
+              <div class="card h-100 text-center">
+                  <img class="card-img-top" src="images/chris-eschler.jpg" alt="">
+                  <div class="card-body">
+                      <h4 class="card-title">Chris Eschler</h4>
+                      <h5 class="card-title">President</h5>
+                      <h6 class="card-subtitle mb-2 text-muted">Material Science and Engineering | 2021</h6>
+                      <p class="card-text">"If you wouldn't follow yourself, why should anyone else?"</p>
+                  </div>
+                  <div class="card-footer">
               <!-- <a href="#">name@example.com</a> -->
             </div>
           </div>
@@ -100,16 +100,16 @@
             </div>
           </div>
         </div>
-      <div class="col-lg-4 mb-4">
-          <div class="card h-100 text-center">
-            <img class="card-img-top" src="images/chris-eschler.jpg" alt="">
-            <div class="card-body">
-              <h4 class="card-title">Chris Eschler</h4>
-              <h5 class="card-title">Technical Lead</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Material Science and Engineering | 2021</h6>
-              <p class="card-text">"If you wouldn't follow yourself, why should anyone else?"</p>
-            </div>
-            <div class="card-footer">
+          <div class="col-lg-4 mb-4">
+              <div class="card h-100 text-center">
+                  <img class="card-img-top" src="images/vibha-agarwal.jpg" alt="">
+                  <div class="card-body">
+                      <h4 class="card-title">Vibha Agarwal</h4>
+                      <h5 class="card-title">Club Representative</h5>
+                      <h6 class="card-subtitle mb-2 text-muted">Electrical Engineering and Computer Science | 2020 </h6>
+                      <p class="card-text">"It always seems impossible until it's done."</p>
+                  </div>
+                  <div class="card-footer">
               <!-- <a href="#">name@example.com</a> -->
             </div>
           </div>
@@ -184,7 +184,7 @@
         </div>
           <div class="col-lg-4 mb-4">
               <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/selma_sharaf%20copy.png" alt="">
+                  <img class="card-img-top" src="images/selma-sharaf.png" alt="">
                   <div class="card-body">
                       <h4 class="card-title">Selma Sharaf</h4>
                       <h5 class="card-title">Webmaster</h5>
@@ -198,7 +198,7 @@
           </div>
           <div class="col-lg-4 mb-4">
               <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/NoPhoto1.jpg" alt="">
+                  <img class="card-img-top" src="images/YuJing-Chen.jpg" alt="">
                   <div class="card-body">
                       <h4 class="card-title">Yu Jing Chen</h4>
                       <h5 class="card-title">Social Chair</h5>
@@ -212,20 +212,6 @@
           </div>
   <!-- /.row -->
 
-          <div class="col-lg-4 mb-4">
-              <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/milani-chatterji-len%20sized.jpg" alt="">
-                  <div class="card-body">
-                      <h4 class="card-title">Milani Chatterji-Len</h4>
-                      <h5 class="card-title">Club Representative</h5>
-                      <h6 class=" card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2019</h6>
-                      <!--<p class="card-text"></p-->
-                  </div>
-                  <div class="card-footer">
-                      <!-- <a href="#">name@example.com</a> -->
-                  </div>
-              </div>
-          </div>
 
   <!-- /.row -->
 
