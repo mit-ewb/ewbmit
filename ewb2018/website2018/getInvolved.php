@@ -46,7 +46,7 @@
         <div class="col-lg-6">
             <p>MIT Engineers Without Borders is a great community of passionate students who care about learning how to make a difference. There's a lot you can do to help us out! Please don't hesitate to contact ewb-exec@mit.edu if you have any questions. </p>
             <ul>
-                <li>Join us! We meet on Thursdays 6-7pm in room 5-134. Check out our calendar for meeting times, social events, cool conferences, and more! </li>
+                <li>Join us! Check out our calendar for meeting times, social events, cool conferences, and more! </li>
                 <li>Follow us on our <a href="https://www.facebook.com/ewbmit/?hc_ref=ARTD0Bo8IO8L0od1QSwuiDZ6O0QgwsM1KCevMMmD2Ffu0OPFzG112T98VwhQm0z8oH8&fref=nf"> facebook page</a>! Stay up to date on what we're doing, and spread the word to others. </li>
                 <li> <a href="https://www.gofundme.com/MITEWB"> Donate</a>. We can't get much done without funding, and every cent brings us closer to accomplishing our goals! Project costs include material costs, travel reimbursements, and community outreach events. </li>
 
