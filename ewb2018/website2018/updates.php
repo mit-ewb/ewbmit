@@ -32,7 +32,7 @@
     <div class="container">
 
       <!-- Page Heading/Breadcrumbs -->
-      <h1 class="mt-4 mb-3">Blog
+      <h1 class="mt-4 mb-3">Updates
         <small>what we've been up to</small>
       </h1>
 
@@ -43,7 +43,12 @@
         <li class="breadcrumb-item active">Updates</li>
       </ol>
 
-      <!-- Blog Post -->
+        <div>
+            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fewbmit%2F&tabs=timeline&width=1500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="1500" height="500" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>
+        </div>
+        <br>
+
+        <!-- Blog Post -->
       <div class="card mb-4">
         <div class="card-body">
           <div class="row">
@@ -89,8 +94,6 @@
           <a href="#">Super Cool EWB Member</a>
         </div>
       </div>
-
-
 
       <!-- Blog Post -->
      <!--  <div class="card mb-4">
@@ -138,7 +141,7 @@
 
       <!-- Pagination -->
       <ul class="pagination justify-content-center mb-4">
-        <li class="page-item">
+        <li class="page-item disabled">
           <a class="page-link" href="#">&larr; Older</a>
         </li>
         <li class="page-item disabled">
