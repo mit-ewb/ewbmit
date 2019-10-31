@@ -74,7 +74,7 @@
         </div> -->
           <div class="col-lg-4 mb-4">
               <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/chris-eschler.jpg" alt="">
+                  <img class="card-img-top" src="images/Chris.jpg" alt="">
                   <div class="card-body">
                       <h4 class="card-title">Chris Eschler</h4>
                       <h5 class="card-title">President</h5>
