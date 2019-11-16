@@ -41,10 +41,13 @@
                     <a class="nav-link" href="newsletter.php">Newsletter</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.gofundme.com/MITEWB">Donate</a>
+                    <a class="nav-link" href="https://giving.mit.edu/give/to?fundId=2721177&source=WBMPP">Donate</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="gallery.php">Gallery</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="sponsors.php">Sponsors</a>
                 </li>
                 <!-- <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -68,7 +71,7 @@
                     <a class="dropdown-item" href="pricing.html">Pricing Table</a>
                   </div>
                 </li> -->
-            <!--oldlink: https://giving.mit.edu/give/to?fundId=2721177&source=WBMPP -->
+            <!--otherlink:"https://www.gofundme.com/MITEWB" -->
             </ul>
         </div>
     </div>
