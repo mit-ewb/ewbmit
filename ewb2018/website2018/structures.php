@@ -50,7 +50,7 @@
         </div>
         <div class="col-lg-6">
           <h2>Project Description</h2>
-          <p>We are planning to build additional schoolrooms in the current schoolhouse in Mkutani. Harvard built the schoolhouse in May/June 2018, and building additional schoolrooms was identified as a top 5 priority for the community.</p>
+          <p>We are planning to construct an additional building for the schoolhouse in Mkutani to function as a flexible learning center and to better support the village's 600 students. Harvard worked on the schoolhouse in May/June 2018, and building additional spaces was identified as a top 5 priority for the community.</p>
         </div>
       </div>
       <!-- /.row -->

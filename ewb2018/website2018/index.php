@@ -101,7 +101,7 @@
                         <h4 class="card-title">
                             <a href="#">Structures, Tanzania</a>
                         </h4>
-                        <p class="card-text">We're building additional schoolrooms in Mkutani.</p>
+                        <p class="card-text">We're building an additional schoolroom in Mkutani.</p>
                     </div>
                     <div class="card-footer">
                         <a href="structures.php" class="btn btn-primary">Learn More</a>
