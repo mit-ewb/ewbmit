@@ -47,7 +47,7 @@
                     <a class="nav-link" href="gallery.php">Gallery</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="sponsors.php">Sponsors</a>
+                    <a class="nav-link" href="sponsors.php">Supporters</a>
                 </li>
                 <!-- <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

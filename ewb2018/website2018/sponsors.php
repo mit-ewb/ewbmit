@@ -32,28 +32,35 @@
 <div class="container">
 
     <!-- Page Heading/Breadcrumbs -->
-    <h1 class="mt-4 mb-3">Our Sponsors
+    <h1 class="mt-4 mb-3">Our Supporters
     </h1>
 
     <ol class="breadcrumb">
         <li class="breadcrumb-item">
             <a href="index.php">Home</a>
         </li>
-        <li class="breadcrumb-item active">Sponsors</li>
+        <li class="breadcrumb-item active">Supporters</li>
     </ol>
 
  <!-- Sponsors Section -->
       <div class="row">
         <div class="col-lg-12">
-            <p>We appreciate the commitment of our sponsors towards supporting our efforts and our partner communities.</p>
+            <p>We appreciate the commitment of our sponsors and mentors towards supporting our efforts and our partner communities.</p>
             <br>
-            <h3>Platinum Sponsors</h3>
+            <h2>Platinum Sponsors</h2>
             <img src="images/CEE_logo.png" alt="">             <img src="images/TBP_logo.png" alt="">
           <p>MIT Department of Civil and Environmental Engineering </p>
             <p>Tau Beta Pi MIT </p>
             <br>
-            <h3>Other Sponsors</h3>
+            <h2>Other Sponsors</h2>
             <p>We would also like to thank all of our other supporters-  MIT alumni, friends, family, and everyone else who has contributed to our organization. </p>
+            <br>
+            <h2>Mentors</h2>
+            <br>
+            <img src="images/ewb-usa-logo-color.jpg" alt=""> &nbsp         <img src="images/cropped-Transparent-Color-Logo-2.png" alt="">  &nbsp           <img src="images/edgerton.jpg" alt="">
+            <p>EWB-USA</p>
+            <p>EWB-Boston Professional Chapter</p>
+            <p>MIT Edgerton Center</p>
             <br>
 
         </div>
