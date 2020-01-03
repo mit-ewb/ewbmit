@@ -49,18 +49,23 @@
             <br>
             <h2>Platinum Sponsors</h2>
             <img src="images/CEE_logo.png" alt="">             <img src="images/TBP_logo.png" alt="">
-          <p>MIT Department of Civil and Environmental Engineering </p>
-            <p>Tau Beta Pi MIT </p>
+          <h5>MIT Department of Civil and Environmental Engineering </h5>
+            <h5>Tau Beta Pi MIT </h5>
+            <br>
             <br>
             <h2>Other Sponsors</h2>
             <p>We would also like to thank all of our other supporters-  MIT alumni, friends, family, and everyone else who has contributed to our organization. </p>
             <br>
+            <br>
             <h2>Mentors</h2>
             <br>
-            <img src="images/ewb-usa-logo-color.jpg" alt=""> &nbsp         <img src="images/cropped-Transparent-Color-Logo-2.png" alt="">  &nbsp           <img src="images/edgerton.jpg" alt="">
-            <p>EWB-USA</p>
+            <img src="images/ewb-usa-logo-color.jpg" alt=""> &nbsp         <img src="images/cropped-Transparent-Color-Logo-2.png" alt="">
+            <img src="images/edgerton.jpg" alt="">  &nbsp&nbsp&nbsp                    <img src="images/SMMA_Slate_BlueLine_RGB.jpg" alt="">
+            <br>
+           <p>EWB-USA</p>
             <p>EWB-Boston Professional Chapter</p>
             <p>MIT Edgerton Center</p>
+            <p>SMMA</p>
             <br>
 
         </div>

@@ -234,7 +234,7 @@
           </ul>
         </div>
         <div class="col-lg-6">
-          <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=p0ohh9gb2t43cs2hlp0d11v77o%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FNew_York" style="border-width:0" width="600" height="400" frameborder="0" scrolling="yes"></iframe>
+          <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=p0ohh9gb2t43cs2hlp0d11v77o%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FNew_York" style="border-width:0" width="550" height="350" frameborder="0" scrolling="yes"></iframe>
           <!-- <img class="img-fluid rounded" src="http://placehold.it/700x450" alt=""> -->
         </div>
       </div>

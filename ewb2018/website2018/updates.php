@@ -43,13 +43,16 @@
         <li class="breadcrumb-item active">Updates</li>
       </ol>
 
-        <div>
+    <p><h3>Newsletter</h3>
+    <iframe src="EWB%20Newsletter-%20FINAL%202019.pdf" width="500" height="500" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>
+    <iframe src="EWB%20Newsletter-%20final%20draft.pdf" width="500" height="500" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>
+    </p>
+    <p><h3>Social Media</h3>
             <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fewbmit%2F&tabs=timeline&width=1500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="1500" height="500" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>
-        </div>
-        <br>
-
-        <!-- Blog Post -->
-      <div class="card mb-4">
+        </p>
+        <p><h3>Blog Archives</h3>
+    <!-- Blog Post -->
+      <div class="card sm-4">
         <div class="card-body">
           <div class="row">
             <div class="col-lg-6">
@@ -93,7 +96,7 @@
           Posted on April 1, 2018 by
           <a href="#">Super Cool EWB Member</a>
         </div>
-      </div>
+      </div> </p>
 
       <!-- Blog Post -->
      <!--  <div class="card mb-4">
@@ -140,6 +143,7 @@
       </div> -->
 
       <!-- Pagination -->
+        <!--
       <ul class="pagination justify-content-center mb-4">
         <li class="page-item disabled">
           <a class="page-link" href="#">&larr; Older</a>
@@ -149,9 +153,10 @@
         </li>
       </ul>
 
-    </div>
+    </div>  -->
 
   </div>
+
   <!-- /.container -->
 
   <!-- Footer -->
