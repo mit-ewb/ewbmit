@@ -54,16 +54,18 @@
         </div>
         <div class="col-lg-6">
             <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=p0ohh9gb2t43cs2hlp0d11v77o%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FNew_York" style="border-width:0" width="550" height="350" frameborder="0" scrolling="yes"></iframe>
-
             <!--            <iframe width="560" height="315" src="https://www.youtube.com/embed/xv-p8_q_5I0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
             <!--<img class="img-fluid rounded mb-4" src="images/projects/mkutani1.jpg" alt="">-->
         </div>
     </div>
-
-
-
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
 </div>
-<!-- /.container -->
+
+<!-- /.row -->
 
 <!-- Footer -->
 <?php include('footer.php'); ?>

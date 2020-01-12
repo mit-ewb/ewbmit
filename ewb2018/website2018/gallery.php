@@ -28,6 +28,7 @@
 <?php include('navigationBar.php'); ?>
 
 <header>
+    <br>
     <br/>
     <br/>
     <header>
@@ -113,6 +114,7 @@
             </header>
         <br/>
         <br/>
+    <br>
     <!-- /.container -->
 
     <!-- Footer -->

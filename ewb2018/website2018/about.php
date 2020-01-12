@@ -88,7 +88,8 @@
         </div>
         <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
-            <img class="card-img-top" src="images/liam_herndon.jpg" alt="">
+            <img class="card-img-top" src="images/liam_herndon.jpg" height = "350" alt="">
+
             <div class="card-body">
               <h4 class="card-title">Liam Herndon</h4>
               <h5 class="card-title">Program Manager</h5>
@@ -102,12 +103,12 @@
         </div>
           <div class="col-lg-4 mb-4">
               <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/vibha-agarwal.jpg" alt="">
+                  <img class="card-img-top" src="images/natasha-stamler.png" height = "350" alt="">
                   <div class="card-body">
-                      <h4 class="card-title">Vibha Agarwal</h4>
-                      <h5 class="card-title">Club Representative</h5>
-                      <h6 class="card-subtitle mb-2 text-muted">Electrical Engineering and Computer Science | 2020 </h6>
-                      <p class="card-text">"It always seems impossible until it's done."</p>
+                      <h4 class="card-title">Natasha Stamler</h4>
+                      <h5 class="card-title">Technical Lead</h5>
+                      <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2022</h6>
+                      <p class="card-text">“At its heart engineering is about using science to find creative practical solutions. It’s a noble profession.”</p>
                   </div>
                   <div class="card-footer">
               <!-- <a href="#">name@example.com</a> -->
@@ -123,7 +124,7 @@
             <img class="card-img-top" src="images/DiegoMonroy.png" alt="">
             <div class="card-body">
               <h4 class="card-title">Diego Monroy</h4>
-              <h5 class="card-title">Secretary</h5>
+              <h5 class="card-title">Treasurer</h5>
               <h6 class="card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2021</h6>
               <p class="card-text"></p>
             </div>
@@ -136,12 +137,12 @@
       
         <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
-            <img class="card-img-top" src="images/kaleigh-hunt.jpg" alt="">
+            <img class="card-img-top" src="images/amel-elawad.jpg" height = "365" alt="">
             <div class="card-body">
-              <h4 class="card-title">Kaleigh Hunt</h4>
-              <h5 class="card-title">Treasurer</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Chemical Engineering | 2020</h6>
-              <p class="card-text">"Don't sweat the petty things, and don't pet the sweaty things."</p>
+              <h4 class="card-title">Amel Elawad</h4>
+              <h5 class="card-title">Fundraising Manager</h5>
+              <h6 class="card-subtitle mb-2 text-muted">Physics | 2021</h6>
+              <p class="card-text">"Keep moving forward"</p>
             </div>
             <div class="card-footer">
               <!-- <a href="#">name@example.com</a> -->
@@ -150,12 +151,12 @@
         </div>
       <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
-            <img class="card-img-top" src="images/valerie-muldoon.jpg" alt="">
+            <img class="card-img-top" src="images/vivian-cheng.jpg" height = "365" alt="">
             <div class="card-body">
-              <h4 class="card-title">Valerie Muldoon</h4>
-              <h5 class="card-title">External Relations Chair</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2020</h6>
-              <p class="card-text">"Problems are not stop signs; they are guidelines.”</p>
+              <h4 class="card-title">Vivian Cheng</h4>
+              <h5 class="card-title">Social Chair</h5>
+              <h6 class="card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2023</h6>
+              <p class="card-text">"Doubt kills more dreams than failure ever will.”</p>
             </div>
             <div class="card-footer">
               <!-- <a href="#">name@example.com</a> -->
@@ -173,7 +174,7 @@
             <img class="card-img-top" src="images/abigail-frey.jpg" alt="">
             <div class="card-body">
               <h4 class="card-title">Abigail Frey</h4>
-              <h5 class="card-title">Fundraising Lead</h5>
+              <h5 class="card-title">External Relations Chair</h5>
               <h6 class="card-subtitle mb-2 text-muted">Chemical-Biological Engineering | 2021</h6>
               <p class="card-text">“A problem is a chance for you to do your best.”</p>
             </div>
@@ -198,12 +199,12 @@
           </div>
           <div class="col-lg-4 mb-4">
               <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/natasha-stamler.png" height="350" alt="">
+                  <img class="card-img-top" src="images/jason-ramirez.jpg" height="350" alt="">
                   <div class="card-body">
-                      <h4 class="card-title">Natasha Stamler</h4>
-                      <h5 class="card-title">Technical Lead</h5>
+                      <h4 class="card-title">Jason Ramirez</h4>
+                      <h5 class="card-title">Secretary</h5>
                       <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2022</h6>
-                      <p class="card-text">“At its heart engineering is about using science to find creative practical solutions. It’s a noble profession.”</p>
+                      <p class="card-text">“Working towards a brighter future.”</p>
                   </div>
                   <div class="card-footer">
                       <!-- <a href="#">name@example.com</a> -->
