@@ -78,7 +78,7 @@
                   <div class="card-body">
                       <h4 class="card-title">Chris Eschler</h4>
                       <h5 class="card-title">President</h5>
-                      <h6 class="card-subtitle mb-2 text-muted">Material Science and Engineering | 2021</h6>
+                      <h6 class="card-subtitle mb-2 text-muted">Materials Science and Engineering | 2021</h6>
                       <p class="card-text">"If you wouldn't follow yourself, why should anyone else?"</p>
                   </div>
                   <div class="card-footer">
