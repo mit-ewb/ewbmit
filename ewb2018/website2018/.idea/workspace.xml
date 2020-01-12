@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ba40f40-6c07-44c8-ab97-23e379480c59" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getInvolved.php" beforeDir="false" afterPath="$PROJECT_DIR$/getInvolved.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/getInvolved.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+            <state relative-caret-position="254">
+              <caret line="49" column="248" selection-start-line="49" selection-start-column="248" selection-end-line="49" selection-end-column="248" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -74,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="143" column="75" lean-forward="true" selection-start-line="143" selection-start-column="75" selection-end-line="143" selection-end-column="75" />
+            <state relative-caret-position="385">
+              <caret line="151" column="33" lean-forward="true" selection-start-line="151" selection-start-column="33" selection-end-line="151" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -144,9 +144,9 @@
         <option value="$PROJECT_DIR$/navigationBar.php" />
         <option value="$PROJECT_DIR$/updates.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/getInvolved.php" />
         <option value="$PROJECT_DIR$/gallery.php" />
         <option value="$PROJECT_DIR$/about.php" />
+        <option value="$PROJECT_DIR$/getInvolved.php" />
       </list>
     </option>
   </component>
@@ -233,12 +233,12 @@
       <workItem from="1575993188723" duration="1988000" />
       <workItem from="1577375860614" duration="2255000" />
       <workItem from="1578067330772" duration="2791000" />
-      <workItem from="1578848139265" duration="4183000" />
+      <workItem from="1578848139265" duration="4588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54613000" />
+    <option name="totallyTimeSpent" value="55018000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="23" width="1400" height="777" extended-state="0" />
@@ -397,16 +397,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/getInvolved.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gallery.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -416,8 +406,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="143" column="75" lean-forward="true" selection-start-line="143" selection-start-column="75" selection-end-line="143" selection-end-column="75" />
+        <state relative-caret-position="385">
+          <caret line="151" column="33" lean-forward="true" selection-start-line="151" selection-start-column="33" selection-end-line="151" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getInvolved.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="49" column="248" selection-start-line="49" selection-start-column="248" selection-end-line="49" selection-end-column="248" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
