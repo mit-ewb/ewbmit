@@ -43,7 +43,83 @@
         <li class="breadcrumb-item active">Projects</li>
       </ol>
 
-      <!-- Project One -->
+        <!-- Project -3 -->
+        <div class="row">
+            <div class="col-md-7">
+                <a href="#">
+                    <img class="img-fluid rounded mb-3 mb-md-0" src="images/gallery2.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-md-5">
+                <h3>Structures, Tanzania</h3>
+                <p>We are building additional schoolrooms to serve the young students in Mkutani. (Current) </p>
+                <a class="btn btn-primary" href="structures.php">View Project
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                </a>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
+
+        <!-- Project -2 -->
+        <div class="row">
+            <div class="col-md-7">
+                <a href="#">
+                    <img class="img-fluid rounded mb-3 mb-md-0" src="images/gallery0.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-md-5">
+                <h3>Female Sanitation, Tanzania</h3>
+                <p>We are working to tackle female sanitation issues that have been brought up during past trips to Mkutani. (Current) </p>
+                <a class="btn btn-primary" href="sanitation.php">View Project
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                </a>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
+
+        <!-- Project -1 -->
+        <div class="row">
+            <div class="col-md-7">
+                <a href="#">
+                    <img class="img-fluid rounded mb-3 mb-md-0" src="images/localprojects.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-md-5">
+                <h3>Local Projects, US</h3>
+                <p>We are working to impact our local community. (Current) </p>
+                <a class="btn btn-primary" href="local.php">View Project
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                </a>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
+
+        <!-- Project Zero -->
+        <div class="row">
+            <div class="col-md-7">
+                <a href="#">
+                    <img class="img-fluid rounded mb-3 mb-md-0" src="images/gallery9.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-md-5">
+                <h3>Solar Manual, Tanzania</h3>
+                <p>We are working to ensure the sustainability of our solar pump project in Tanzania. (Current) </p>
+                <a class="btn btn-primary" href="manual.php">View Project
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                </a>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
+
+        <!-- Project One -->
       <div class="row">
         <div class="col-md-7">
           <a href="#">
@@ -72,7 +148,7 @@
         <div class="col-md-5">
           <h3>Moringa Connect, Ghana</h3>
           <p>We work with a start-up in Ghana to bring a super food to more people.</p>
-          <a class="btn btn-primary" href="mkutani.php">View Project
+          <a class="btn btn-primary" href="moringa.php">View Project
             <span class="glyphicon glyphicon-chevron-right"></span>
           </a>
         </div>
@@ -105,7 +181,7 @@
 
         <div class="col-md-7">
           <a href="#">
-            <img class="img-fluid rounded mb-3 mb-md-0" src="images/projects/charcoal-1.png" alt="">
+            <img class="img-fluid rounded mb-3 mb-md-0" src="images/projects/charcoal-1.png" width="700" alt="">
           </a>
         </div>
         <div class="col-md-5">
@@ -121,7 +197,7 @@
       <hr>
 
       <!-- Pagination -->
-      <ul class="pagination justify-content-center">
+      <!-- <ul class="pagination justify-content-center">
         <li class="page-item">
           <a class="page-link" href="#" aria-label="Previous">
             <span aria-hidden="true">&laquo;</span>
@@ -143,7 +219,7 @@
             <span class="sr-only">Next</span>
           </a>
         </li>
-      </ul>
+      </ul> -->
 
     </div>
     <!-- /.container -->

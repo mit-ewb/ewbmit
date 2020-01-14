@@ -1,4 +1,4 @@
-<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
+<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light fixed-top">
     <div class="container">
         <a class="navbar-brand" href="index.php"> <img src="images/ewb-logo.png" width="200px"> </a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -21,6 +21,10 @@
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
                         <a class="dropdown-item" href="projects.php">All Projects</a>
+                        <a class="dropdown-item" href="structures.php">Structures, Tanzania</a>
+                        <a class="dropdown-item" href="sanitation.php">Female Sanitation, Tanzania</a>
+                        <a class="dropdown-item" href="local.php">Local Projects, US</a>
+                        <a class="dropdown-item" href="manual.php">Solar Manual, Tanzania</a>
                         <a class="dropdown-item" href="mkutani.php">Solar Pump, Tanzania</a>
                         <a class="dropdown-item" href="moringa.php">Moringa Connect, Ghana</a>
                         <a class="dropdown-item" href="plastics.php">Plastics, Uganda</a>
@@ -33,8 +37,17 @@
                 <li class="nav-item">
                     <a class="nav-link" href="getInvolved.php">Get Involved</a>
                 </li>
+                <!-- <li class="nav-item">
+                    <a class="nav-link" href="newsletter.php">Newsletter</a>
+                </li> -->
                 <li class="nav-item">
                     <a class="nav-link" href="https://giving.mit.edu/give/to?fundId=2721177&source=WBMPP">Donate</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="gallery.php">Gallery</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="sponsors.php">Supporters</a>
                 </li>
                 <!-- <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -58,6 +71,7 @@
                     <a class="dropdown-item" href="pricing.html">Pricing Table</a>
                   </div>
                 </li> -->
+            <!--otherlink:"https://www.gofundme.com/MITEWB" -->
             </ul>
         </div>
     </div>
