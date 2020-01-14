@@ -137,7 +137,7 @@
       
         <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
-            <img class="card-img-top" src="images/amel-elawad_2.jpg" height = "365" alt="">
+            <img class="card-img-top" src="images/amel-elawad-2.jpg" height = "365" alt="">
             <div class="card-body">
               <h4 class="card-title">Amel Elawad</h4>
               <h5 class="card-title">Fundraising Manager</h5>
