@@ -126,21 +126,6 @@
 
             <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
-                    <a href="#"><img class="card-img-top" src="images/localprojects.jpg" height="200" alt=""></a>
-                    <div class="card-body">
-                        <h4 class="card-title">
-                            <a href="#">Local Projects, US</a>
-                        </h4>
-                        <p class="card-text">We're extending our outreach to our local community.</p>
-                    </div>
-                    <div class="card-footer">
-                        <a href="local.php" class="btn btn-primary">Learn More</a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-sm-6 portfolio-item">
-                <div class="card h-100">
                     <a href="#"><img class="card-img-top" src="images/gallery9.jpg" height="200" alt=""></a>
                     <div class="card-body">
                         <h4 class="card-title">
@@ -153,21 +138,6 @@
                     </div>
                 </div>
             </div>
-
-        <div class="col-lg-4 col-sm-6 portfolio-item">
-          <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="images/projects/mkutani1.jpg" height="200" alt=""></a>
-            <div class="card-body">
-              <h4 class="card-title">
-                <a href="#">Solar Pump, Tanzania</a>
-              </h4>
-              <p class="card-text">We're working on installing a solar powered-water pump in a Tanzanian village to help bring clean drinking water to the community.</p>
-            </div>
-            <div class="card-footer">
-              <a href="mkutani.php" class="btn btn-primary">Learn More</a>
-            </div>
-          </div>
-        </div>
 
           <!--
         <div class="col-lg-4 col-sm-6 portfolio-item">
@@ -214,8 +184,6 @@
             </div>
           </div>
         </div> -->
-
-        
 
        
         </div>
