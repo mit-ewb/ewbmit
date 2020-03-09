@@ -86,29 +86,28 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 mb-4">
-          <div class="card h-100 text-center">
-            <img class="card-img-top" src="images/liam_herndon.jpg" height = "350" alt="">
-
-            <div class="card-body">
-              <h4 class="card-title">Liam Herndon</h4>
-              <h5 class="card-title">Program Manager</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Chemical-Biological Engineering | 2021</h6>
-              <p class="card-text">"Don't worry, I'm sure you'll be fine. But eventually everyone runs out of time."</p>
-            </div>
-            <div class="card-footer">
+          <div class="col-lg-4 mb-4">
+              <div class="card h-100 text-center">
+                  <img class="card-img-top" src="images/abigail-frey.jpg" alt="">
+                  <div class="card-body">
+                      <h4 class="card-title">Abigail Frey</h4>
+                      <h5 class="card-title">External Relations Chair</h5>
+                      <h6 class="card-subtitle mb-2 text-muted">Chemical-Biological Engineering | 2021</h6>
+                      <p class="card-text">“A problem is a chance for you to do your best.”</p>
+                  </div>
+                  <div class="card-footer">
               <!-- <a href="#">name@example.com</a> -->
             </div>
           </div>
         </div>
           <div class="col-lg-4 mb-4">
               <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/natasha-stamler.png" height = "350" alt="">
+                  <img class="card-img-top" src="images/amel-elawad-2.jpg" height = "350" alt="">
                   <div class="card-body">
-                      <h4 class="card-title">Natasha Stamler</h4>
-                      <h5 class="card-title">Technical Lead</h5>
-                      <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2022</h6>
-                      <p class="card-text">“At its heart engineering is about using science to find creative practical solutions. It’s a noble profession.”</p>
+                      <h4 class="card-title">Amel Elawad</h4>
+                      <h5 class="card-title">Fundraising Manager</h5>
+                      <h6 class="card-subtitle mb-2 text-muted">Physics | 2021</h6>
+                      <p class="card-text">"Keep moving forward"</p>
                   </div>
                   <div class="card-footer">
               <!-- <a href="#">name@example.com</a> -->
@@ -121,7 +120,7 @@
     <div class="row">
       <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
-            <img class="card-img-top" src="images/DiegoMonroy.png" alt="">
+            <img class="card-img-top" src="images/DiegoMonroy.png" height = "350" alt="">
             <div class="card-body">
               <h4 class="card-title">Diego Monroy</h4>
               <h5 class="card-title">Treasurer</h5>
@@ -134,31 +133,31 @@
           </div>
         </div>
 
-      
+
         <div class="col-lg-4 mb-4">
-          <div class="card h-100 text-center">
-            <img class="card-img-top" src="images/amel-elawad-2.jpg" height = "365" alt="">
-            <div class="card-body">
-              <h4 class="card-title">Amel Elawad</h4>
-              <h5 class="card-title">Fundraising Manager</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Physics | 2021</h6>
-              <p class="card-text">"Keep moving forward"</p>
-            </div>
-            <div class="card-footer">
+            <div class="card h-100 text-center">
+                <img class="card-img-top" src="images/jason-ramirez.jpg" height="350" alt="">
+                <div class="card-body">
+                    <h4 class="card-title">Jason Ramirez</h4>
+                    <h5 class="card-title">Secretary</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2022</h6>
+                    <p class="card-text">“Working towards a brighter future.”</p>
+                </div>
+                <div class="card-footer">
               <!-- <a href="#">name@example.com</a> -->
             </div>
           </div>
         </div>
-      <div class="col-lg-4 mb-4">
-          <div class="card h-100 text-center">
-            <img class="card-img-top" src="images/vivian-cheng.jpg" height = "365" alt="">
-            <div class="card-body">
-              <h4 class="card-title">Vivian Cheng</h4>
-              <h5 class="card-title">Social Chair</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2023</h6>
-              <p class="card-text">"Doubt kills more dreams than failure ever will.”</p>
-            </div>
-            <div class="card-footer">
+        <div class="col-lg-4 mb-4">
+            <div class="card h-100 text-center">
+                <img class="card-img-top" src="images/natasha-stamler.png" height = "350" alt="">
+                <div class="card-body">
+                    <h4 class="card-title">Natasha Stamler</h4>
+                    <h5 class="card-title">Technical Lead</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2022</h6>
+                    <p class="card-text">“At its heart engineering is about using science to find creative practical solutions. It’s a noble profession.”</p>
+                </div>
+                <div class="card-footer">
               <!-- <a href="#">name@example.com</a> -->
             </div>
           </div>
@@ -168,21 +167,7 @@
       <!-- /.row -->
     
       <div class="row">
-          
-        <div class="col-lg-4 mb-4">
-          <div class="card h-100 text-center">
-            <img class="card-img-top" src="images/abigail-frey.jpg" alt="">
-            <div class="card-body">
-              <h4 class="card-title">Abigail Frey</h4>
-              <h5 class="card-title">External Relations Chair</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Chemical-Biological Engineering | 2021</h6>
-              <p class="card-text">“A problem is a chance for you to do your best.”</p>
-            </div>
-            <div class="card-footer">
-              <!-- <a href="#">name@example.com</a> -->
-            </div>
-          </div>
-        </div>
+
           <div class="col-lg-4 mb-4">
               <div class="card h-100 text-center">
                   <img class="card-img-top" src="images/selma-sharaf.png" alt="">
@@ -193,24 +178,25 @@
                       <p class="card-text">"Don't stress the could haves. If it should have, it would have."</p>
                   </div>
                   <div class="card-footer">
-                      <!-- <a href="#">name@example.com</a> -->
-                  </div>
-              </div>
+              <!-- <a href="#">name@example.com</a> -->
+            </div>
           </div>
+        </div>
           <div class="col-lg-4 mb-4">
               <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/jason-ramirez.jpg" height="350" alt="">
+                  <img class="card-img-top" src="images/vivian-cheng.jpg" height = "350" alt="">
                   <div class="card-body">
-                      <h4 class="card-title">Jason Ramirez</h4>
-                      <h5 class="card-title">Secretary</h5>
-                      <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2022</h6>
-                      <p class="card-text">“Working towards a brighter future.”</p>
+                      <h4 class="card-title">Vivian Cheng</h4>
+                      <h5 class="card-title">Social Chair</h5>
+                      <h6 class="card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2023</h6>
+                      <p class="card-text">"Doubt kills more dreams than failure ever will.”</p>
                   </div>
                   <div class="card-footer">
                       <!-- <a href="#">name@example.com</a> -->
                   </div>
               </div>
           </div>
+
 
   <!-- /.row -->
 
