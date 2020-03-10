@@ -88,7 +88,7 @@
         </div>
           <div class="col-lg-4 mb-4">
               <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/abigail-frey.jpg" height = "350" alt="">
+                  <img class="card-img-top" src="images/abigail-frey.jpg" alt="">
                   <div class="card-body">
                       <h4 class="card-title">Abigail Frey</h4>
                       <h5 class="card-title">External Relations Chair</h5>
@@ -170,7 +170,7 @@
 
           <div class="col-lg-4 mb-4">
               <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/selma-sharaf.png" height = "350" alt="">
+                  <img class="card-img-top" src="images/selma-sharaf.png" alt="">
                   <div class="card-body">
                       <h4 class="card-title">Selma Sharaf</h4>
                       <h5 class="card-title">Webmaster</h5>
