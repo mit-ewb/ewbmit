@@ -74,12 +74,12 @@
         </div> -->
           <div class="col-lg-4 mb-4">
               <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/Chris.jpg" height = "350" alt="">
+                  <img class="card-img-top" src="images/selma-sharaf.png" height = "350" alt="">
                   <div class="card-body">
-                      <h4 class="card-title">Chris Eschler</h4>
-                      <h5 class="card-title">President</h5>
-                      <h6 class="card-subtitle mb-2 text-muted">Materials Science and Engineering | 2021</h6>
-                      <p class="card-text">"If you wouldn't follow yourself, why should anyone else?"</p>
+                      <h4 class="card-title">Selma Sharaf</h4>
+                      <h5 class="card-title">President/Program Manager</h5>
+                      <h6 class=" card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2022</h6>
+                      <p class="card-text">"Don't stress the could haves. If it should have, it would have."</p>
                   </div>
                   <div class="card-footer">
               <!-- <a href="#">name@example.com</a> -->
@@ -150,12 +150,12 @@
         </div>
         <div class="col-lg-4 mb-4">
             <div class="card h-100 text-center">
-                <img class="card-img-top" src="images/selma-sharaf.png" height = "350" alt="">
+                <img class="card-img-top" src="images/Chris.jpg" height = "350" alt="">
                 <div class="card-body">
-                    <h4 class="card-title">Selma Sharaf</h4>
-                    <h5 class="card-title">Program Manager/Webmaster</h5>
-                    <h6 class=" card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2022</h6>
-                    <p class="card-text">"Don't stress the could haves. If it should have, it would have."</p>
+                    <h4 class="card-title">Chris Eschler</h4>
+                    <h5 class="card-title">Club Representative</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Materials Science and Engineering | 2021</h6>
+                    <p class="card-text">"If you wouldn't follow yourself, why should anyone else?"</p>
                 </div>
                 <div class="card-footer">
               <!-- <a href="#">name@example.com</a> -->
