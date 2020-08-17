@@ -153,7 +153,7 @@
                 <img class="card-img-top" src="images/Chris.jpg" height = "350" alt="">
                 <div class="card-body">
                     <h4 class="card-title">Chris Eschler</h4>
-                    <h5 class="card-title">Club Representative</h5>
+                    <h5 class="card-title">Student Advisor</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Materials Science and Engineering | 2021</h6>
                     <p class="card-text">"If you wouldn't follow yourself, why should anyone else?"</p>
                 </div>
