@@ -48,7 +48,7 @@
         </div>
         <div class="col-lg-6">
           <h2>Purpose</h2>
-          <p>EWB is a non-profit that partners with people from developing countries around the globe, and works with them to find solutions that will improve quality of life in their communities. </p>
+          <p>EWB is a non-profit that partners with people from countries around the globe, and works with them to find solutions that will improve quality of life in their communities. </p>
           <p>As part of the MIT Engineers Without Borders chapter, a student-run organization, we are learning practices that will make us lifelong change-makers. Our team is a diverse group of engineers, scientists, leaders, designers, humanitarians and innovators that's working together to create a better world, one community at a time.</p>
         </div>
       </div>
