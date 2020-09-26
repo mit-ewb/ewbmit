@@ -187,7 +187,7 @@
                   <img class="card-img-top" src="images/vivian-cheng.jpg" height = "350" alt="">
                   <div class="card-body">
                       <h4 class="card-title">Vivian Cheng</h4>
-                      <h5 class="card-title">Social Chair</h5>
+                      <h5 class="card-title">Social Chair/Webmaster</h5>
                       <h6 class="card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2023</h6>
                       <p class="card-text">"Doubt kills more dreams than failure ever will.”</p>
                   </div>
