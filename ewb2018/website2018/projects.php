@@ -43,22 +43,21 @@
         <li class="breadcrumb-item active">Projects</li>
       </ol>
 
-        <!-- Project -3 -->
+        <!-- Project -1 -->
         <div class="row">
             <div class="col-md-7">
                 <a href="#">
-                    <img class="img-fluid rounded mb-3 mb-md-0" src="images/gallery2.jpg" alt="">
+                    <img class="img-fluid rounded mb-3 mb-md-0" src="images/projects/mkutani_assessment2.png" alt="">
                 </a>
             </div>
             <div class="col-md-5">
-                <h3>Structures, Tanzania</h3>
-                <p>We are building additional schoolrooms to serve the young students in Mkutani. (Current) </p>
-                <a class="btn btn-primary" href="structures.php">View Project
+                <h3>Irrigation, Tanzania</h3>
+                <p>We are designing an irrigation system for a test garden at the school in Mkutani to grow food for students.(Current) </p>
+                <a class="btn btn-primary" href="irrigation.php">View Project
                     <span class="glyphicon glyphicon-chevron-right"></span>
                 </a>
             </div>
         </div>
-        <!-- /.row -->
 
         <hr>
 
@@ -73,6 +72,45 @@
                 <h3>Female Sanitation, Tanzania</h3>
                 <p>We are working to tackle female sanitation issues that have been brought up during past trips to Mkutani. (Current) </p>
                 <a class="btn btn-primary" href="sanitation.php">View Project
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                </a>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
+
+
+        <!-- Project Zero -->
+        <div class="row">
+            <div class="col-md-7">
+                <a href="#">
+                    <img class="img-fluid rounded mb-3 mb-md-0" src="images/gallery9.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-md-5">
+                <h3>Solar Manual, Tanzania</h3>
+                <p>We are working to ensure the sustainability of our solar pump project in Tanzania. (Current) </p>
+                <a class="btn btn-primary" href="manual.php">View Project
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                </a>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
+
+        <!-- Project -3 -->
+        <div class="row">
+            <div class="col-md-7">
+                <a href="#">
+                    <img class="img-fluid rounded mb-3 mb-md-0" src="images/gallery2.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-md-5">
+                <h3>Structures, Tanzania</h3>
+                <p>We are building additional schoolrooms to serve the young students in Mkutani. </p>
+                <a class="btn btn-primary" href="structures.php">View Project
                     <span class="glyphicon glyphicon-chevron-right"></span>
                 </a>
             </div>
@@ -100,35 +138,16 @@
 
         <hr>
 
-        <!-- Project Zero -->
-        <div class="row">
-            <div class="col-md-7">
-                <a href="#">
-                    <img class="img-fluid rounded mb-3 mb-md-0" src="images/gallery9.jpg" alt="">
-                </a>
-            </div>
-            <div class="col-md-5">
-                <h3>Solar Manual, Tanzania</h3>
-                <p>We are working to ensure the sustainability of our solar pump project in Tanzania. (Current) </p>
-                <a class="btn btn-primary" href="manual.php">View Project
-                    <span class="glyphicon glyphicon-chevron-right"></span>
-                </a>
-            </div>
-        </div>
-        <!-- /.row -->
-
-        <hr>
-
         <!-- Project One -->
       <div class="row">
         <div class="col-md-7">
           <a href="#">
-            <img class="img-fluid rounded mb-3 mb-md-0" src="images/projects/river.jpg" alt="">
+            <img class="img-fluid rounded mb-3 mb-md-0" src="images/gallery6.jpg" alt="">
           </a>
         </div>
         <div class="col-md-5">
           <h3>Solar Pump, Tanzania</h3>
-          <p>We are working to improve access to clean drinking water for the village of Mkutani, Tanzania. (Current) </p>
+          <p>We are working to improve access to clean drinking water for the village of Mkutani, Tanzania. </p>
           <a class="btn btn-primary" href="mkutani.php">View Project
             <span class="glyphicon glyphicon-chevron-right"></span>
           </a>

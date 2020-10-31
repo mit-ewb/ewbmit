@@ -21,10 +21,11 @@
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
                         <a class="dropdown-item" href="projects.php">All Projects</a>
-                        <a class="dropdown-item" href="structures.php">Structures, Tanzania</a>
+                        <a class="dropdown-item" href="irrigation.php">Irrigation, Tanzania</a>
                         <a class="dropdown-item" href="sanitation.php">Female Sanitation, Tanzania</a>
-                        <a class="dropdown-item" href="local.php">Local Projects, US</a>
                         <a class="dropdown-item" href="manual.php">Solar Manual, Tanzania</a>
+                        <a class="dropdown-item" href="structures.php">Structures, Tanzania</a>
+                        <a class="dropdown-item" href="local.php">Local Projects, US</a>
                         <a class="dropdown-item" href="mkutani.php">Solar Pump, Tanzania</a>
                         <a class="dropdown-item" href="moringa.php">Moringa Connect, Ghana</a>
                         <a class="dropdown-item" href="plastics.php">Plastics, Uganda</a>
@@ -41,7 +42,8 @@
                     <a class="nav-link" href="newsletter.php">Newsletter</a>
                 </li> -->
                 <li class="nav-item">
-                    <a class="nav-link" href="https://giving.mit.edu/give/to?fundId=2721177&source=WBMPP">Donate</a>
+                    <a class="nav-link" href="https://crowdfund.mit.edu/project/20586">Donate</a>
+<!--                    <a class="nav-link" href="https://giving.mit.edu/give/to?fundId=2721177&source=WBMPP">Donate</a>-->
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="gallery.php">Gallery</a>
