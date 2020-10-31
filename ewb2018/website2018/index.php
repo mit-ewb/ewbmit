@@ -102,15 +102,15 @@
         <div class="row">
             <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
-                    <a href="#"><img class="card-img-top" src="images/gallery2.jpg" height="200" alt=""></a>
+                    <a href="#"><img class="card-img-top" src="images/projects/mkutani_assessment2.png" height="200" alt=""></a>
                     <div class="card-body">
                         <h4 class="card-title">
-                            <a href="#">Structures, Tanzania</a>
+                            <a href="#">Irrigation, Tanzania</a>
                         </h4>
-                        <p class="card-text">We're building an additional schoolroom in Mkutani.</p>
+                        <p class="card-text">We're designing a test garden for the school in Mkutani.</p>
                     </div>
                     <div class="card-footer">
-                        <a href="structures.php" class="btn btn-primary">Learn More</a>
+                        <a href="irrigation.php" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -199,11 +199,11 @@
       <div class="row">
         <div class="col-lg-6">
           <h2>Get Involved</h2>
-          <p>MIT Engineers Without Borders is a great community of passionate students who care about learning how to make a difference. There's a lot you can do to help us out! Please don't hesitate to contact ewb-exec@mit.edu if you have any questions. </p>
+          <p>MIT Engineers Without Borders is a great community of passionate students who care about learning how to make a difference. There's a lot you can do to help us out! Please don't hesitate to contact <a href="mailto:ewb-exec@mit.edu">ewb-exec@mit.edu</a> if you have any questions. </p>
           <ul>
             <li>Join us! Check out our calendar for meeting times, social events, cool conferences, and more! </li>
             <li>Follow us on our <a href="https://www.facebook.com/ewbmit/?hc_ref=ARTD0Bo8IO8L0od1QSwuiDZ6O0QgwsM1KCevMMmD2Ffu0OPFzG112T98VwhQm0z8oH8&fref=nf"> Facebook page</a> and <a href="https://www.instagram.com/ewbmit/?hl=en"> Instagram</a>! Stay up to date on what we're doing, and spread the word to others. </li>
-            <li> <a href="https://giving.mit.edu/give/to?fundId=2721177&source=WBMPP"> Donate</a>. We can't get much done without funding, and every cent brings us closer to accomplishing our goals! Project costs include material costs, travel reimbursements, and community outreach events. </li>
+            <li> <a href="https://crowdfund.mit.edu/project/20586"> Donate</a>. We can't get much done without funding, and every cent brings us closer to accomplishing our goals! Project costs include material costs, travel reimbursements, and community outreach events. </li>
 
           </ul>
         </div>

@@ -105,7 +105,7 @@
                   <img class="card-img-top" src="images/amel-elawad-2.jpg" height = "350" alt="">
                   <div class="card-body">
                       <h4 class="card-title">Amel Elawad</h4>
-                      <h5 class="card-title">Fundraising Manager</h5>
+                      <h5 class="card-title">Technical Lead</h5>
                       <h6 class="card-subtitle mb-2 text-muted">Physics | 2021</h6>
                       <p class="card-text">"Keep moving forward"</p>
                   </div>
