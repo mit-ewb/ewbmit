@@ -189,11 +189,25 @@
                       <h4 class="card-title">Vivian Cheng</h4>
                       <h5 class="card-title">Social Chair/Webmaster</h5>
                       <h6 class="card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2023</h6>
-                      <p class="card-text">"Doubt kills more dreams than failure ever will.”</p>
+                      <p class="card-text">"Doubt kills more dreams than failure ever will.” - Suzy Kassem</p>
                   </div>
                   <div class="card-footer">
                       <!-- <a href="#">name@example.com</a> -->
 
+                      <!-- <a href="#">name@example.com</a> -->
+                  </div>
+              </div>
+          </div>
+          <div class="col-lg-4 mb-4">
+              <div class="card h-100 text-center">
+                  <img class="card-img-top" src="images/hung-huynh.jpg" height="350" alt="">
+                  <div class="card-body">
+                      <h4 class="card-title">Hung Huynh</h4>
+                      <h5 class="card-title">Fundraising Lead</h5>
+                      <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering (& Entrepreneurship) | 2024</h6>
+                      <p class="card-text">"When you change the way you look at things, the things you look at change." - Max Planck</p>
+                  </div>
+                  <div class="card-footer">
                       <!-- <a href="#">name@example.com</a> -->
                   </div>
               </div>
