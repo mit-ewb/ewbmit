@@ -74,7 +74,7 @@
         </div> -->
           <div class="col-lg-4 mb-4">
               <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/selma-sharaf.png" height = "350" alt="">
+                  <img class="card-img-top" src="images/selma-sharaf.png" height = "350" style="object-fit: cover" alt="">
                   <div class="card-body">
                       <h4 class="card-title">Selma Sharaf</h4>
                       <h5 class="card-title">President/Program Manager</h5>
@@ -88,7 +88,7 @@
         </div>
           <div class="col-lg-4 mb-4">
               <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/natasha-stamler.png" height = "350" alt="">
+                  <img class="card-img-top" src="images/natasha-stamler.png" height = "350" style="object-fit: cover" alt="">
                   <div class="card-body">
                       <h4 class="card-title">Natasha Stamler</h4>
                       <h5 class="card-title">Technical Lead</h5>
@@ -102,10 +102,10 @@
         </div>
           <div class="col-lg-4 mb-4">
               <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/amel-elawad-2.jpg" height = "350" alt="">
+                  <img class="card-img-top" src="images/amel-elawad-2.jpg" height = "350" style="object-fit: cover" alt="">
                   <div class="card-body">
                       <h4 class="card-title">Amel Elawad</h4>
-                      <h5 class="card-title">Technical Lead</h5>
+                      <h5 class="card-title">Team Lead</h5>
                       <h6 class="card-subtitle mb-2 text-muted">Physics | 2021</h6>
                       <p class="card-text">"Keep moving forward"</p>
                   </div>
@@ -120,10 +120,10 @@
     <div class="row">
       <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center">
-            <img class="card-img-top" src="images/DiegoMonroy.png" height = "350" alt="">
+            <img class="card-img-top" src="images/DiegoMonroy.png" height = "350" style="object-fit: cover" alt="">
             <div class="card-body">
               <h4 class="card-title">Diego Monroy</h4>
-              <h5 class="card-title">Treasurer</h5>
+              <h5 class="card-title">Treasurer/Team Lead</h5>
               <h6 class="card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2021</h6>
               <p class="card-text"></p>
             </div>
@@ -136,7 +136,7 @@
 
         <div class="col-lg-4 mb-4">
             <div class="card h-100 text-center">
-                <img class="card-img-top" src="images/abigail-frey.jpg" height = "350" alt="">
+                <img class="card-img-top" src="images/abigail-frey.jpg" height = "350" style="object-fit: cover" alt="">
                 <div class="card-body">
                     <h4 class="card-title">Abigail Frey</h4>
                     <h5 class="card-title">External Relations Chair</h5>
@@ -150,7 +150,7 @@
         </div>
         <div class="col-lg-4 mb-4">
             <div class="card h-100 text-center">
-                <img class="card-img-top" src="images/Chris.jpg" height = "350" alt="">
+                <img class="card-img-top" src="images/Chris.jpg" height = "350" style="object-fit: cover" alt="">
                 <div class="card-body">
                     <h4 class="card-title">Chris Eschler</h4>
                     <h5 class="card-title">Student Advisor</h5>
@@ -170,10 +170,10 @@
 
           <div class="col-lg-4 mb-4">
               <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/jason-ramirez.jpg" height="350" alt="">
+                  <img class="card-img-top" src="images/jason-ramirez.jpg" height="350" style="object-fit: cover" alt="">
                   <div class="card-body">
                       <h4 class="card-title">Jason Ramirez</h4>
-                      <h5 class="card-title">Secretary</h5>
+                      <h5 class="card-title">Secretary/Team Lead</h5>
                       <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2022</h6>
                       <p class="card-text">“Working towards a brighter future.”</p>
                   </div>
@@ -184,7 +184,7 @@
         </div>
           <div class="col-lg-4 mb-4">
               <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/vivian-cheng.jpg" height = "350" alt="">
+                  <img class="card-img-top" src="images/vivian-cheng.jpg" height="350" style="object-fit: cover" alt="">
                   <div class="card-body">
                       <h4 class="card-title">Vivian Cheng</h4>
                       <h5 class="card-title">Social Chair/Webmaster</h5>
@@ -200,7 +200,7 @@
           </div>
           <div class="col-lg-4 mb-4">
               <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/hung-huynh.jpg" height="350" alt="">
+                  <img class="card-img-top" src="images/hung-huynh.jpg" height="350" style="object-fit: cover" alt="">
                   <div class="card-body">
                       <h4 class="card-title">Hung Huynh</h4>
                       <h5 class="card-title">Fundraising Lead</h5>
