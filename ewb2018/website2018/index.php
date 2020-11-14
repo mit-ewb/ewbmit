@@ -107,7 +107,7 @@
                         <h4 class="card-title">
                             <a href="#">Irrigation, Tanzania</a>
                         </h4>
-                        <p class="card-text">We're designing a test garden for the school in Mkutani.</p>
+                        <p class="card-text">We're designing an irrigation system for a test garden for the school in Mkutani.</p>
                     </div>
                     <div class="card-footer">
                         <a href="irrigation.php" class="btn btn-primary">Learn More</a>
