@@ -107,7 +107,7 @@
                         <img class="card-img-top" src="images/exec/fiona-duong.jpg" height = "350" style="object-fit: cover" alt="">
                         <div class="card-body">
                             <h4 class="card-title">Fiona Duong</h4>
-                            <h5 class="card-title">Female Health & Sanitation Team Co-Lead</h5>
+                            <h5 class="card-title">Female Health and Sanitation Team Co-Lead</h5>
                             <h6 class="card-subtitle mb-2 text-muted">Chemical-Biological Engineering | 2024</h6>
                             <p class="card-text">"Keep moving forward."</p>
                         </div>
