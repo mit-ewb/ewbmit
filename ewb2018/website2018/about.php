@@ -104,11 +104,11 @@
 
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/amel-elawad-2.jpg" height = "350" style="object-fit: cover" alt="">
+                        <img class="card-img-top" src="images/exec/fiona-duong.jpg" height = "350" style="object-fit: cover" alt="">
                         <div class="card-body">
-                            <h4 class="card-title">Amel Elawad</h4>
-                            <h5 class="card-title">Female Sanitation Team Lead</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Physics | 2021</h6>
+                            <h4 class="card-title">Fiona Duong</h4>
+                            <h5 class="card-title">Female Health & Sanitation Team Co-Lead</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Chemical-Biological Engineering | 2024</h6>
                             <p class="card-text">"Keep moving forward."</p>
                         </div>
                         <div class="card-footer">
@@ -192,6 +192,34 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-4 mb-4">
+                    <div class="card h-100 text-center">
+                        <img class="card-img-top" src="images/exec/abigail-frey.jpg" height = "350" style="object-fit: cover" alt="">
+                        <div class="card-body">
+                            <h4 class="card-title">Abigail Frey</h4>
+                            <h5 class="card-title">Student Advisor</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Chemical-Biological Engineering | 2021</h6>
+                            <p class="card-text">“A problem is a chance for you to do your best.”</p>
+                        </div>
+                        <div class="card-footer">
+                            <!--                    <a href="#">name@example.com</a>-->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-4">
+                    <div class="card h-100 text-center">
+                        <img class="card-img-top" src="images/exec/amel-elawad-2.jpg" height = "350" style="object-fit: cover" alt="">
+                        <div class="card-body">
+                            <h4 class="card-title">Amel Elawad</h4>
+                            <h5 class="card-title">Student Advisor</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Physics | 2021</h6>
+                            <p class="card-text">"Keep moving forward."</p>
+                        </div>
+                        <div class="card-footer">
+                            <!-- <a href="#">name@example.com</a> -->
+                        </div>
+                    </div>
+                </div>
             </div>
 
         <!-- <div class="col-lg-4 mb-4">
@@ -208,20 +236,8 @@
             </div>
           </div>
         </div> -->
-        <!-- div class="col-lg-4 mb-4">
-            <div class="card h-100 text-center">
-                <img class="card-img-top" src="images/exec/abigail-frey.jpg" height = "350" style="object-fit: cover" alt="">
-                <div class="card-body">
-                    <h4 class="card-title">Abigail Frey</h4>
-                    <h5 class="card-title">External Relations Chair</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Chemical-Biological Engineering | 2021</h6>
-                    <p class="card-text">“A problem is a chance for you to do your best.”</p>
-                </div>
-                <div class="card-footer">
-                    <a href="#">name@example.com</a>
-                </div>
-            </div>
-        </div -->
+
+
 
 
       <!-- Our Customers
