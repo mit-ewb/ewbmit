@@ -27,13 +27,3 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
-
-/* manually added */
-.footer {
-  display: flex;
-  justify-content:center;
-  margin-bottom: 4px
-}
-.social {
-  margin-left: 4px
-}
