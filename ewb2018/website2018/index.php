@@ -19,19 +19,15 @@
            <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
         </ol>
         <div class="carousel-inner" role="listbox">
+
           <!-- Slide One - Set the background image for this slide in the line below -->
-          <div class="carousel-item active" style="background-image: url('images/banner_blm.png')">
-            <div class="carousel-caption d-none d-md-block">
-            </div>
-          </div>
-          <!-- Slide Two - Set the background image for this slide in the line below -->
-          <div class="carousel-item" style="background-image: url('images/banner1 copy.jpg')">
+          <div class="carousel-item active" style="background-image: url('images/banner1 copy.jpg')">
             <div class="carousel-caption d-none d-md-block">
                 <h3>Making friends in Mkutani, Tanzania</h3>
                 <p>In January 2018, two of our members got the opportunity to travel to Tanzania to conduct an assessment trip and learn about the community's needs. Together, we have replaced this unreliable pump with a solar-powered one. </p>
             </div>
           </div>
-          <!-- Slide Three - Set the background image for this slide in the line below -->
+          <!-- Slide Two - Set the background image for this slide in the line below -->
           <div class="carousel-item" style="background-image: url('images/banner2 copy.jpg')">
             <div class="carousel-caption d-none d-md-block">
                 <h3>Goal: Clean Drinking Water</h3>
@@ -40,18 +36,23 @@
               <p>In the past, one of our members went to Ghana to help process moringa leaves and assess how we could improve the methods. </p> -->
             </div>
           </div>
-          <!-- Slide Four - Set the background image for this slide in the line below -->
+          <!-- Slide Three - Set the background image for this slide in the line below -->
           <div class="carousel-item" style="background-image: url('images/banner3 copy.jpg')">
               <div class="carousel-caption d-none d-md-block">
               </div>
       </div>
-        <!-- Slide Five - Set the background image for this slide in the line below -->
+        <!-- Slide Four - Set the background image for this slide in the line below -->
         <div class="carousel-item" style="background-image: url('images/banner4 copy.jpg')">
             <div class="carousel-caption d-none d-md-block">
             </div>
         </div>
-            <!-- Slide Six - Set the background image for this slide in the line below -->
+            <!-- Slide Five - Set the background image for this slide in the line below -->
             <div class="carousel-item" style="background-image: url('images/banner5 copy.jpg')">
+                <div class="carousel-caption d-none d-md-block">
+                </div>
+            </div>
+            <!-- Slide Six - Set the background image for this slide in the line below -->
+            <div class="carousel-item" style="background-image: url('images/banner_blm.png')">
                 <div class="carousel-caption d-none d-md-block">
                 </div>
             </div>
