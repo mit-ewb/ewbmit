@@ -23,6 +23,40 @@
         </li>
         <li class="breadcrumb-item active">Updates</li>
       </ol>
+
+<!--        <h3>Newsletter</h3>-->
+<!--        <div class="row">-->
+<!--            <div class="col-lg-6">-->
+<!--                <iframe src="newsletter%20fall%202021%20(1).pdf" width="80%" height="1000" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>-->
+<!--            </div>-->
+<!--            <div class="col-lg-6">-->
+<!--                <h4>Past Newsletters</h4>-->
+<!--                <a href="newsletter%20fall%202021%20(1).pdf" target="_blank">Fall 2020</a>-->
+<!--                <a href="EWB%20Newsletter-%20FINAL%202020.pdf" target="_blank">Fall 2020</a>-->
+<!--                <a href="EWB%20Newsletter-%20FINAL%202019.pdf" target="_blank">Fall 2019</a>-->
+<!--                <a href="EWB%20Newsletter-%20final%20draft.pdf" target="_blank">Fall 2018</a>-->
+<!--            </div>-->
+<!--        </div>-->
+        <h3>Newsletter</h3>
+        <div style="display:flex">
+        <iframe src="newsletter%20fall%202021%20(1).pdf" width="80%" height="1000" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>
+        <div style="padding:10px">
+            <a href="newsletter%20fall%202021%20(1).pdf" target="_blank">Open in new tab</a>
+            <p></p>
+            <h4>Previous Editions</h4>
+            <!--                <a href="newsletter%20fall%202021%20(1).pdf" target="_blank">Fall 2020</a>-->
+            <a href="EWB%20Newsletter-%20FINAL%202020.pdf" target="_blank">Fall 2020</a><br>
+            <a href="EWB%20Newsletter-%20FINAL%202019.pdf" target="_blank">Fall 2019</a><br>
+            <a href="EWB%20Newsletter-%20final%20draft.pdf" target="_blank">Fall 2018</a>
+        </div>
+<!--        <a href="newsletter%20fall%202021%20(1).pdf" target="_blank">Fall 2020</a>-->
+<!--        <a href="EWB%20Newsletter-%20FINAL%202020.pdf" target="_blank">Fall 2020</a>-->
+<!--        <a href="EWB%20Newsletter-%20FINAL%202019.pdf" target="_blank">Fall 2019</a>-->
+<!--        <a href="EWB%20Newsletter-%20final%20draft.pdf" target="_blank">Fall 2018</a>-->
+<!--        <iframe src="EWB%20Newsletter-%20FINAL%202020.pdf" width="500" height="500" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>-->
+<!--        <iframe src="EWB%20Newsletter-%20FINAL%202019.pdf" width="500" height="500" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>-->
+<!--        <iframe src="EWB%20Newsletter-%20final%20draft.pdf" width="500" height="500" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>-->
+    </div>
         
     <p><h3>Social Media</h3>
     <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fewbmit%2F&tabs=timeline&width=1500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>
@@ -30,11 +64,7 @@
 
     </p>
 
-    <p><h3>Newsletter</h3>
-        <iframe src="EWB%20Newsletter-%20FINAL%202020.pdf" width="500" height="500" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>
-        <iframe src="EWB%20Newsletter-%20FINAL%202019.pdf" width="500" height="500" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>
-        <iframe src="EWB%20Newsletter-%20final%20draft.pdf" width="500" height="500" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>
-    </p>
+
 
         <p><h3>Blog Archives</h3>
     <!-- Blog Post -->

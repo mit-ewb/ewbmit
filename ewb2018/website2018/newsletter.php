@@ -25,8 +25,11 @@
       <!-- Intro Content -->
       <div class="row">
         <div class="col-lg-6">
-          <iframe width="1000" height="500" src="EWB%20Newsletter-%20final%20draft.pdf"></iframe>
-          <!--<img class="img-fluid rounded mb-4" src="images/projects/mkutani1.jpg" alt="">-->
+            <iframe src="EWB%20Newsletter-%20FINAL%202020.pdf" width="500" height="500" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>
+            <iframe src="EWB%20Newsletter-%20FINAL%202019.pdf" width="500" height="500" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>
+            <iframe src="EWB%20Newsletter-%20final%20draft.pdf" width="500" height="500" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>
+
+            <!--<img class="img-fluid rounded mb-4" src="images/projects/mkutani1.jpg" alt="">-->
         </div>
         </div>
         </div>
