@@ -58,7 +58,7 @@
                         <img class="card-img-top" src="images/exec/hung-huynh.jpg" height="350" style="object-fit: cover" alt="">
                         <div class="card-body">
                             <h4 class="card-title">Hung Huynh</h4>
-                            <h5 class="card-title">Program Manager/Fundraising Co-Lead</h5>
+                            <h5 class="card-title">Program Manager/Fundraising Lead</h5>
                             <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering (& Entrepreneurship) | 2024</h6>
                             <p class="card-text">"When you change the way you look at things, the things you look at change." - Max Planck</p>
                         </div>
@@ -136,12 +136,12 @@
                 </div>
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/tova-kleiner.jpg" height="350" style="object-fit: cover" alt="">
+                        <img class="card-img-top" src="images/exec/stephany-pang.jpg" height="350" style="object-fit: cover" alt="">
                         <div class="card-body">
-                            <h4 class="card-title">Tova Kleiner</h4>
-                            <h5 class="card-title">Fundraising Co-Lead</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering and Design | 2025</h6>
-<!--                            <p class="card-text">“Life is a journey, not a destination.” -Ralph Waldo Emerson"</p>-->
+                            <h4 class="card-title">Panhasopheak (Stephany) Pang</h4>
+                            <h5 class="card-title">Secretary</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Physics | 2022</h6>
+                           <p class="card-text">"Getting enough sleep is important."</p>
                         </div>
                         <div class="card-footer">
                         </div>
