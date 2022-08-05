@@ -84,7 +84,8 @@
 
             <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
-                    <a href="#"><video controls width="100%" alt="Mktutani Assessment Trip 2022"><source src="media/Tanzania 2022.mp4"></video></a>
+                  <a href="#"><img class="card-img-top" src="images/travelteam2022.jpeg" height="240" alt=""></a>
+                    <!-- <a href="#"><video controls width="100%" alt="Mktutani Assessment Trip 2022"><source src="media/Tanzania 2022.mp4"></video></a> -->
                     <div class="card-body">
                         <h4 class="card-title">
                             <a href="#">Assessment Trip 2022: Mkutani, Tanzania</a>
@@ -100,7 +101,7 @@
             
             <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
-                    <a href="#"><img class="card-img-top" src="images/projects/mkutani_assessment2.png" height="200" alt=""></a>
+                    <a href="#"><img class="card-img-top" src="images/projects/mkutani_assessment2.png" height="240" alt=""></a>
                     <div class="card-body">
                         <h4 class="card-title">
                             <a href="#">Irrigation, Tanzania</a>
@@ -115,7 +116,7 @@
 
             <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
-                    <a href="#"><img class="card-img-top" src="images/gallery0.jpg" height="200" alt=""></a>
+                    <a href="#"><img class="card-img-top" src="images/gallery0.jpg" height="240" alt=""></a>
                     <div class="card-body">
                         <h4 class="card-title">
                             <a href="#">Female Sanitation, Tanzania</a>

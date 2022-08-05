@@ -36,7 +36,7 @@
                     <a class="nav-link" href="updates.php">Updates</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="getInvolved.php">Get Involved</a>
+                    <a class="nav-link" href="getInvolved.php">Join</a>
                 </li>
                 <!-- <li class="nav-item">
                     <a class="nav-link" href="newsletter.php">Newsletter</a>
