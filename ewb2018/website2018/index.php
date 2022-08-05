@@ -52,10 +52,10 @@
                 </div>
             </div>
             <!-- Slide Six - Set the background image for this slide in the line below -->
-            <div class="carousel-item" style="background-image: url('images/banner_blm.png')">
+            <!-- <div class="carousel-item" style="background-image: url('images/banner_blm.png')">
                 <div class="carousel-caption d-none d-md-block">
                 </div>
-            </div>
+            </div> -->
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -71,17 +71,33 @@
     <!-- Page Content -->
     <div class="container">
 <br>
-      <div>
+      <!-- <div>
         <img class="img-fluid rounded mb-4" src="images/ewb-logo.png" alt="">
-      </div>
+      </div> -->
 
 
        <!-- <h1 class="my-4">Welcome to MIT Engineers Without Borders!</h1> -->
 
       <!-- Portfolio Section -->
-      <h2>Our Current Projects</h2>
-
+      <h2>Most Recent</h2>
         <div class="row">
+
+            <div class="col-lg-4 col-sm-6 portfolio-item">
+                <div class="card h-100">
+                    <a href="#"><video controls width="100%" alt="Mktutani Assessment Trip 2022"><source src="media/Tanzania 2022.mp4"></video></a>
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            <a href="#">Assessment Trip 2022: Mkutani, Tanzania</a>
+                        </h4>
+                        <p class="card-text">In June 2022, four of our members got the chance to travel to Tanzania to conduct assessment trips for our Irrigation and Female Health & Sanitation projects in Mkutani.</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="https://www.instagram.com/ewbmit/" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+
+            </div>
+            
             <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
                     <a href="#"><img class="card-img-top" src="images/projects/mkutani_assessment2.png" height="200" alt=""></a>
@@ -89,7 +105,7 @@
                         <h4 class="card-title">
                             <a href="#">Irrigation, Tanzania</a>
                         </h4>
-                        <p class="card-text">We're designing an irrigation system for a test garden for the school in Mkutani.</p>
+                        <p class="card-text">We're designing an irrigation system for a test garden for the schoolhouse in Mkutani to grow food to feed around 200 students a day.</p>
                     </div>
                     <div class="card-footer">
                         <a href="irrigation.php" class="btn btn-primary">Learn More</a>
@@ -112,7 +128,10 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 col-sm-6 portfolio-item">
+            
+            
+
+            <!-- <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
                     <a href="#"><img class="card-img-top" src="images/gallery9.jpg" height="200" alt=""></a>
                     <div class="card-body">
@@ -125,7 +144,7 @@
                         <a href="manual.php" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
           <!--
         <div class="col-lg-4 col-sm-6 portfolio-item">
