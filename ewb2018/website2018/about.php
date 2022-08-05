@@ -41,24 +41,13 @@
 
             <div class="row">
 <!--          </div>-->
-                <div class="col-lg-4 mb-4">
-                    <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/vivian-cheng.jpg" height="350" style="object-fit: cover" alt="">
-                        <div class="card-body">
-                            <h4 class="card-title">Vivian Cheng</h4>
-                            <h5 class="card-title">President</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2023</h6>
-                            <p class="card-text">"Doubt kills more dreams than failure ever will.” - Suzy Kassem</p>
-                        </div>
-                        <div class="card-footer"></div>
-                    </div>
-                </div>
+                
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
                         <img class="card-img-top" src="images/exec/hung-huynh.jpg" height="350" style="object-fit: cover" alt="">
                         <div class="card-body">
                             <h4 class="card-title">Hung Huynh</h4>
-                            <h5 class="card-title">Program Manager/Fundraising Lead</h5>
+                            <h5 class="card-title">President</h5>
                             <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering (& Entrepreneurship) | 2024</h6>
                             <p class="card-text">"When you change the way you look at things, the things you look at change." - Max Planck</p>
                         </div>
@@ -69,7 +58,7 @@
 
 <!--        </div>-->
 
-              <div class="col-lg-4 mb-4">
+              <!-- <div class="col-lg-4 mb-4">
                   <div class="card h-100 text-center">
                       <img class="card-img-top" src="images/exec/umang-bansal-2022.jpg" height="350" style="object-fit: cover" alt="">
                       <div class="card-body">
@@ -79,15 +68,14 @@
                           <p class="card-text">"Doubt is not a pleasant condition, but certainty is absurd."</p>
                       </div>
                       <div class="card-footer">
-                          <!-- <a href="#">name@example.com</a> -->
-                      </div>
+                           <a href="#">name@example.com</a> 
+                       </div>
                   </div>
               </div>
-          </div>
+          </div> -->
 <!--    </div>-->
 
-            <div class="row" style="justify-content: center">
-
+            <!-- <div class="row" style="justify-content: center">  -->
 
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
@@ -117,6 +105,7 @@
                         </div>
                     </div>
                 </div>
+                
 
 <!--                -->
             </div>
@@ -147,8 +136,20 @@
                         </div>
                     </div>
                 </div>
-            </div>
-
+            
+                <div class="col-lg-4 mb-4">
+                    <div class="card h-100 text-center">
+                        <img class="card-img-top" src="images/exec/vivian-cheng.jpg" height="350" style="object-fit: cover" alt="">
+                        <div class="card-body">
+                            <h4 class="card-title">Vivian Cheng</h4>
+                            <h5 class="card-title">Student Advisor</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2023</h6>
+                            <p class="card-text">"Doubt kills more dreams than failure ever will.” - Suzy Kassem</p>
+                        </div>
+                        <div class="card-footer"></div>
+                    </div>
+                </div>
+              </div>
 
             <div class="row">
 
