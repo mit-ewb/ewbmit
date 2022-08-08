@@ -41,16 +41,16 @@
                 <!-- <li class="nav-item">
                     <a class="nav-link" href="newsletter.php">Newsletter</a>
                 </li> -->
-                <li class="nav-item">
+                <!-- <li class="nav-item"> -->
 <!--                    <a class="nav-link" href="https://crowdfund.mit.edu/project/20586">Donate</a>-->
-                    <a class="nav-link" href="https://crowdfund.mit.edu/story/Mit-Ewb">Donate</a>
+                    <!-- <a class="nav-link" href="https://crowdfund.mit.edu/story/Mit-Ewb">Donate</a> -->
                     <!-- <a class="nav-link" href="https://giving.mit.edu/give/to?fundId=2721177&source=WBMPP">Donate</a> -->
-                </li>
-                <li class="nav-item">
+                <!-- </li> -->
+                <!-- <li class="nav-item">
                     <a class="nav-link" href="gallery.php">Gallery</a>
-                </li>
+                </li> -->
                 <li class="nav-item">
-                    <a class="nav-link" href="sponsors.php">Supporters</a>
+                    <a class="nav-link" href="support.php">Support</a>
                 </li>
                 <!-- <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
