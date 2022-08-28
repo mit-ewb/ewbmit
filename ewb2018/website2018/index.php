@@ -104,7 +104,7 @@
                     <a href="#"><img class="card-img-top" src="images/projects/mkutani_assessment2.png" height="240" alt=""></a>
                     <div class="card-body">
                         <h4 class="card-title">
-                            <a href="#">Irrigation, Tanzania</a>
+                            <a href="#">Farm & Irrigation, Tanzania</a>
                         </h4>
                         <p class="card-text">We're designing an irrigation system for a test garden for the schoolhouse in Mkutani to grow food to feed around 200 students a day.</p>
                     </div>
@@ -119,7 +119,7 @@
                     <a href="#"><img class="card-img-top" src="images/gallery0.jpg" height="240" alt=""></a>
                     <div class="card-body">
                         <h4 class="card-title">
-                            <a href="#">Female Sanitation, Tanzania</a>
+                            <a href="#">Health & Sanitation, Tanzania</a>
                         </h4>
                         <p class="card-text">We're investigating ways to reduce female sanitation issues and mitigate their negative impacts on schoolgirls.</p>
                     </div>

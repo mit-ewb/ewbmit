@@ -24,20 +24,24 @@
         <li class="breadcrumb-item active">Updates</li>
       </ol>
 
-<!--        <h3>Newsletter</h3>-->
-<!--        <div class="row">-->
-<!--            <div class="col-lg-6">-->
-<!--                <iframe src="newsletter%20fall%202021%20(1).pdf" width="80%" height="1000" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>-->
-<!--            </div>-->
-<!--            <div class="col-lg-6">-->
-<!--                <h4>Past Newsletters</h4>-->
-<!--                <a href="newsletter%20fall%202021%20(1).pdf" target="_blank">Fall 2020</a>-->
-<!--                <a href="EWB%20Newsletter-%20FINAL%202020.pdf" target="_blank">Fall 2020</a>-->
-<!--                <a href="EWB%20Newsletter-%20FINAL%202019.pdf" target="_blank">Fall 2019</a>-->
-<!--                <a href="EWB%20Newsletter-%20final%20draft.pdf" target="_blank">Fall 2018</a>-->
-<!--            </div>-->
-<!--        </div>-->
-        <h3>Newsletter</h3>
+      
+      <div class="row">
+          <div class="col-lg-6">
+            <h3>Recent Activity</h3>
+            <p>In June 2022, 4 of our members traveled to Mkutani, Tanzania to visit our partner community for the first time since 2019 and conduct assessment for our two current projects.</p>
+            <p>The Health & Sanitation team spoke with village leaders, dispensary staff, and other community members to learn what we can do to make the Mkutani Dispensary a better, safer place for the community as a whole.</p>
+            <p>The Farm & Irrigation team spoke to the headmaster and a teacher at the Mkutani Primary School about school nutrition, farming, and potential locations for a test garden.</p>
+          </div>
+          <div class="col-lg-6">
+            <a href="#"><video controls width="100%" alt="Mktutani Assessment Trip 2022"><source src="media/Tanzania 2022.mp4"></video></a>
+          </div>
+      </div>
+
+      
+
+
+        
+      <h3>Newsletter</h3>
         <div style="display:flex">
         <iframe src="media/newsletter fall 2021 (1).pdf" width="80%" height="1000" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>
         <div style="padding:10px">
@@ -49,13 +53,6 @@
             <a href="media/EWB%20Newsletter-%20FINAL%202019.pdf" target="_blank">Fall 2019</a><br>
             <a href="media/EWB Newsletter- final draft.pdf" target="_blank">Fall 2018</a>
         </div>
-<!--        <a href="newsletter%20fall%202021%20(1).pdf" target="_blank">Fall 2020</a>-->
-<!--        <a href="EWB%20Newsletter-%20FINAL%202020.pdf" target="_blank">Fall 2020</a>-->
-<!--        <a href="EWB%20Newsletter-%20FINAL%202019.pdf" target="_blank">Fall 2019</a>-->
-<!--        <a href="EWB%20Newsletter-%20final%20draft.pdf" target="_blank">Fall 2018</a>-->
-<!--        <iframe src="EWB%20Newsletter-%20FINAL%202020.pdf" width="500" height="500" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>-->
-<!--        <iframe src="EWB%20Newsletter-%20FINAL%202019.pdf" width="500" height="500" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>-->
-<!--        <iframe src="EWB%20Newsletter-%20final%20draft.pdf" width="500" height="500" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>-->
     </div>
         
     <p><h3>Social Media</h3>
