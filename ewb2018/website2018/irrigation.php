@@ -13,7 +13,7 @@
 <div class="container">
 
     <!-- Page Heading/Breadcrumbs -->
-    <h1 class="mt-4 mb-3">Irrigation
+    <h1 class="mt-4 mb-3">Farm & Irrigation
         <small>Mkutani, Tanzania</small>
     </h1>
 
@@ -21,7 +21,7 @@
         <li class="breadcrumb-item">
             <a href="projects.php">Projects</a>
         </li>
-        <li class="breadcrumb-item active">Structures</li>
+        <li class="breadcrumb-item active">Farm & Irrigation</li>
     </ol>
 
     <!-- Intro Content -->
