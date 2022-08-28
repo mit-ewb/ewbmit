@@ -20,16 +20,17 @@
                         Projects
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
-                        <a class="dropdown-item" href="projects.php">All Projects</a>
-                        <a class="dropdown-item" href="irrigation.php">Irrigation, Tanzania</a>
-                        <a class="dropdown-item" href="sanitation.php">Female Sanitation, Tanzania</a>
-                        <a class="dropdown-item" href="manual.php">Solar Manual, Tanzania</a>
+                        <!-- <a class="dropdown-item" href="projects.php">All Projects</a> -->
+                        <a class="dropdown-item" href="irrigation.php">Farm & Irrigation, Tanzania</a>
+                        <a class="dropdown-item" href="sanitation.php">Health & Sanitation, Tanzania</a>
+                        <a class="dropdown-item" href="pastprojects.php">Past Projects</a>
+                        <!-- <a class="dropdown-item" href="manual.php">Solar Manual, Tanzania</a>
                         <a class="dropdown-item" href="structures.php">Structures, Tanzania</a>
                         <a class="dropdown-item" href="local.php">Local Projects, US</a>
                         <a class="dropdown-item" href="mkutani.php">Solar Pump, Tanzania</a>
                         <a class="dropdown-item" href="moringa.php">Moringa Connect, Ghana</a>
                         <a class="dropdown-item" href="plastics.php">Plastics, Uganda</a>
-                        <a class="dropdown-item" href="charcoal.php">Charcoal, D-Lab</a>
+                        <a class="dropdown-item" href="charcoal.php">Charcoal, D-Lab</a> -->
                     </div>
                 </li>
                 <li class="nav-item">
