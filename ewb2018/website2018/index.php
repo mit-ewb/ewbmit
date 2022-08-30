@@ -69,6 +69,12 @@
     </header>
 
     <!-- Page Content -->
+    <div style="text-align: center; padding: 2%; background: #f7f7f7;">
+        <h1 style="text-align: center">Welcome Back!</h1>
+        <p>Interested in creating global engineering impact?</p>
+        <p>Join our community of passionate students who care about learning how to make a difference!<p>
+        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="https://forms.gle/56qSTkWDzHW2GXYK9">Join Now</a>
+      </div>
     <div class="container">
 <br>
       <!-- <div>
@@ -79,6 +85,8 @@
        <!-- <h1 class="my-4">Welcome to MIT Engineers Without Borders!</h1> -->
 
       <!-- Portfolio Section -->
+      
+      
       <h2>Most Recent</h2>
         <div class="row">
 
