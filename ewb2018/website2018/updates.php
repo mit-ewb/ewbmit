@@ -25,7 +25,7 @@
       </ol>
 
       
-      <!-- <div class="row">
+      <div class="row">
           <div class="col-lg-6">
             <h3>Recent Activity</h3>
             <p>In June 2022, 4 of our members traveled to Mkutani, Tanzania to visit our partner community for the first time since 2019 and conduct assessment for our two current projects.</p>
@@ -33,9 +33,9 @@
             <p>The Farm & Irrigation team spoke to the headmaster and a teacher at the Mkutani Primary School about school nutrition, farming, and potential locations for a test garden.</p>
           </div>
           <div class="col-lg-6">
-            <a href="#"><video controls width="100%" alt="Mktutani Assessment Trip 2022"><source src="media/Tanzania2022.mp4"></video></a>
+            <a href="#"><video controls width="100%" alt="Mktutani Assessment Trip 2022"><source src="media/Tanzania2022.mp4" type="video/mp4"></video></a>
           </div>
-      </div> -->
+      </div>
 
       
 
