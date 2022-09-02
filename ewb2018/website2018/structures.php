@@ -31,7 +31,8 @@
         </div>
         <div class="col-lg-6">
           <h2>Project Description</h2>
-          <p>We are planning to construct an additional building for the schoolhouse in Mkutani to function as a flexible learning center and to better support the village's 600 students. Harvard worked on the schoolhouse in May/June 2018, and building additional spaces was identified as a top 5 priority for the community. (This project is currently being worked on by the Boston Professional Chapter).</p>
+          <p>We are planning to construct an additional building for the schoolhouse in Mkutani to function as a flexible learning center and to better support the village's 600 students. Harvard worked on the schoolhouse in May/June 2018, and building additional spaces was identified as a top 5 priority for the community.</p>
+          <p>This project is currently being worked on by the <a href="https://www.ewbboston.org/active-projects/mkutani-multipurpose-classroom" alt="">Boston Professional Chapter</a>.<p>
         </div>
       </div>
       <!-- /.row -->

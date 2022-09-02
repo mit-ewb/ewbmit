@@ -30,10 +30,25 @@
           <img class="img-fluid rounded mb-4" src="images/gallery0.jpg" alt="">
         </div>
         <div class="col-lg-6">
-          <h2>Project Description</h2>
-          <p>We are working with local contacts in Tanzania to investigate ways to address needs expressed by the women in Mkutani.</p>
+          <h3>Project Description</h3>
+          <br>
+          <p>The MIT Chapter of Engineers Without Borders (EWB-MIT) has had a previously established relationship with Mkutani due to past projects conducted within the village in partnership with the EWB Boston Professionals Chapter (EWB-BPC). At the end of August 2018, EWB-MIT and BPC implemented a solar-powered water pump and began training the village on its use. During that same trip, members spoke with community members on issues surrounding maternal care. Through those discussions it was established that the village had some interest in improving upon the current level of maternal care provided at the community’s local healthcare facility, the Mkutani Dispensary. This project is now being established with the hopes of addressing this interest. </p>
+          <!-- <p>We are working with local contacts in Tanzania to investigate ways to address needs expressed by the women in Mkutani.</p> -->
         </div>
       </div>
+      <div class="row">
+        <p>In 2018 and 2019, meetings with female members of the village helped EWB-MIT and BPC identify some initial concerns surrounding privacy at the dispensary and the current state of the facility. In addition to those past meetings, the village’s dispensary committee also came to the conclusion in a 2019 dispensary report that roughly 1 in 3 mothers in the area gave birth outside the dispensary and that challenges facing the facility included “lack of reliable medical instruments and poor delivery environment.” Recently, in a 2021 meeting with the medical leads of the dispensary, new rough estimations predicted that as many as 50% of births in the area were taking place outside of the local Mkutani dispensary, in part due to an inability to accommodate more complicated infant deliveries. </p>
+        <div class="col-lg-6" style="padding-left:0; padding-top:1%">
+          <p>More recently, members of our team had the privilege to travel back to Mkutani in June 2022. Our discussions with dispensary staff during that trip provided us with an even greater sense of the equipment disparities the facility currently faces, but also notably the lack of infrastructure there is to support new equipment even if the staff were able to purchase them. For instance, it was mentioned that blood testing equipment, such as a microscope, hemoglobin machines, and an incubator would be helpful for treating patients, as well as an autoclave to sterilize tools. However, all these pieces of machinery would need reliable power as well as lab bench space. The dispensary currently has power provided to them by the Tanzanian government (TANESCO) but they occasionally experience power outages from time to time. </p>
+        </div>
+        <div class="col-lg-6">
+          <img class="img-fluid rounded mb-4" src="images/projects/dispensary.png" alt="The Mkutani Dispensary">
+        </div>
+          
+          <p>We also conducted more focus groups with mothers as well as younger teenage girls during which it was noted that along with a lack of privacy, the dispensary also has some major concerns about sanitation. Insects and flies as well as dust often get into the rooms due to broken windows. There also are various signs of water damage on the exterior ceiling tiles, and the current roof is infested with bats. Additionally, the current roof has a water catchment system, but it has been reportedly insufficient in gathering enough water all-year-round to meet the needs of birthing mothers. Many women are expected to provide liters of water for themselves when they come in to give birth, sometimes even as much as 120 liters. </p>
+          <p>With the data gathered on this assessment trip, we will be considering several potential solutions to feasibly improve the quality of maternal care accessible to the women of Mkutani at the local dispensary. Moving forward into the school year, we will document our alternative analysis as we weigh each feasible solution before ultimately initiating planning for a phase of  project implementation in the summer of 2023. </p>
+      </div>
+
       <!-- /.row -->
 
       <!-- Team Members -->

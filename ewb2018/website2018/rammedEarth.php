@@ -45,7 +45,7 @@
 
         <div class="col-md-8">
           <img class="img-fluid" src="http://placehold.it/750x500" alt="">
-          <a href="#"><video controls width="100%" alt="Mktutani Assessment Trip 2022"><source src="media/Tanzania2022.mp4" type="video/mp4"></video></a>
+          <!-- <a href="#"><video controls width="100%" alt="Mktutani Assessment Trip 2022"><source src="media/Tanzania2022.mp4" type="video/mp4"></video></a> -->
         </div>
 
         <div class="col-md-4">

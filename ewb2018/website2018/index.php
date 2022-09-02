@@ -73,7 +73,7 @@
         <h1 style="text-align: center">Welcome Back!</h1>
         <p>Interested in creating global engineering impact?</p>
         <p>Join our community of passionate students who care about learning how to make a difference!<p>
-        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="https://forms.gle/56qSTkWDzHW2GXYK9">Join Now</a>
+        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="https://forms.gle/56qSTkWDzHW2GXYK9" target="blank">Join Now</a>
       </div>
     <div class="container">
 <br>
@@ -98,10 +98,10 @@
                         <h4 class="card-title">
                             <a href="#">Assessment Trip 2022: Mkutani, Tanzania</a>
                         </h4>
-                        <p class="card-text">In June 2022, four of our members got the chance to travel to Tanzania to conduct assessment trips for our Irrigation and Female Health & Sanitation projects in Mkutani.</p>
+                        <p class="card-text">In June 2022, four of our members got the chance to travel to Tanzania to conduct assessment trips for our Farm & Irrigation and Health & Sanitation projects in Mkutani.</p>
                     </div>
                     <div class="card-footer">
-                        <a href="https://www.instagram.com/ewbmit/" class="btn btn-primary">Learn More</a>
+                        <a href="http://ewb.mit.edu/updates.php" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
 
@@ -114,7 +114,7 @@
                         <h4 class="card-title">
                             <a href="#">Farm & Irrigation, Tanzania</a>
                         </h4>
-                        <p class="card-text">We're designing an irrigation system for a test garden for the schoolhouse in Mkutani to grow food to feed around 200 students a day.</p>
+                        <p class="card-text">We are building a garden for vegetables to supplement 600 students at the Mkutani Primary School with more nutritious lunches.</p>
                     </div>
                     <div class="card-footer">
                         <a href="irrigation.php" class="btn btn-primary">Learn More</a>
@@ -129,7 +129,7 @@
                         <h4 class="card-title">
                             <a href="#">Health & Sanitation, Tanzania</a>
                         </h4>
-                        <p class="card-text">We're investigating ways to reduce female sanitation issues and mitigate their negative impacts on schoolgirls.</p>
+                        <p class="card-text">We are investigating ways to improve the level of maternal care available to women in Mkutani and mitigate the effects of female health & sanitation issues on schoolgirls.</p>
                     </div>
                     <div class="card-footer">
                         <a href="sanitation.php" class="btn btn-primary">Learn More</a>
