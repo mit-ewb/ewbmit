@@ -41,7 +41,7 @@
             </div>
             <div class="col-md-5">
                 <h3>Solar Manual, Tanzania</h3>
-                <p>We are working to ensure the sustainability of our solar pump project in Tanzania. (Current) </p>
+                <p>We are working to ensure the sustainability of our solar pump project in Tanzania. </p>
                 <a class="btn btn-primary" href="manual.php">View Project
                     <span class="glyphicon glyphicon-chevron-right"></span>
                 </a>
@@ -79,7 +79,7 @@
             </div>
             <div class="col-md-5">
                 <h3>Local Projects, US</h3>
-                <p>We are working to impact our local community. (Current) </p>
+                <p>We are working to impact our local community. </p>
                 <a class="btn btn-primary" href="local.php">View Project
                     <span class="glyphicon glyphicon-chevron-right"></span>
                 </a>

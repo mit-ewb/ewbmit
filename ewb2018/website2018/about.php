@@ -25,7 +25,7 @@
             <!-- Intro Content -->
             <div class="row">
               <div class="col-lg-6">
-                  <iframe width="560" height="315" src="https://www.youtube.com/embed/xv-p8_q_5I0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                  <iframe class="rounded mb-4" width="560" height="315" src="https://www.youtube.com/embed/xv-p8_q_5I0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                   <!--<img class="img-fluid rounded mb-4" src="images/projects/mkutani1.jpg" alt="">-->
               </div>
               <div class="col-lg-6">
