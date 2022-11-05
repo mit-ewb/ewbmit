@@ -124,7 +124,7 @@
 
             <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
-                    <a href="#"><img class="card-img-top" src="images/gallery0.jpg" height="240" alt=""></a>
+                    <a href="#"><img class="card-img-top" src="images/projects/women_focus_group.jpeg" height="240" alt=""></a>
                     <div class="card-body">
                         <h4 class="card-title">
                             <a href="#">Health & Sanitation, Tanzania</a>
