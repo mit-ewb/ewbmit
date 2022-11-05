@@ -27,7 +27,7 @@
       <!-- Intro Content -->
       <div class="row">
         <div class="col-lg-6">
-          <img class="img-fluid rounded mb-4" src="images/gallery0.jpg" alt="">
+          <img class="img-fluid rounded mb-4" src="images/projects/women_focus_group.jpeg" alt="">
         </div>
         <div class="col-lg-6">
           <h3>Project Description</h3>
