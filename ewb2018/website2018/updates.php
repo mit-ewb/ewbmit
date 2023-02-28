@@ -44,12 +44,13 @@
       <br>  
       <h3>Newsletter</h3>
         <div style="display:flex">
-        <iframe src="media/newsletter fall 2021 (1).pdf" width="80%" height="1000" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>
+        <iframe src="media/EWB Newsletter Winter 2023.pdf" width="80%" height="1000" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>
         <div style="padding:10px">
-            <a href="media/newsletter fall 2021 (1).pdf" target="_blank">Open in new tab</a>
+            <a href="media/EWB Newsletter Winter 2023.pdf" target="_blank">Open in new tab</a>
             <p></p>
             <h4>Previous Editions</h4>
             <!--                <a href="newsletter%20fall%202021%20(1).pdf" target="_blank">Fall 2020</a>-->
+            <a href="media/newsletter fall 2021 (1).pdf" target="_blank">Fall 2021</a><br>
             <a href="media/EWB%20Newsletter-%20FINAL%202020.pdf" target="_blank">Fall 2020</a><br>
             <a href="media/EWB%20Newsletter-%20FINAL%202019.pdf" target="_blank">Fall 2019</a><br>
             <a href="media/EWB Newsletter- final draft.pdf" target="_blank">Fall 2018</a>
