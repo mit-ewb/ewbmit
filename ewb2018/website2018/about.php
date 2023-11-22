@@ -168,17 +168,10 @@
                     <div class="card h-100 text-center">
                         <img class="card-img-top" src="images/exec/keonna-simon.jpeg" height="350" style="object-fit: cover" alt="">
                         <div class="card-body">
-<<<<<<< Updated upstream
-                            <h4 class="card-title">Vivian Cheng</h4>
-                            <h5 class="card-title">Student Advisor</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Civil & Environmental Engineering | 2023</h6>
-                            <p class="card-text">"Doubt kills more dreams than failure ever will.” - Suzy Kassem</p>
-=======
                             <h4 class="card-title">Keonna Simon</h4>
                             <h5 class="card-title">Webmaster</h5>
                             <h6 class="card-subtitle mb-2 text-muted">Computer Science and Molecular Biology | 2026</h6>
                             <p class="card-text">"Be so good they can't ignore you.” - Steve Martin</p>
->>>>>>> Stashed changes
                         </div>
                         <div class="card-footer"></div>
                     </div>
