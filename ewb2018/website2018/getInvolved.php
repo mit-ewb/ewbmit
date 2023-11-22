@@ -31,7 +31,7 @@
             <ul>
                 <li>Join us! Check out our calendar for meeting times, social events, cool conferences, and more!</li>
                 <li>Follow us on our <a href="https://www.facebook.com/ewbmit/?hc_ref=ARTD0Bo8IO8L0od1QSwuiDZ6O0QgwsM1KCevMMmD2Ffu0OPFzG112T98VwhQm0z8oH8&fref=nf"> Facebook page </a> and <a href="https://www.instagram.com/ewbmit/?hl=en"> Instagram</a>! Stay up to date on what we're doing, and spread the word to others. </li>
-                <li> <a href="https://giving.mit.edu/form/#/"> Donate</a>. We can't get much done without funding, and every cent brings us closer to accomplishing our goals! Project costs include material costs, travel reimbursements, and community outreach events. Donations should be made to account number 2721177. </li>
+                <li> <a href="https://giving.mit.edu/form/#/"> Donate</a>. We can't get much done without funding, and every cent brings us closer to accomplishing our goals! Project costs include material costs, travel reimbursements, and community outreach events. Donations should be made to account number: 2721177. </li>
 <!--                <a href="https://www.gofundme.com/MITEWB"> Donate</a>.-->
             </ul>
         </div>

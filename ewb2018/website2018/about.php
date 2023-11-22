@@ -56,12 +56,12 @@
 
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/iselle-barrios.jpg" height = "350" style="object-fit: cover" alt="">
+                        <img class="card-img-top" src="images/exec/ruchitha_channapatna.jpeg" height = "350" style="object-fit: cover" alt="">
                         <div class="card-body"> 
                             <h4 class="card-title">Ruchitha Channapatna</h4>
                             <h5 class="card-title">Vice President</h5>
                             <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2026</h6>
-                            <p class="card-text">"Never bend your head. Always hold it high. Look the world straight in the eye." - Helen Keller</p>
+                            <p class="card-text">"The best way to predict your future is to create it"</p>
                         </div>
                         <div class="card-footer">
                             <!-- <a href="#">name@example.com</a> -->
@@ -71,12 +71,12 @@
 
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/alex-harris.jpg" height="350" style="object-fit: cover" alt="">
+                        <img class="card-img-top" src="images/exec/celestina_pint.jpeg" height="350" style="object-fit: cover" alt="">
                         <div class="card-body">
-                            <h4 class="card-title">Alex Harris</h4>
+                            <h4 class="card-title">Celestina Pint</h4>
                             <h5 class="card-title">Treasurer</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2025</h6>
-                            <p class="card-text">"What our world needs the most right now is alternatives to business as usual." - Bernard Amadei</p>
+                            <h6 class="card-subtitle mb-2 text-muted">Undecided | 2027</h6>
+                            <p class="card-text">"The work of today is the history of tomorrow, and we are its makers." - Juliette Gordon Low</p>
                         </div>
                         <div class="card-footer">
                            <!-- <a href="#">name@example.com</a>  -->
@@ -149,15 +149,56 @@
                 </div>
 
                 <!-- <div class="row" style="justify-content: center"> -->
+                  <div class="col-lg-4 mb-4">
+                        <div class="card h-100 text-center">
+                            <img class="card-img-top" src="images/exec/blank.jpg" height="350" style="object-fit: cover" alt="">
+                            <div class="card-body">
+                                <h4 class="card-title">Karenna Shah</h4>
+                                <h5 class="card-title">Co-secretary</h5>
+                                <h6 class="card-subtitle mb-2 text-muted">Undecided | 2027</h6>
+                                <p class="card-text">" "</p>
+                            </div>
+                            <div class="card-footer">
+                            </div>
+                        </div>
+                    </div>
                 
                   <div class="col-lg-4 mb-4">
                       <div class="card h-100 text-center">
-                          <img class="card-img-top" src="images/exec/stephany-pang.jpg" height="350" style="object-fit: cover" alt="">
+                          <img class="card-img-top" src="images/exec/blank.jpg" height="350" style="object-fit: cover" alt="">
                           <div class="card-body">
-                              <h4 class="card-title">Olúwatómi Ìdòwú</h4>
-                              <h5 class="card-title">Co-secretary</h5>
-                              <h6 class="card-subtitle mb-2 text-muted">Chemical Engineering | 2027</h6>
-                              <p class="card-text">"Getting enough sleep is important."</p>
+                              <h4 class="card-title">Karie Shen</h4>
+                              <h5 class="card-title">Education Co-chair</h5>
+                              <h6 class="card-subtitle mb-2 text-muted">Undecided | 2027</h6>
+                              <p class="card-text">" "</p>
+                          </div>
+                          <div class="card-footer">
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="col-lg-4 mb-4">
+                      <div class="card h-100 text-center">
+                          <img class="card-img-top" src="images/exec/blank.jpg" height="350" style="object-fit: cover" alt="">
+                          <div class="card-body">
+                              <h4 class="card-title">Jayashabari Shankar</h4>
+                              <h5 class="card-title">Education Co-chair</h5>
+                              <h6 class="card-subtitle mb-2 text-muted">Undecided | 2027</h6>
+                              <p class="card-text">" "</p>
+                          </div>
+                          <div class="card-footer">
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="col-lg-4 mb-4">
+                      <div class="card h-100 text-center">
+                          <img class="card-img-top" src="images/exec/blank.jpg" height="350" style="object-fit: cover" alt="">
+                          <div class="card-body">
+                              <h4 class="card-title">Susan Hong</h4>
+                              <h5 class="card-title">Publicity chair</h5>
+                              <h6 class="card-subtitle mb-2 text-muted">Undecided | 2027</h6>
+                              <p class="card-text">" "</p>
                           </div>
                           <div class="card-footer">
                           </div>
