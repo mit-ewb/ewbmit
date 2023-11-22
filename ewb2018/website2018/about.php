@@ -171,7 +171,11 @@
                             <h4 class="card-title">Keonna Simon</h4>
                             <h5 class="card-title">Webmaster</h5>
                             <h6 class="card-subtitle mb-2 text-muted">Computer Science and Molecular Biology | 2026</h6>
+
                             <p class="card-text">"Be so good they can't ignore you.” - Steve Martin</p>
+
+                            <!-- <p class="card-text">"Doubt kills more dreams than failure ever will.” - Suzy Kassem</p> -->
+
                         </div>
                         <div class="card-footer"></div>
                     </div>
