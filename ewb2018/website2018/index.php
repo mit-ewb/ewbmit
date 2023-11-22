@@ -73,7 +73,7 @@
         <h1 style="text-align: center">Welcome Back!</h1>
         <p>Interested in creating global engineering impact?</p>
         <p>Join our community of passionate students who care about learning how to make a difference!<p>
-        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="https://forms.gle/56qSTkWDzHW2GXYK9" target="blank">Join Now</a>
+        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="http://ewb.mit.edu/getInvolved.php" target="blank">Join Now</a>
       </div>
     <div class="container">
 <br>
@@ -213,7 +213,7 @@
           <ul>
             <li>Join us! Check out our calendar for meeting times, social events, cool conferences, and more! </li>
             <li>Follow us on our <a href="https://www.facebook.com/ewbmit/?hc_ref=ARTD0Bo8IO8L0od1QSwuiDZ6O0QgwsM1KCevMMmD2Ffu0OPFzG112T98VwhQm0z8oH8&fref=nf"> Facebook page</a> and <a href="https://www.instagram.com/ewbmit/?hl=en"> Instagram</a>! Stay up to date on what we're doing, and spread the word to others. </li>
-            <li> <a href="https://crowdfund.mit.edu/project/20586"> Donate</a>. We can't get much done without funding, and every cent brings us closer to accomplishing our goals! Project costs include material costs, travel reimbursements, and community outreach events. </li>
+            <li> <a href="https://giving.mit.edu/form/#/"> Donate</a>. We can't get much done without funding, and every cent brings us closer to accomplishing our goals! Project costs include material costs, travel reimbursements, and community outreach events. Donations should be made to account number 2721177. </li>
 
           </ul>
         </div>

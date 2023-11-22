@@ -42,12 +42,12 @@
             <div class="row">                    
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/hung-huynh.jpg" height="350" style="object-fit: cover" alt="">
+                        <img class="card-img-top" src="images/exec/iselle-barrios.jpg" height="350" style="object-fit: cover" alt="">
                         <div class="card-body">
-                            <h4 class="card-title">Hung Huynh</h4>
+                            <h4 class="card-title">Iselle Barrios</h4>
                             <h5 class="card-title">President</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering (& Entrepreneurship) | 2024</h6>
-                            <p class="card-text">"When you change the way you look at things, the things you look at change." - Max Planck</p>
+                            <h6 class="card-subtitle mb-2 text-muted">Chemical Engineering-Energy | 2025</h6>
+                            <p class="card-text">"Never bend your head. Always hold it high. Look the world straight in the eye." - Helen Keller</p>
                         </div>
                         <div class="card-footer">
                         </div>
@@ -57,10 +57,10 @@
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
                         <img class="card-img-top" src="images/exec/iselle-barrios.jpg" height = "350" style="object-fit: cover" alt="">
-                        <div class="card-body">
-                            <h4 class="card-title">Iselle Barrios</h4>
+                        <div class="card-body"> 
+                            <h4 class="card-title">Ruchitha Channapatna</h4>
                             <h5 class="card-title">Vice President</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Chemical Engineering | 2025</h6>
+                            <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2026</h6>
                             <p class="card-text">"Never bend your head. Always hold it high. Look the world straight in the eye." - Helen Keller</p>
                         </div>
                         <div class="card-footer">
@@ -132,30 +132,53 @@
                 </div>
             </div>
 
-            <div class="row" style="justify-content: center">
+            <div class="row" >
                 
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/stephany-pang.jpg" height="350" style="object-fit: cover" alt="">
+                        <img class="card-img-top" src="images/exec/oluwatomi-idowu.jpg" height="350" style="object-fit: cover" alt="">
                         <div class="card-body">
-                            <h4 class="card-title">Panhasopheak (Stephany) Pang</h4>
-                            <h5 class="card-title">Secretary</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Physics | 2022</h6>
-                            <p class="card-text">"Getting enough sleep is important."</p>
+                            <h4 class="card-title">Olúwatómi Ìdòwú</h4>
+                            <h5 class="card-title">Co-secretary</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Chemical Engineering | 2027</h6>
+                            <p class="card-text">"Taking life one step at a time, finding beauty in the little things."</p>
                         </div>
                         <div class="card-footer">
                         </div>
                     </div>
                 </div>
+
+                <!-- <div class="row" style="justify-content: center"> -->
+                
+                  <div class="col-lg-4 mb-4">
+                      <div class="card h-100 text-center">
+                          <img class="card-img-top" src="images/exec/stephany-pang.jpg" height="350" style="object-fit: cover" alt="">
+                          <div class="card-body">
+                              <h4 class="card-title">Olúwatómi Ìdòwú</h4>
+                              <h5 class="card-title">Co-secretary</h5>
+                              <h6 class="card-subtitle mb-2 text-muted">Chemical Engineering | 2027</h6>
+                              <p class="card-text">"Getting enough sleep is important."</p>
+                          </div>
+                          <div class="card-footer">
+                          </div>
+                      </div>
+                  </div>
             
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/vivian-cheng.jpg" height="350" style="object-fit: cover" alt="">
+                        <img class="card-img-top" src="images/exec/keonna-simon.jpeg" height="350" style="object-fit: cover" alt="">
                         <div class="card-body">
+<<<<<<< Updated upstream
                             <h4 class="card-title">Vivian Cheng</h4>
                             <h5 class="card-title">Student Advisor</h5>
                             <h6 class="card-subtitle mb-2 text-muted">Civil & Environmental Engineering | 2023</h6>
                             <p class="card-text">"Doubt kills more dreams than failure ever will.” - Suzy Kassem</p>
+=======
+                            <h4 class="card-title">Keonna Simon</h4>
+                            <h5 class="card-title">Webmaster</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Computer Science and Molecular Biology | 2026</h6>
+                            <p class="card-text">"Be so good they can't ignore you.” - Steve Martin</p>
+>>>>>>> Stashed changes
                         </div>
                         <div class="card-footer"></div>
                     </div>
