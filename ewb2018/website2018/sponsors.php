@@ -29,9 +29,15 @@
             <p>We appreciate the commitment of our sponsors and mentors towards supporting our efforts and our partner communities.</p>
             <br>
             <h2>Platinum Sponsors</h2>
-            <img src="images/CEE_logo.png" alt="">             <img src="images/TBP_logo.png" alt="">
+            <img src="images/CEE_logo.png" alt="">
+            <img src="images/TBP_logo.png" alt="">
+            <img src="images/edgerton_center.png" alt="">
+            <img src="images/dsl.png" alt="">
+
           <h5>MIT Department of Civil and Environmental Engineering </h5>
             <h5>Tau Beta Pi MIT </h5>
+            <h5>Edgerton Center </h5>
+            <h5>Division of Student Life </h5>
             <br>
             <br>
             <h2>Other Sponsors</h2>

@@ -43,9 +43,29 @@
             <p>We appreciate the commitment of our sponsors and mentors towards supporting our efforts and our partner communities.</p>
             <br>
             <h3>Platinum Sponsors</h3>
-            <img src="images/CEE_logo.png" alt="">             <img src="images/TBP_logo.png" alt="">
-          <h5>MIT Department of Civil and Environmental Engineering </h5>
-            <h5>Tau Beta Pi MIT </h5>
+            <div style="display: flex; align-items: center;">
+
+            <figure style="margin-right: 15px;">
+              <img src="images/CEE_logo.png" alt="" style="max-width: 250px;">
+              <figcaption>MIT Department of Civil and Environmental Engineering</figcaption>
+            </figure>
+
+            <figure style="margin-right: 15px;">
+              <img src="images/TBP_logo.png" alt="" style="max-width: 250px;">
+              <figcaption>Tau Beta Pi MIT</figcaption>
+            </figure>
+
+            <figure style="margin-right: 15px;">
+              <img src="images/edgerton_center.png" alt="" style="max-width: 250px;">
+              <figcaption>Edgerton Center</figcaption>
+            </figure>
+
+            <figure>
+              <img src="images/dsl.png" alt="" style="max-width: 250px;">
+              <figcaption>Division of Student Life</figcaption>
+            </figure>
+
+            </div>
             <br>
             <br>
             <h3>Other Sponsors</h3>
@@ -54,13 +74,30 @@
             <br>
             <h3>Mentors</h3>
             <br>
-            <img src="images/ewb-usa-logo-color.jpg" alt=""> &nbsp         <img src="images/cropped-Transparent-Color-Logo-2.png" alt="">
-            <img src="images/edgerton.jpg" alt="">  &nbsp&nbsp&nbsp                    <img src="images/SMMA_Slate_BlueLine_RGB.jpg" alt="">
-            <br>
-           <p>EWB-USA</p>
-            <p>EWB-Boston Professional Chapter</p>
-            <p>MIT Edgerton Center</p>
-            <p>SMMA</p>
+            
+            <div style="display: flex; align-items: center;">
+
+            <figure style="margin-right: 10px;">
+              <img src="images/ewb-usa-logo-color.jpg" alt="" style="max-width: 250px;">
+              <figcaption>EWB-USA</figcaption>
+            </figure>
+
+            <figure style="margin-right: 10px;">
+              <img src="images/cropped-Transparent-Color-Logo-2.png" alt="" style="max-width: 250px;">
+              <figcaption>EWB-Boston Professional Chapter</figcaption>
+            </figure>
+
+            <figure style="margin-right: 10px;">
+              <img src="images/edgerton_center.png" alt="" style="max-width: 250px;">
+              <figcaption>Edgerton Center</figcaption>
+            </figure>
+
+            <figure>
+              <img src="images/SMMA_Slate_BlueLine_RGB.jpg" alt="" style="max-width: 250px;">
+              <figcaption>SMMA</figcaption>
+            </figure>
+
+            </div>
             <br>
 
         </div>
