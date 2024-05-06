@@ -75,7 +75,7 @@
                         <div class="card-body">
                             <h4 class="card-title">Celestina Pint</h4>
                             <h5 class="card-title">Treasurer</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Undecided | 2027</h6>
+                            <h6 class="card-subtitle mb-2 text-muted">Materials Science and Engineering | 2027</h6>
                             <p class="card-text">"The work of today is the history of tomorrow, and we are its makers." - Juliette Gordon Low</p>
                         </div>
                         <div class="card-footer">
@@ -105,12 +105,12 @@
 
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/lai-wa-chu-2022.jpeg" height="350" style="object-fit: cover" alt="">
+                        <img class="card-img-top" src="images/exec/blank.jpg" height="350" style="object-fit: cover" alt="">
                         <div class="card-body">
-                            <h4 class="card-title">Lai Wa Chu</h4>
-                            <h5 class="card-title">External Relations Chair/Farm and Irrigation Team Co-Lead</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Civil & Environmental Engineering | 2024</h6>
-                            <p class="card-text">"Everything small is just a small version of something big." </p>
+                            <h4 class="card-title">Josiah Shimandle</h4>
+                            <h5 class="card-title">Farm and Irrigation Team Co-Lead</h5>
+                            <h6 class="card-subtitle mb-2 text-muted"> | 2026</h6>
+                            <p class="card-text">"" </p>
                         </div>
                         <div class="card-footer">
                         </div>
@@ -125,7 +125,7 @@
                             <h4 class="card-title">Emma Scott</h4>
                             <h5 class="card-title">Farm and Irrigation Team Co-Lead</h5>
                             <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering (2A) | 2026</h6>
-                            <p class="card-text">"Working on the farm and irrigation team has taught me a lot about the complexities of an engineering project and given me experience understanding all the work that goes into designing an irrigation system. I have really enjoyed getting to know new people on the team and the work we have done together to keep this project moving forward." </p>
+                            <p class="card-text">"It always seems impossible until its done" </p>
                         </div>
                         <div class="card-footer">
                         </div>
@@ -185,7 +185,7 @@
                           <img class="card-img-top" src="images/exec/karie_shen.jpg" height="350" style="object-fit: cover" alt="">
                           <div class="card-body">
                               <h4 class="card-title">Karie Shen</h4>
-                              <h5 class="card-title">Education Chair</h5>
+                              <h5 class="card-title">Education Co-Chair</h5>
                               <h6 class="card-subtitle mb-2 text-muted">Bioengineering/Brain & Cog | 2027</h6>
                               <p class="card-text">"Success is not final, failure is not fatal: It is the courage to continue that counts."</p>
                           </div>
@@ -193,36 +193,52 @@
                           </div>
                       </div>
                   </div>
-                  <!-- <div class="row" > -->
-
-                  <!-- <div class="col-lg-4 mb-4">
-                      <div class="card h-100 text-center">
-                          <img class="card-img-top" src="images/exec/blank.jpg" height="350" style="object-fit: cover" alt="">
-                          <div class="card-body">
-                              <h4 class="card-title">Jayashabari Shankar</h4>
-                              <h5 class="card-title">Education Co-Chair</h5>
-                              <h6 class="card-subtitle mb-2 text-muted">Undecided | 2027</h6>
-                              <p class="card-text">" "</p>
-                          </div>
-                          <div class="card-footer">
-                          </div>
-                      </div>
-                  </div> -->
 
                   <div class="col-lg-4 mb-4">
                       <div class="card h-100 text-center">
-                          <img class="card-img-top" src="images/exec/susan_hong.jpg" height="350" style="object-fit: cover" alt="">
+                          <img class="card-img-top" src="images/exec/rohan_bosworth.JPG" height="350" style="object-fit: cover" alt="">
                           <div class="card-body">
-                              <h4 class="card-title">Susan Hong</h4>
-                              <h5 class="card-title">Publicities Coordinator</h5>
-                              <h6 class="card-subtitle mb-2 text-muted">Undecided | 2027</h6>
-                              <p class="card-text">"Yes we can!"-Bob the Builder</p>
+                              <h4 class="card-title">Rohan Bosworth</h4>
+                              <h5 class="card-title">Education Co-Chair</h5>
+                              <h6 class="card-subtitle mb-2 text-muted">Computer Science and Electrical Engineering | 2027</h6>
+                              <p class="card-text">"All our dreams can come true, if we have the courage to pursue them." - Walt Disney</p>
                           </div>
                           <div class="card-footer">
                           </div>
                       </div>
                   </div>
-          <!-- <div class="row" > -->
+                  <!-- <div class="row" > -->
+
+                  <div class="col-lg-4 mb-4">
+                      <div class="card h-100 text-center">
+                          <img class="card-img-top" src="images/exec/kano.jpg" height="350" style="object-fit: cover" alt="">
+                          <div class="card-body">
+                              <h4 class="card-title">Kanokwan Tungkitkancharoen</h4>
+                              <h5 class="card-title">Internal Relations Chair</h5>
+                              <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering & Public Policy | 2025</h6>
+                              <p class="card-text">When you change the way you look at things, the things you look at change." —Dr. Wayne Dyer</p>
+                          </div>
+                          <div class="card-footer">
+                          </div>
+                      </div>
+                  </div>
+                  
+                  <div class="row" >
+                  <div class="col-lg-4 mb-4">
+                      <div class="card h-100 text-center">
+                          <img class="card-img-top" src="images/exec/divya_rajaraman.png" height="350" style="object-fit: cover" alt="">
+                          <div class="card-body">
+                              <h4 class="card-title">Divya Rajaraman</h4>
+                              <h5 class="card-title">Publicities Coordinator</h5>
+                              <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2027</h6>
+                              <p class="card-text">"When you change the way you look at things, the things you look at change." —Dr. Wayne Dyer-</p>
+                          </div>
+                          <div class="card-footer">
+                          </div>
+                      </div>
+                  </div>
+                  
+          
             <div class="col-lg-4 mb-4">
                 <div class="card h-100 text-center">
                     <img class="card-img-top" src="images/exec/keonna-simon.jpeg" height="350" style="object-fit: cover" alt="">
@@ -230,14 +246,24 @@
                         <h4 class="card-title">Keonna Simon</h4>
                         <h5 class="card-title">Webmaster</h5>
                         <h6 class="card-subtitle mb-2 text-muted">Computer Science and Molecular Biology | 2026</h6>
-
                         <p class="card-text">"Be so good they can't ignore you.” - Steve Martin</p>
                   </div>
                   <div class="card-footer"></div>
-              </div>
+                  </div>
           </div>
-      </div>
-  </div>
+          </div>
+          </div>
+          </div>
+          </div>
+          </div>
+      
+      
+      
+
+   
+      
+
+        
 
             <!-- <div class="row">
 
@@ -416,7 +442,7 @@
           </div>
         </div>
       </div> -->
-        </div>
+        <!-- </div> -->
 
         <!-- Footer -->
         <?php include('footer.php'); ?>
