@@ -27,8 +27,8 @@
       <div class="col-lg-12">
         <h2>Donate</h2>
           <!-- <h3>Our Funding Needs</h3> -->
-          <p>Help us bring our projects to life by supporting our funding needs! Your donation can help us pay for costs of construction materials, fees for construction contractors, and travel reimbursements. Donations should be made to account number: 2721177.</p>
-          <a class="btn btn-primary btn-lg px-4 me-sm-3" href="https://giving.mit.edu/form/#/">Giving to MIT</a>
+          <p>Help us bring our projects to life by supporting our funding needs! Your donation can help us pay for costs of construction materials, fees for construction contractors, and travel reimbursements.</p>
+          <a class="btn btn-primary btn-lg px-4 me-sm-3" href="https://giving.mit.edu/form/#/">Giving to MIT:Account number 2721177</a>
           <a class="btn btn-primary btn-lg px-4 me-sm-3" href="https://crowdfund.mit.edu/story/Ewb-2024">Crowdfund</a>
           <br>
           <br>
