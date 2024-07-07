@@ -105,12 +105,12 @@
 
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/blank.jpg" height="350" style="object-fit: cover" alt="">
+                        <img class="card-img-top" src="images/exec/josiah_shimandle.jpg" height="350" style="object-fit: cover" alt="">
                         <div class="card-body">
                             <h4 class="card-title">Josiah Shimandle</h4>
                             <h5 class="card-title">Farm and Irrigation Team Co-Lead</h5>
-                            <h6 class="card-subtitle mb-2 text-muted"> | 2026</h6>
-                            <p class="card-text">"" </p>
+                            <h6 class="card-subtitle mb-2 text-muted"> Mechanical Engineering | 2026</h6>
+                            <p class="card-text">"No act of kindness, no matter how small, is ever wasted." </p>
                         </div>
                         <div class="card-footer">
                         </div>
@@ -241,7 +241,7 @@
           
             <div class="col-lg-4 mb-4">
                 <div class="card h-100 text-center">
-                    <img class="card-img-top" src="images/exec/keonna-simon.jpeg" height="350" style="object-fit: cover" alt="">
+                    <img class="card-img-top" src="images/exec/keonna_simon.jpg" height="350" style="object-fit: cover" alt="">
                     <div class="card-body">
                         <h4 class="card-title">Keonna Simon</h4>
                         <h5 class="card-title">Webmaster</h5>
