@@ -63,6 +63,7 @@
     </div>
 </div>
 <div class="text-center">
+    <p>Make a donation to account number 2721177! </p>
     <a class="btn btn-primary btn-lg px-4 me-sm-3" href="https://giving.mit.edu/form/#/">Donate!</a>
 </div>
 
