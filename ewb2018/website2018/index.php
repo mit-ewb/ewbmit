@@ -89,6 +89,20 @@
       
       <h2>Most Recent</h2>
         <div class="row">
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+                <div class="card h-100">
+                    <a href="#"><img class="card-img-top" src="images/mkutanidispensarypicture.jpeg" height="240" alt=""></a>
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            <a href="#">Help us raise funds for our 2024 trip!</a>
+                        </h4>
+                        <p class="card-text">We are seeking donations to construct an additional room, improve roof ventilation, install a water catchment system, and conduct menstrual health workshops at the Mkutani dispensary in Tanzania, enhancing maternal care and hygiene practices in the community.</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="fundraiser.php" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
 
             <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
@@ -136,6 +150,7 @@
                     </div>
                 </div>
             </div>
+          
 
             
             
