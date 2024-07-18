@@ -40,35 +40,62 @@
     </div>
 
  <!-- Sponsors Section -->
-      <div class="row">
-        <div class="col-lg-12">
-          <h2>Our Supporters</h2>
-            <p>We appreciate the commitment of our sponsors and mentors towards supporting our efforts and our partner communities.</p>
-            <br>
-            <h3>Platinum Sponsors</h3>
-            <div style="display: flex; align-items: center;">
+ <div class="row">
+  <div class="col-lg-12">
+    <h2>Our Supporters</h2>
+    <p>We appreciate the commitment of our sponsors and mentors towards supporting our efforts and our partner communities.</p>
+    <br>
+    <h3>Platinum Sponsors</h3>
+    <div class="row">
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <figure style="text-align: center;">
+          <img src="images/CEE_logo.png" alt="" class="sponsor-img">
+          <figcaption>MIT Department of Civil and Environmental Engineering</figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <figure style="text-align: center;">
+          <img src="images/TBP_logo.png" alt="" class="sponsor-img">
+          <figcaption>Tau Beta Pi MIT</figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <figure style="text-align: center;">
+          <img src="images/edgerton_center.png" alt="" class="sponsor-img">
+          <figcaption>Edgerton Center</figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <figure style="text-align: center;">
+          <img src="images/mitmechelogo.jpg" alt="" class="sponsor-img">
+          <figcaption>MIT Mechanical Engineering Department</figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <figure style="text-align: center;">
+          <img src="images/coopmitlogo.jpeg" alt="" class="sponsor-img">
+          <figcaption>MIT COOP</figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <figure style="text-align: center;">
+          <img src="images/dsl.png" alt="" max-height:100px width=450px>
+          <figcaption>Division of Student Life</figcaption>
+        </figure>
+      </div>
+    </div>
+  </div>
+</div>
 
-            <figure style="margin-right: 15px;">
-              <img src="images/CEE_logo.png" alt="" style="max-width: 250px;">
-              <figcaption>MIT Department of Civil and Environmental Engineering</figcaption>
-            </figure>
+<style>
+  .sponsor-img {
+    max-height: 100px;
+    width: auto;
+  }
+</style>
 
-            <figure style="margin-right: 15px;">
-              <img src="images/TBP_logo.png" alt="" style="max-width: 250px;">
-              <figcaption>Tau Beta Pi MIT</figcaption>
-            </figure>
 
-            <figure style="margin-right: 15px;">
-              <img src="images/edgerton_center.png" alt="" style="max-width: 250px;">
-              <figcaption>Edgerton Center</figcaption>
-            </figure>
 
-            <figure>
-              <img src="images/dsl.png" alt="" style="max-width: 250px;">
-              <figcaption>Division of Student Life</figcaption>
-            </figure>
-
-            </div>
             <br>
             <br>
             <h3>Other Sponsors</h3>
