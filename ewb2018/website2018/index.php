@@ -73,7 +73,7 @@
         <h1 style="text-align: center">Welcome Back!</h1>
         <p>Interested in creating global engineering impact?</p>
         <p>Join our community of passionate students who care about learning how to make a difference!<p>
-        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="https://forms.gle/56qSTkWDzHW2GXYK9" target="blank">Join Now</a>
+        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="http://ewb.mit.edu/getInvolved.php" target="blank">Join Now</a>
       </div>
     <div class="container">
 <br>
@@ -89,6 +89,20 @@
       
       <h2>Most Recent</h2>
         <div class="row">
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+                <div class="card h-100">
+                    <a href="#"><img class="card-img-top" src="images/mkutanidispensarypicture.jpeg" height="240" alt=""></a>
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            <a href="#">Help us raise funds for our 2024 trip!</a>
+                        </h4>
+                        <p class="card-text">We are seeking donations to construct an additional room, improve roof ventilation, install a water catchment system, and conduct menstrual health workshops at the Mkutani dispensary in Tanzania, enhancing maternal care and hygiene practices in the community.</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="fundraiser.php" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
 
             <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
@@ -136,6 +150,7 @@
                     </div>
                 </div>
             </div>
+          
 
             
             
@@ -213,7 +228,7 @@
           <ul>
             <li>Join us! Check out our calendar for meeting times, social events, cool conferences, and more! </li>
             <li>Follow us on our <a href="https://www.facebook.com/ewbmit/?hc_ref=ARTD0Bo8IO8L0od1QSwuiDZ6O0QgwsM1KCevMMmD2Ffu0OPFzG112T98VwhQm0z8oH8&fref=nf"> Facebook page</a> and <a href="https://www.instagram.com/ewbmit/?hl=en"> Instagram</a>! Stay up to date on what we're doing, and spread the word to others. </li>
-            <li> <a href="https://crowdfund.mit.edu/project/20586"> Donate</a>. We can't get much done without funding, and every cent brings us closer to accomplishing our goals! Project costs include material costs, travel reimbursements, and community outreach events. </li>
+            <li> <a href="https://giving.mit.edu/form/#/"> Donate</a>. We can't get much done without funding, and every cent brings us closer to accomplishing our goals! Project costs include material costs, travel reimbursements, and community outreach events. Donations should be made to account number: 2721177. </li>
 
           </ul>
         </div>

@@ -44,24 +44,21 @@
       <br>  
       <h3>Newsletter</h3>
         <div style="display:flex">
-        <iframe src="media/EWB Newsletter Winter 2023.pdf" width="80%" height="1000" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>
+        <iframe src="media/EWB Newsletter (Winter 2024).pdf" width="80%" height="1000" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>
         <div style="padding:10px">
-            <a href="media/EWB Newsletter Winter 2023.pdf" target="_blank">Open in new tab</a>
+            <a href="media/EWB Newsletter (Winter 2024).pdf" target="_blank">Open in new tab</a>
+            <!-- <a href="media/EWB Newsletter Winter 2023.pdf" target="_blank">Open in new tab</a> -->
             <p></p>
             <h4>Previous Editions</h4>
             <!--                <a href="newsletter%20fall%202021%20(1).pdf" target="_blank">Fall 2020</a>-->
+            <a href="media/EWB Newsletter Winter 2023.pdf" target="_blank">Fall 2023</a><br>
             <a href="media/newsletter fall 2021 (1).pdf" target="_blank">Fall 2021</a><br>
             <a href="media/EWB%20Newsletter-%20FINAL%202020.pdf" target="_blank">Fall 2020</a><br>
             <a href="media/EWB%20Newsletter-%20FINAL%202019.pdf" target="_blank">Fall 2019</a><br>
             <a href="media/EWB Newsletter- final draft.pdf" target="_blank">Fall 2018</a>
         </div>
     </div>
-<!--         
-    <p><h3>Social Media</h3>
-    <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fewbmit%2F&tabs=timeline&width=1500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>
-    <iframe src="https://www.instagram.com/p/B4s41JhhIxW/embed" width="500" height="505" style="border:darkgray;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media" marginwidth="auto" marginheight="auto"></iframe>
 
-    </p> -->
 
     <br>
 
@@ -114,62 +111,7 @@
         </div>
       </div> </p>
 
-      <!-- Blog Post -->
-     <!--  <div class="card mb-4">
-        <div class="card-body">
-          <div class="row">
-            <div class="col-lg-6">
-              <a href="#">
-                <img class="img-fluid rounded" src="http://placehold.it/750x300" alt="">
-              </a>
-            </div>
-            <div class="col-lg-6">
-              <h2 class="card-title">Post Title</h2>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquid atque, nulla? Quos cum ex quis soluta, a laboriosam. Dicta expedita corporis animi vero voluptate voluptatibus possimus, veniam magni quis!</p>
-              <a href="#" class="btn btn-primary">Read More &rarr;</a>
-            </div>
-          </div>
-        </div>
-        <div class="card-footer text-muted">
-          Posted on January 1, 2017 by
-          <a href="#">Super Cool EWB Member</a>
-        </div>
-      </div> -->
-
-      <!-- Blog Post -->
-     <!--  <div class="card mb-4">
-        <div class="card-body">
-          <div class="row">
-            <div class="col-lg-6">
-              <a href="#">
-                <img class="img-fluid rounded" src="http://placehold.it/750x300" alt="">
-              </a>
-            </div>
-            <div class="col-lg-6">
-              <h2 class="card-title">Post Title</h2>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquid atque, nulla? Quos cum ex quis soluta, a laboriosam. Dicta expedita corporis animi vero voluptate voluptatibus possimus, veniam magni quis!</p>
-              <a href="#" class="btn btn-primary">Read More &rarr;</a>
-            </div>
-          </div>
-        </div>
-        <div class="card-footer text-muted">
-          Posted on January 1, 2017 by
-          <a href="#">Super Cool EWB Member</a>
-        </div>
-      </div> -->
-
-      <!-- Pagination -->
-        <!--
-      <ul class="pagination justify-content-center mb-4">
-        <li class="page-item disabled">
-          <a class="page-link" href="#">&larr; Older</a>
-        </li>
-        <li class="page-item disabled">
-          <a class="page-link" href="#">Newer &rarr;</a>
-        </li>
-      </ul>
-
-    </div>  -->
+    
 
   </div>
 
