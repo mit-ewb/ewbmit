@@ -21,33 +21,32 @@
         <div class="carousel-inner" role="listbox">
 
           <!-- Slide One - Set the background image for this slide in the line below -->
-          <div class="carousel-item active" style="background-image: url('images/banner1 copy.jpg')">
+          <div class="carousel-item active" style="background-image: url('images/Mkutani_Implementation_2024/mothers.jpg')">
             <div class="carousel-caption d-none d-md-block">
                 <h3>Making friends in Mkutani, Tanzania</h3>
-                <p>In January 2018, two of our members got the opportunity to travel to Tanzania to conduct an assessment trip and learn about the community's needs. Together, we have replaced this unreliable pump with a solar-powered one. </p>
+                <p>In January 2024, four of our members got the opportunity to travel to Tanzania to conduct an implementation trip. </p>
             </div>
           </div>
           <!-- Slide Two - Set the background image for this slide in the line below -->
-          <div class="carousel-item" style="background-image: url('images/banner2 copy.jpg')">
+          <div class="carousel-item" style="background-image: url('images/Mkutani_Implementation_2024/planning.jpg')">
             <div class="carousel-caption d-none d-md-block">
-                <h3>Goal: Clean Drinking Water</h3>
-                <p>Current filtration techniques aren't enough to rid the Mkutani water of harmful bacteria, so another source must be utilized. </p>
-              <!-- <h3>Moringa</h3>
-              <p>In the past, one of our members went to Ghana to help process moringa leaves and assess how we could improve the methods. </p> -->
             </div>
           </div>
           <!-- Slide Three - Set the background image for this slide in the line below -->
-          <div class="carousel-item" style="background-image: url('images/banner3 copy.jpg')">
-              <div class="carousel-caption d-none d-md-block">
+          <div class="carousel-item" style="background-image: url('images/Mkutani_Implementation_2024/medicalequipment.jpg')">
+          <div class="carousel-caption d-none d-md-block">
+          <h5>Donated medical equipment courtesy of Boston Children's Hospital</h5>
+          
               </div>
       </div>
         <!-- Slide Four - Set the background image for this slide in the line below -->
-        <div class="carousel-item" style="background-image: url('images/banner4 copy.jpg')">
+        <div class="carousel-item" style="background-image: url('images/Mkutani_Implementation_2024/menstrualcups.jpg')">
             <div class="carousel-caption d-none d-md-block">
+              <h5> Donated menstrual cups to the community </h5>
             </div>
         </div>
             <!-- Slide Five - Set the background image for this slide in the line below -->
-            <div class="carousel-item" style="background-image: url('images/banner5 copy.jpg')">
+            <div class="carousel-item" style="background-image: url('images/Mkutani_Implementation_2024/digging.jpg')">
                 <div class="carousel-caption d-none d-md-block">
                 </div>
             </div>
@@ -91,6 +90,20 @@
         <div class="row">
         <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
+                    <a href="#"><img class="card-img-top" src="images/Mkutani_Implementation_2024/travelteam.jpg" height="240" alt=""></a>
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            <a href="#">Implementation Trip 2024: Mkutani, Tanzania</a>
+                        </h4>
+                        <p class="card-text">In August 2024, four of our memebers travelled to Tanzania to conduct implementation trips for our Farm & Irrigation and Health & Sanitation projects in Mkutani..</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="updates.php" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+                <div class="card h-100">
                     <a href="#"><img class="card-img-top" src="images/mkutanidispensarypicture.jpeg" height="240" alt=""></a>
                     <div class="card-body">
                         <h4 class="card-title">
@@ -104,10 +117,10 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 col-sm-6 portfolio-item">
+            <!-- <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
                   <a href="#"><img class="card-img-top" src="images/travelteam2022.jpeg" height="240" alt=""></a>
-                    <!-- <a href="#"><video controls width="100%" alt="Mktutani Assessment Trip 2022"><source src="media/Tanzania 2022.mp4"></video></a> -->
+                    <a href="#"><video controls width="100%" alt="Mktutani Assessment Trip 2022"><source src="media/Tanzania 2022.mp4"></video></a>
                     <div class="card-body">
                         <h4 class="card-title">
                             <a href="#">Assessment Trip 2022: Mkutani, Tanzania</a>
@@ -119,9 +132,9 @@
                     </div>
                 </div>
 
-            </div>
+            </div> -->
             
-            <div class="col-lg-4 col-sm-6 portfolio-item">
+            <!-- <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
                     <a href="#"><img class="card-img-top" src="images/projects/mkutani_assessment2.png" height="240" alt=""></a>
                     <div class="card-body">
@@ -150,7 +163,7 @@
                     </div>
                 </div>
             </div>
-          
+           -->
 
             
             
