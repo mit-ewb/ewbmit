@@ -89,12 +89,12 @@
 
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/blank.jpg" height = "350" style="object-fit: cover" alt="">
+                        <img class="card-img-top" src="images/exec/deeksha.jpg" height = "350" style="object-fit: cover" alt="">
                         <div class="card-body">
                             <h4 class="card-title">Deeksha Kumaresh</h4>
                             <h5 class="card-title">Health and Sanitation Team Lead</h5>
                             <h6 class="card-subtitle mb-2 text-muted">Bioengineering | 2027</h6>
-                            <p class="card-text">"Keep moving forward."</p>
+                            <p class="card-text">"There's a million things I haven't done. But just you wait." - Lin Manuel Miranda</p>
                         </div>
                         <div class="card-footer">
                             <!-- <a href="#">name@example.com</a> -->

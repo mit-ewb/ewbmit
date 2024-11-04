@@ -37,46 +37,29 @@
                     <a class="nav-link" href="updates.php">Updates</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="blog.php">Blog</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="getInvolved.php">Join</a>
                 </li>
-                <!-- <li class="nav-item">
-                    <a class="nav-link" href="newsletter.php">Newsletter</a>
-                </li> -->
-                <!-- <li class="nav-item"> -->
-<!--                    <a class="nav-link" href="https://crowdfund.mit.edu/project/20586">Donate</a>-->
-                    <!-- <a class="nav-link" href="https://crowdfund.mit.edu/story/Mit-Ewb">Donate</a> -->
-                    <!-- <a class="nav-link" href="https://giving.mit.edu/give/to?fundId=2721177&source=WBMPP">Donate</a> -->
-                <!-- </li> -->
-                <!-- <li class="nav-item">
-                    <a class="nav-link" href="gallery.php">Gallery</a>
-                </li> -->
+                
                 <li class="nav-item">
                     <a class="nav-link" href="support.php">Support</a>
                 </li>
-                <!-- <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Updates
-                  </a>
-                  <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-                    <a class="dropdown-item" href="blog-home-1.html">Blog Home 1</a>
-                    <a class="dropdown-item" href="blog-home-2.html">Blog Home 2</a>
-                    <a class="dropdown-item" href="blog-post.html">Blog Post</a>
-                  </div>
-                </li> -->
-                <!-- <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Other Pages
-                  </a>
-                  <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-                    <a class="dropdown-item" href="full-width.html">Full Width Page</a>
-                    <a class="dropdown-item" href="sidebar.html">Sidebar Page</a>
-                    <a class="dropdown-item" href="faq.html">FAQ</a>
-                    <a class="dropdown-item" href="404.html">404</a>
-                    <a class="dropdown-item" href="pricing.html">Pricing Table</a>
-                  </div>
-                </li> -->
-            <!--otherlink:"https://www.gofundme.com/MITEWB" -->
+               
             </ul>
         </div>
     </div>
-</nav>
+
+<!-- Social Media Icons (Positioned to the Right) -->
+<div class="social-icons ml-auto" style="filter: brightness(0.7);">
+                <a href="https://www.facebook.com/ewbmit"><img src="images/facebook.png" alt="Facebook" height="24" width="24"></a>
+                <a href="https://www.instagram.com/ewbmit/"><img src="images/instagram.png" alt="Instagram" height="24" width="24" class="ml-2"></a>
+                <a href="https://www.linkedin.com/company/engineers-without-borders-massachusetts-institute-of-technology/">
+                    <img src="images/linkedin.png" alt="LinkedIn" height="24" width="24" class="ml-2">
+                </a>
+            </div>
+        </div>
+    </div>
+    </nav>
+

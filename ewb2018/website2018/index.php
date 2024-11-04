@@ -90,12 +90,26 @@
         <div class="row">
         <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
+                    <a href="#"><img class="card-img-top" src="images/Mkutani_Implementation_2024/moreplanning.jpeg" height="240" alt=""></a>
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            <a href="#">Help us raise funds for our 2025 trip!</a>
+                        </h4>
+                        <p class="card-text">We are seeking donations to build an irrigated vegetable garden on the school grounds this coming summer!  </p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="fifundraiser2024.php" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+                <div class="card h-100">
                     <a href="#"><img class="card-img-top" src="images/Mkutani_Implementation_2024/travelteam.jpg" height="240" alt=""></a>
                     <div class="card-body">
                         <h4 class="card-title">
                             <a href="#">Implementation Trip 2024: Mkutani, Tanzania</a>
                         </h4>
-                        <p class="card-text">In August 2024, four of our memebers travelled to Tanzania to conduct implementation trips for our Farm & Irrigation and Health & Sanitation projects in Mkutani..</p>
+                        <p class="card-text">In August 2024, four of our memebers travelled to Tanzania to conduct implementation trips for our Farm & Irrigation and Health & Sanitation projects in Mkutani.</p>
                     </div>
                     <div class="card-footer">
                         <a href="updates.php" class="btn btn-primary">Learn More</a>
