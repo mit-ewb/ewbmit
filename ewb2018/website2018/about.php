@@ -184,12 +184,12 @@
                   
                   <div class="col-lg-4 mb-4">
                       <div class="card h-100 text-center">
-                          <img class="card-img-top" src="images/exec/blank.jpg" height="350" style="object-fit: cover" alt="">
+                          <img class="card-img-top" src="images/exec/advika.jpg" height="350" style="object-fit: cover" alt="">
                           <div class="card-body">
-                              <h4 class="card-title"></h4>
+                              <h4 class="card-title">Advika Namasivayam</h4>
                               <h5 class="card-title">Internal Relations Chair</h5>
-                              <h6 class="card-subtitle mb-2 text-muted"></h6>
-                              <p class="card-text"></p>
+                              <h6 class="card-subtitle mb-2 text-muted"> Mechanical Engineering & Computer Science | 2028</h6>
+                              <p class="card-text">"Don't regret your regret"</p>
                           </div>
                           <div class="card-footer">
                           </div>

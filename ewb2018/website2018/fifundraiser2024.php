@@ -44,7 +44,7 @@
       <div class="col-lg-12" style="padding-left:0; padding-top:1%">
         <h3>How You Can Help</h3>
         <p>Your donation helps us pay for travel, costs of construction materials, and costs for construction contractors. Questions? Contact us at <a href="mailto:ewb-exec@mit.edu">ewb-exec@mit.edu</a>.</p>
-        <img class="img-fluid rounded mb-4" src="images/Mkutani_Implementation_2024/moreplanning.jpeg" alt="">
+        <img class="img-fluid rounded mb-4" src="images/Mkutani_Implementation_2024/moreplanning.jpeg"git  alt="">
         <h3>What Your Gifts Could Cover</h3>
         <p>$20 covers a night of lodging for a traveling MIT student.</p>
         <p>$60 covers the cost of an MIT student’s ground transportation in Tanzania.</p>

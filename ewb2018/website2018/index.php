@@ -90,6 +90,20 @@
         <div class="row">
         <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
+                    <a href="#"><img class="card-img-top" src="images/algoed.jpg" height="240" alt=""></a>
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            <a href="#">MIT EWB x AlgoEd Engineering Challenge</a>
+                        </h4>
+                        <p class="card-text">Calling all aspiring engineers! Tackle real-world challenges, showcase your creativity, and gain hands-on experience. This competition is your chance to apply your skills, solve meaningful problems, and boost your resume.</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="algoedfundraiser2024.php" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+                <div class="card h-100">
                     <a href="#"><img class="card-img-top" src="images/Mkutani_Implementation_2024/moreplanning.jpeg" height="240" alt=""></a>
                     <div class="card-body">
                         <h4 class="card-title">

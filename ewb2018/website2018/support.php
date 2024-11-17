@@ -31,7 +31,7 @@
           <h4> Make a donation to account number 2721177! </h4>
           <a class="btn btn-primary btn-lg px-4 me-sm-3" href="https://giving.mit.edu/form/#/">Giving to MIT</a>
           <h4> Make a donation to our Crowdfund! </h4>
-          <a class="btn btn-primary btn-lg px-4 me-sm-3" href="https://crowdfund.mit.edu/story/Ewb-2024">Crowdfund</a>
+          <a class="btn btn-primary btn-lg px-4 me-sm-3" href="https://crowdfund.mit.edu/story/Ewb-F24">Crowdfund</a>
           <br>
           <br>
           <br>
@@ -55,8 +55,8 @@
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
         <figure style="text-align: center;">
-          <img src="images/TBP_logo.png" alt="" class="sponsor-img">
-          <figcaption>Tau Beta Pi MIT</figcaption>
+          <img src="images/dlab_logo.png" alt="" class="sponsor-img">
+          <figcaption>MIT D-Lab</figcaption>
         </figure>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
@@ -112,6 +112,8 @@
               <figcaption>EWB-USA</figcaption>
             </figure>
 
+         
+
             <figure style="margin-right: 10px;">
               <img src="images/cropped-Transparent-Color-Logo-2.png" alt="" style="max-width: 250px;">
               <figcaption>EWB-Boston Professional Chapter</figcaption>
@@ -122,10 +124,10 @@
               <figcaption>Edgerton Center</figcaption>
             </figure>
 
-            <figure>
+            <!-- <figure>
               <img src="images/SMMA_Slate_BlueLine_RGB.jpg" alt="" style="max-width: 250px;">
               <figcaption>SMMA</figcaption>
-            </figure>
+            </figure> -->
 
             </div>
             <br>

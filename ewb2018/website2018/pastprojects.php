@@ -15,7 +15,7 @@
 
       <!-- Page Heading/Breadcrumbs -->
       <h1 class="mt-4 mb-3">Past Projects
-        <small>Take a look at what we've done!</small>
+       
       </h1>
 
       <ol class="breadcrumb">
