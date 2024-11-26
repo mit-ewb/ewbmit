@@ -30,5 +30,5 @@
         <!-- Button linking to AlgoEd competition page -->
 
         <div class="text-center">
-        <a href="https://app.algoed.co/explore-competitions" class="btn btn-primary">Join the Competition</a>
+        <a href="https://www.algoed.co/competitions/mit-ewb-engineering-competition" class="btn btn-primary">Join the Competition</a>
         </div>
