@@ -42,60 +42,59 @@
             <div class="row">                    
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/hung-huynh.jpg" height="350" style="object-fit: cover" alt="">
+                        <img class="card-img-top" src="images/exec/josiah_shimandle.jpg" height="350" style="object-fit: cover" alt="">
                         <div class="card-body">
-                            <h4 class="card-title">Hung Huynh</h4>
+                            <h4 class="card-title">Josiah Shimandle</h4>
                             <h5 class="card-title">President</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering (& Entrepreneurship) | 2024</h6>
-                            <p class="card-text">"When you change the way you look at things, the things you look at change." - Max Planck</p>
+                            <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2026</h6>
+                            <p class="card-text">"No act of kindness, no matter how small, is ever wasted."</p>
                         </div>
                         <div class="card-footer">
                         </div>
                     </div>
-                </div>
+                 </div>
 
-                <div class="col-lg-4 mb-4">
-                    <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/iselle-barrios.jpg" height = "350" style="object-fit: cover" alt="">
-                        <div class="card-body">
-                            <h4 class="card-title">Iselle Barrios</h4>
-                            <h5 class="card-title">Vice President</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Chemical Engineering | 2025</h6>
-                            <p class="card-text">"Never bend your head. Always hold it high. Look the world straight in the eye." - Helen Keller</p>
-                        </div>
-                        <div class="card-footer">
-                            <!-- <a href="#">name@example.com</a> -->
-                        </div>
-                    </div>
-                </div>
+                 <div class="col-lg-4 mb-4">
+                      <div class="card h-100 text-center">
+                          <img class="card-img-top" src="images/exec/celestina_pint.jpeg" height="350" style="object-fit: cover" alt="">
+                          <div class="card-body">
+                              <h4 class="card-title">Celestina Pint</h4>
+                              <h5 class="card-title">Vice President</h5>
+                              <h6 class="card-subtitle mb-2 text-muted">Materials Science and Engineering | 2027</h6>
+                              <p class="card-text">"The work of today is the history of tomorrow, and we are its makers." - Juliette Gordon Low</p>
+                          </div>
+                          <div class="card-footer">
+                          </div>
+                      </div>
+                  </div>
 
-                <div class="col-lg-4 mb-4">
+                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/alex-harris.jpg" height="350" style="object-fit: cover" alt="">
+                        <img class="card-img-top" src="" height="350" style="object-fit: cover" alt="">
                         <div class="card-body">
-                            <h4 class="card-title">Alex Harris</h4>
+                            <h4 class="card-title">Xanthe Saalmann</h4>
                             <h5 class="card-title">Treasurer</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2025</h6>
-                            <p class="card-text">"What our world needs the most right now is alternatives to business as usual." - Bernard Amadei</p>
+                            <h6 class="card-subtitle mb-2 text-muted"></h6>
+                            <p class="card-text"></p>
                         </div>
                         <div class="card-footer">
                            <!-- <a href="#">name@example.com</a>  -->
                         </div>
                     </div>
                 </div>
-            </div>
+              </div>
           
 
-            <div class="row">
+               <div class="row">
 
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/fiona-duong-2022.jpg" height = "350" style="object-fit: cover" alt="">
+                        <img class="card-img-top" src="images/exec/deeksha.jpg" height = "350" style="object-fit: cover" alt="">
                         <div class="card-body">
-                            <h4 class="card-title">Fiona Duong</h4>
-                            <h5 class="card-title">Health and Sanitation Team Lead</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Chemical-Biological Engineering | 2024</h6>
-                            <p class="card-text">"Keep moving forward."</p>
+                            <h4 class="card-title">Deeksha Kumaresh</h4>
+                            <h5 class="card-title">Health and Sanitation Team Co-Lead</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Bioengineering | 2027</h6>
+                            <p class="card-text">"There's a million things I haven't done. But just you wait." - Lin Manuel Miranda</p>
                         </div>
                         <div class="card-footer">
                             <!-- <a href="#">name@example.com</a> -->
@@ -105,183 +104,133 @@
 
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/lai-wa-chu-2022.jpeg" height="350" style="object-fit: cover" alt="">
+                        <img class="card-img-top" src="" height="350" style="object-fit: cover" alt="">
                         <div class="card-body">
-                            <h4 class="card-title">Lai Wa Chu</h4>
-                            <h5 class="card-title">External Relations Chair/Farm and Irrigation Team Lead</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Civil & Environmental Engineering | 2024</h6>
-                            <p class="card-text">"Everything small is just a small version of something big." </p>
+                            <h4 class="card-title">Divya Rajaraman</h4>
+                            <h5 class="card-title">Health and Sanitation Team Co-Lead</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2027</h6>
+                            <p class="card-text">"When you change the way you look at things, the things you look at change." - Dr. Wayne Dyer</p>
                         </div>
                         <div class="card-footer">
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 mb-4">
-                    <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/maria-hernandez.jpeg" height="350" style="object-fit: cover" alt="">
-                        <div class="card-body">
-                            <h4 class="card-title">Maria Hernandez</h4>
-                            <h5 class="card-title">Internal Relations Chair</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Computer Science & Molecular Biology | 2025</h6>
-                            <p class="card-text">“Life is a journey, not a destination.” -Ralph Waldo Emerson"</p>
-                        </div>
-                        <div class="card-footer">
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row" style="justify-content: center">
                 
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/stephany-pang.jpg" height="350" style="object-fit: cover" alt="">
+                        <img class="card-img-top" src="images/exec/emma_scott.jpg" height="350" style="object-fit: cover" alt="">
                         <div class="card-body">
-                            <h4 class="card-title">Panhasopheak (Stephany) Pang</h4>
-                            <h5 class="card-title">Secretary</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Physics | 2022</h6>
-                            <p class="card-text">"Getting enough sleep is important."</p>
-                        </div>
-                        <div class="card-footer">
-                        </div>
-                    </div>
-                </div>
-            
-                <div class="col-lg-4 mb-4">
-                    <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/vivian-cheng.jpg" height="350" style="object-fit: cover" alt="">
-                        <div class="card-body">
-                            <h4 class="card-title">Keonna Simon</h4>
-                            <h5 class="card-title">Webmaster</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Computer Science and Molecular Biology | 2026</h6>
-                            <!-- <p class="card-text">"Doubt kills more dreams than failure ever will.” - Suzy Kassem</p> -->
-                        </div>
-                        <div class="card-footer"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-            <!-- <div class="row">
-
-                <div class="col-lg-4 mb-4">
-                    <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/selma-sharaf.png" height = "350" style="object-fit: cover" alt="">
-                        <div class="card-body">
-                            <h4 class="card-title">Selma Sharaf</h4>
-                            <h5 class="card-title">Student Advisor</h5>
-                            <h6 class=" card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2022</h6>
-                            <p class="card-text">"Don't stress the could haves. If it should have, it would have."</p>
-                        </div>
-                        <div class="card-footer"></div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 mb-4">
-                    <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/natasha-stamler.png" height = "350" style="object-fit: cover" alt="">
-                        <div class="card-body">
-                            <h4 class="card-title">Natasha Stamler</h4>
-                            <h5 class="card-title">Student Advisor</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2022</h6>
-                            <p class="card-text">“At its heart engineering is about using science to find creative practical solutions. It’s a noble profession.”</p>
-                        </div>
-                        <div class="card-footer"></div>
-                        <a href="#">name@example.com</a> 
-                    </div>
-                </div>
-
-                <div class="col-lg-4 mb-4">
-                    <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/DiegoMonroy.png" height = "350" style="object-fit: cover" alt="">
-                        <div class="card-body">
-                            <h4 class="card-title">Diego Monroy</h4>
-                            <h5 class="card-title">Student Advisor</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2021</h6>
+                            <h4 class="card-title">Hayoon Lee</h4>
+                            <h5 class="card-title">Farm and Irrigation Team Co-Lead</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2028</h6>
                             <p class="card-text"></p>
                         </div>
                         <div class="card-footer">
-                            <a href="#">name@example.com</a> 
                         </div>
                     </div>
                 </div>
 
-            </div> -->
-<!--            <div class="row">-->
-<!--                <div class="col-lg-4 mb-4" style="margin: 0 auto">-->
-<!--                    <div class="card h-100 text-center">-->
-<!--                        <img class="card-img-top" src="images/exec/Chris.jpg" height = "350" style="object-fit: cover" alt="">-->
-<!--                        <div class="card-body">-->
-<!--                            <h4 class="card-title">Chris Eschler</h4>-->
-<!--                            <h5 class="card-title">Student Advisor</h5>-->
-<!--                            <h6 class="card-subtitle mb-2 text-muted">Materials Science and Engineering | 2021</h6>-->
-<!--                            <p class="card-text">"If you wouldn't follow yourself, why should anyone else?"</p>-->
-<!--                        </div>-->
-<!--                        <div class="card-footer">-->
-<!--                             <a href="#">name@example.com</a> -->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-                <!-- <div class="col-lg-4 mb-4">-->
-                    <!--                    <div class="card h-100 text-center">-->
-                    <!--                        <img class="card-img-top" src="images/exec/jason-ramirez.jpg" height="350" style="object-fit: cover" alt="">-->
-                    <!--                        <div class="card-body">-->
-                    <!--                            <h4 class="card-title">Jason Ramirez</h4>-->
-                    <!--                            <h5 class="card-title">Irrigation Team Lead</h5>-->
-                    <!--                            <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2022</h6>-->
-                    <!--                            <p class="card-text">“Working towards a brighter future.”</p>-->
-                    <!--                        </div>-->
-                    <!--                        <div class="card-footer"></div>-->
-                    <!--                        <a href="#">name@example.com</a> -->
-                    <!--                    </div>-->
-                    <!--                </div>
+                
+              <div class="col-lg-4 mb-4">
+                  <div class="card h-100 text-center">
+                      <img class="card-img-top" src="" height="350" style="object-fit: cover" alt="">
+                      <div class="card-body">
+                          <h4 class="card-title">Isabel Duran</h4>
+                          <h5 class="card-title">Farm and Irrigation Team Co-Lead</h5>
+                          <h6 class="card-subtitle mb-2 text-muted"></h6>
+                          <p class="card-text"></p>
+                      </div>
+                      <div class="card-footer">
+                      </div>
+                  </div>
+              </div>
+               
+                <!-- <div class="row" style="justify-content: center"> -->
+    
 
-					              <div class="col-lg-4 mb-4">-->
-<!--                    <div class="card h-100 text-center">-->
-<!--                        <img class="card-img-top" src="images/exec/abigail-frey.jpg" height = "350" style="object-fit: cover" alt="">-->
-<!--                        <div class="card-body">-->
-<!--                            <h4 class="card-title">Abigail Frey</h4>-->
-<!--                            <h5 class="card-title">Student Advisor</h5>-->
-<!--                            <h6 class="card-subtitle mb-2 text-muted">Chemical-Biological Engineering | 2021</h6>-->
-<!--                            <p class="card-text">“A problem is a chance for you to do your best.”</p>-->
-<!--                        </div>-->
-<!--                        <div class="card-footer">-->
-<!--                                                <a href="#">name@example.com</a>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--                <div class="col-lg-4 mb-4">-->
-<!--                    <div class="card h-100 text-center">-->
-<!--                        <img class="card-img-top" src="images/exec/amel-elawad-2.jpg" height = "350" style="object-fit: cover" alt="">-->
-<!--                        <div class="card-body">-->
-<!--                            <h4 class="card-title">Amel Elawad</h4>-->
-<!--                            <h5 class="card-title">Student Advisor</h5>-->
-<!--                            <h6 class="card-subtitle mb-2 text-muted">Physics | 2021</h6>-->
-<!--                            <p class="card-text">"Keep moving forward."</p>-->
-<!--                        </div>-->
-<!--                        <div class="card-footer">-->
-<!--                             <a href="#">name@example.com</a> -->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-            
+                
+                  <div class="col-lg-4 mb-4">
+                      <div class="card h-100 text-center">
+                          <img class="card-img-top" src="images/exec/oluwatomi-idowu.jpg" height="350" style="object-fit: cover" alt="">
+                          <div class="card-body">
+                              <h4 class="card-title">Olúwatómi Ìdòwú</h4>
+                              <h5 class="card-title">Secretary</h5>
+                              <h6 class="card-subtitle mb-2 text-muted">Chemical Engineering | 2027</h6>
+                              <p class="card-text">"Taking life one step at a time, finding beauty in the little things."</p>
+                          </div>
+                          <div class="card-footer">
+                          </div>
+                      </div>
+                  </div>
+                  <!-- <div class="row" > -->
 
-        <!-- <div class="col-lg-4 mb-4">
-          <div class="card h-100 text-center">
-            <img class="card-img-top" src="images/milani-chatterji-len.jpg" alt="">
-            <div class="card-body">
-              <h4 class="card-title">Milani Chatterji-Len</h4>
-                <h5 class="card-title">President </h5>
-                  <h6 class="card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2019</h6>
-              <p class="card-text">"It's better to know how to learn than to know."</p>
-            </div>
-            <div class="card-footer">
-              <a href="#">name@example.com</a>
-            </div>
+                  
+                  
+                  
+                  <div class="col-lg-4 mb-4">
+                      <div class="card h-100 text-center">
+                          <img class="card-img-top" src="images/exec/rohan_bosworth.JPG" height="350" style="object-fit: cover" alt="">
+                          <div class="card-body">
+                              <h4 class="card-title">Rohan Bosworth</h4>
+                              <h5 class="card-title">Education Chair</h5>
+                              <h6 class="card-subtitle mb-2 text-muted">Computer Science and Electrical Engineering | 2027</h6>
+                              <p class="card-text">"All our dreams can come true, if we have the courage to pursue them." - Walt Disney</p>
+                          </div>
+                          <div class="card-footer">
+                          </div>
+                      </div>
+                  </div>
+                  
+                  <div class="col-lg-4 mb-4">
+                      <div class="card h-100 text-center">
+                          <img class="card-img-top" src="" height="350" style="object-fit: cover" alt="">
+                          <div class="card-body">
+                              <h4 class="card-title">Yumn Elameer</h4>
+                              <h5 class="card-title">Publicity Chair</h5>
+                              <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2028</h6>
+                              <p class="card-text"></p>
+                          </div>
+                          <div class="card-footer">
+                          </div>
+                      </div>
+                  </div>
+                  
+            <div class="col-lg-4 mb-4">
+                <div class="card h-100 text-center">
+                    <img class="card-img-top" src="" height="350" style="object-fit: cover" alt="">
+                    <div class="card-body">
+                        <h4 class="card-title">Rochelle Griffith</h4>
+                        <h5 class="card-title">Internal Relations Chair</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Civil and Environmental Engineering</h6>
+                        <p class="card-text"></p>
+                  </div>
+                  <div class="card-footer">
+                  </div>
+                  </div>
+                  </div>
+
+            <div class="col-lg-4 mb-4">
+                      <div class="card h-100 text-center">
+                          <img class="card-img-top" src="images/exec/advika.jpg" height="350" style="object-fit: cover" alt="">
+                          <div class="card-body">
+                              <h4 class="card-title">Advika Namasivayam</h4>
+                              <h5 class="card-title">Webmaster</h5>
+                              <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2028</h6>
+                              <p class="card-text">"Don't regret your regret"</p>
+                          </div>
+                          <div class="card-footer">
+                          </div>
+                      </div>
+                  </div>
           </div>
-        </div> -->
-
+          </div>
+          </div>
+          </div>
+          </div>
+          </div>
+          </div>
+          </div>
 
 
 
@@ -340,7 +289,7 @@
           </div>
         </div>
       </div> -->
-        </div>
+        <!-- </div> -->
 
         <!-- Footer -->
         <?php include('footer.php'); ?>

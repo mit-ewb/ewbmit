@@ -28,7 +28,10 @@
         <h2>Donate</h2>
           <!-- <h3>Our Funding Needs</h3> -->
           <p>Help us bring our projects to life by supporting our funding needs! Your donation can help us pay for costs of construction materials, fees for construction contractors, and travel reimbursements.</p>
-          <a class="btn btn-primary btn-lg px-4 me-sm-3" href="https://crowdfund.mit.edu/story/Mit-Ewb">Donate Now</a>
+          <h4> Make a donation to account number 2721177! </h4>
+          <a class="btn btn-primary btn-lg px-4 me-sm-3" href="https://giving.mit.edu/form/#/">Giving to MIT</a>
+          <h4> Make a donation to our Crowdfund! </h4>
+          <a class="btn btn-primary btn-lg px-4 me-sm-3" href="https://crowdfund.mit.edu/story/Ewb-F24">Crowdfund</a>
           <br>
           <br>
           <br>
@@ -37,15 +40,62 @@
     </div>
 
  <!-- Sponsors Section -->
-      <div class="row">
-        <div class="col-lg-12">
-          <h2>Our Supporters</h2>
-            <p>We appreciate the commitment of our sponsors and mentors towards supporting our efforts and our partner communities.</p>
-            <br>
-            <h3>Platinum Sponsors</h3>
-            <img src="images/CEE_logo.png" alt="">             <img src="images/TBP_logo.png" alt="">
-          <h5>MIT Department of Civil and Environmental Engineering </h5>
-            <h5>Tau Beta Pi MIT </h5>
+ <div class="row">
+  <div class="col-lg-12">
+    <h2>Our Supporters</h2>
+    <p>We appreciate the commitment of our sponsors and mentors towards supporting our efforts and our partner communities.</p>
+    <br>
+    <h3>Platinum Sponsors</h3>
+    <div class="row">
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <figure style="text-align: center;">
+          <img src="images/CEE_logo.png" alt="" class="sponsor-img">
+          <figcaption>MIT Department of Civil and Environmental Engineering</figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <figure style="text-align: center;">
+          <img src="images/dlab_logo.png" alt="" class="sponsor-img">
+          <figcaption>MIT D-Lab</figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <figure style="text-align: center;">
+          <img src="images/edgerton_center.png" alt="" class="sponsor-img">
+          <figcaption>Edgerton Center</figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <figure style="text-align: center;">
+          <img src="images/mitmechelogo.jpg" alt="" class="sponsor-img">
+          <figcaption>MIT Mechanical Engineering Department</figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <figure style="text-align: center;">
+          <img src="images/coopmitlogo.jpeg" alt="" class="sponsor-img">
+          <figcaption>MIT COOP</figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <figure style="text-align: center;">
+          <img src="images/dsl.png" alt="" max-height:100px width=450px>
+          <figcaption>Division of Student Life</figcaption>
+        </figure>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .sponsor-img {
+    max-height: 100px;
+    width: auto;
+  }
+</style>
+
+
+
             <br>
             <br>
             <h3>Other Sponsors</h3>
@@ -54,13 +104,32 @@
             <br>
             <h3>Mentors</h3>
             <br>
-            <img src="images/ewb-usa-logo-color.jpg" alt=""> &nbsp         <img src="images/cropped-Transparent-Color-Logo-2.png" alt="">
-            <img src="images/edgerton.jpg" alt="">  &nbsp&nbsp&nbsp                    <img src="images/SMMA_Slate_BlueLine_RGB.jpg" alt="">
-            <br>
-           <p>EWB-USA</p>
-            <p>EWB-Boston Professional Chapter</p>
-            <p>MIT Edgerton Center</p>
-            <p>SMMA</p>
+            
+            <div style="display: flex; align-items: center;">
+
+            <figure style="margin-right: 10px;">
+              <img src="images/ewb-usa-logo-color.jpg" alt="" style="max-width: 250px;">
+              <figcaption>EWB-USA</figcaption>
+            </figure>
+
+         
+
+            <figure style="margin-right: 10px;">
+              <img src="images/cropped-Transparent-Color-Logo-2.png" alt="" style="max-width: 250px;">
+              <figcaption>EWB-Boston Professional Chapter</figcaption>
+            </figure>
+
+            <figure style="margin-right: 10px;">
+              <img src="images/edgerton_center.png" alt="" style="max-width: 250px;">
+              <figcaption>Edgerton Center</figcaption>
+            </figure>
+
+            <!-- <figure>
+              <img src="images/SMMA_Slate_BlueLine_RGB.jpg" alt="" style="max-width: 250px;">
+              <figcaption>SMMA</figcaption>
+            </figure> -->
+
+            </div>
             <br>
 
         </div>

@@ -29,9 +29,15 @@
             <p>We appreciate the commitment of our sponsors and mentors towards supporting our efforts and our partner communities.</p>
             <br>
             <h2>Platinum Sponsors</h2>
-            <img src="images/CEE_logo.png" alt="">             <img src="images/TBP_logo.png" alt="">
-          <h5>MIT Department of Civil and Environmental Engineering </h5>
-            <h5>Tau Beta Pi MIT </h5>
+            <img src="images/dlab_logo.png" alt="">
+            <img src="images/CEE_logo.png" alt="">
+            <img src="images/edgerton_center.png" alt="">
+            <img src="images/dsl.png" alt="">
+            
+            <h5> MIT D-LAB </h5>
+            <h5>MIT Department of Civil and Environmental Engineering </h5>
+            <h5>Edgerton Center </h5>
+            <h5>Division of Student Life </h5>
             <br>
             <br>
             <h2>Other Sponsors</h2>
@@ -40,13 +46,11 @@
             <br>
             <h2>Mentors</h2>
             <br>
-            <img src="images/ewb-usa-logo-color.jpg" alt=""> &nbsp         <img src="images/cropped-Transparent-Color-Logo-2.png" alt="">
-            <img src="images/edgerton.jpg" alt="">  &nbsp&nbsp&nbsp                    <img src="images/SMMA_Slate_BlueLine_RGB.jpg" alt="">
-            <br>
-           <p>EWB-USA</p>
+            <img src="images/ewb-usa-logo-color.jpg" alt=""> 
+            <img src="images/edgerton.jpg" alt="">                   
+            <p>EWB-USA</p>
             <p>EWB-Boston Professional Chapter</p>
             <p>MIT Edgerton Center</p>
-            <p>SMMA</p>
             <br>
 
         </div>
