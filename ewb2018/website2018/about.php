@@ -119,7 +119,7 @@
                 
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
-                        <img class="card-img-top" src="images/exec/emma_scott.jpg" height="350" style="object-fit: cover" alt="">
+                        <img class="card-img-top" src="" height="350" style="object-fit: cover" alt="">
                         <div class="card-body">
                             <h4 class="card-title">Hayoon Lee</h4>
                             <h5 class="card-title">Farm and Irrigation Team Co-Lead</h5>
