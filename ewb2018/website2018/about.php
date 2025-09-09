@@ -66,24 +66,7 @@
                           <div class="card-footer">
                           </div>
                       </div>
-                  </div>
-
-                 <div class="col-lg-4 mb-4">
-                    <div class="card h-100 text-center">
-                        <img class="card-img-top" src="" height="350" style="object-fit: cover" alt="">
-                        <div class="card-body">
-                            <h4 class="card-title">Xanthe Saalmann</h4>
-                            <h5 class="card-title">Treasurer</h5>
-                            <h6 class="card-subtitle mb-2 text-muted"></h6>
-                            <p class="card-text"></p>
-                        </div>
-                        <div class="card-footer">
-                           <!-- <a href="#">name@example.com</a>  -->
-                        </div>
-                    </div>
-                </div>
-              </div>
-          
+                  </div>          
 
                <div class="row">
 
@@ -119,12 +102,12 @@
                 
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 text-center">
-                        <img class="card-img-top" src="" height="350" style="object-fit: cover" alt="">
+                        <img class="card-img-top" src="images/exec/hayoon.jpg" height="350" style="object-fit: cover" alt="">
                         <div class="card-body">
                             <h4 class="card-title">Hayoon Lee</h4>
                             <h5 class="card-title">Farm and Irrigation Team Co-Lead</h5>
                             <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2028</h6>
-                            <p class="card-text"></p>
+                            <p class="card-text">"Even the toughest dogs can be afraid of vacuums."</p>
                         </div>
                         <div class="card-footer">
                         </div>
@@ -184,12 +167,12 @@
                   
                   <div class="col-lg-4 mb-4">
                       <div class="card h-100 text-center">
-                          <img class="card-img-top" src="" height="350" style="object-fit: cover" alt="">
+                          <img class="card-img-top" src="images/exec/yumn.jpg" height="350" style="object-fit: cover" alt="">
                           <div class="card-body">
                               <h4 class="card-title">Yumn Elameer</h4>
                               <h5 class="card-title">Publicity Chair</h5>
                               <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2028</h6>
-                              <p class="card-text"></p>
+                              <p class="card-text">"The best way to find yourself is to lose yourself in the service of others"”" - Gandhi</p>
                           </div>
                           <div class="card-footer">
                           </div>
@@ -198,12 +181,12 @@
                   
             <div class="col-lg-4 mb-4">
                 <div class="card h-100 text-center">
-                    <img class="card-img-top" src="" height="350" style="object-fit: cover" alt="">
+                    <img class="card-img-top" src="images/exec/rochelle.jpeg" height="350" style="object-fit: cover" alt="">
                     <div class="card-body">
                         <h4 class="card-title">Rochelle Griffith</h4>
                         <h5 class="card-title">Internal Relations Chair</h5>
-                        <h6 class="card-subtitle mb-2 text-muted">Civil and Environmental Engineering</h6>
-                        <p class="card-text"></p>
+                        <h6 class="card-subtitle mb-2 text-muted">Civil and Environmental Engineering | 2028</h6>
+                        <p class="card-text">"I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel." ~ Maya Angelou"</p>
                   </div>
                   <div class="card-footer">
                   </div>
