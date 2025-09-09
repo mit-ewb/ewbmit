@@ -172,7 +172,7 @@
                               <h4 class="card-title">Yumn Elameer</h4>
                               <h5 class="card-title">Publicity Chair</h5>
                               <h6 class="card-subtitle mb-2 text-muted">Mechanical Engineering | 2028</h6>
-                              <p class="card-text">"The best way to find yourself is to lose yourself in the service of others"”" - Gandhi</p>
+                              <p class="card-text">"The best way to find yourself is to lose yourself in the service of others" - Gandhi</p>
                           </div>
                           <div class="card-footer">
                           </div>
@@ -195,7 +195,7 @@
 
             <div class="col-lg-4 mb-4">
                       <div class="card h-100 text-center">
-                          <img class="card-img-top" src="images/exec/advika.jpg" height="350" style="object-fit: cover" alt="">
+                          <img class="card-img-top" src="images/exec/advika_n.jpg" height="350" style="object-fit: cover" alt="">
                           <div class="card-body">
                               <h4 class="card-title">Advika Namasivayam</h4>
                               <h5 class="card-title">Webmaster</h5>
