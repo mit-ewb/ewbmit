@@ -336,30 +336,6 @@
 
               <div class="col-lg-4 mb-4">
                 <div class="card h-100 text-center">
-                  <img class="card-img-top" src="images/exec/abby.jpg" height="350"
-                  style="object-fit: cover" alt="">
-                  <div class="card-body">
-                    <h4 class="card-title">
-                      Abby Gerhardt
-                    </h4>
-                    <h5 class="card-title">
-                      Freshman Representative for Health & Sanitation Team
-                    </h5>
-                    <h6 class="card-subtitle mb-2 text-muted">
-                      Bioengineering | 2029
-                    </h6>
-                    <p class="card-text">
-                      "Someone's desire for sushi is about sushi, but sushi itself is not about anything" - Berrcera et al
-                    </p>
-                  </div>
-                  <div class="card-footer">
-                  </div>
-                </div>
-              </div>
-
-
-              <div class="col-lg-4 mb-4">
-                <div class="card h-100 text-center">
                   <img class="card-img-top" src="images/exec/janae.jpg" height="350"
                   style="object-fit: cover" alt="">
                   <div class="card-body">
@@ -374,6 +350,53 @@
                     </h6>
                     <p class="card-text">
                       "The things that matter the most are the things that can’t be seen" - Winnie the Pooh
+                    </p>
+                  </div>
+                  <div class="card-footer">
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-lg-4 mb-4">
+                <div class="card h-100 text-center">
+                  <img class="card-img-top" src="images/exec/isha.jpg" height="350"
+                  style="object-fit: cover" alt="">
+                  <div class="card-body">
+                    <h4 class="card-title">
+                      Isha Madey 
+                    </h4>
+                    <h5 class="card-title">
+                      Fundraising Committee
+                    </h5>
+                    <h6 class="card-subtitle mb-2 text-muted">
+                      Chemical Engineering | 2029
+                    </h6>
+                    <p class="card-text">
+                      "Believe you can and you are halfway there." - Roosevelt
+                    </p>
+                  </div>
+                  <div class="card-footer">
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="col-lg-4 mb-4">
+                <div class="card h-100 text-center">
+                  <img class="card-img-top" src="images/exec/abby.jpg" height="350"
+                  style="object-fit: cover" alt="">
+                  <div class="card-body">
+                    <h4 class="card-title">
+                      Abby Gerhardt
+                    </h4>
+                    <h5 class="card-title">
+                      Freshman Representative for Health & Sanitation Team
+                    </h5>
+                    <h6 class="card-subtitle mb-2 text-muted">
+                      Bioengineering | 2029
+                    </h6>
+                    <p class="card-text">
+                      "Someone's desire for sushi is about sushi, but sushi itself is not about anything" - Berrcera et al
                     </p>
                   </div>
                   <div class="card-footer">
