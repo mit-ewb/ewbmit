@@ -407,7 +407,7 @@
 
               <div class="col-lg-4 mb-4">
                 <div class="card h-100 text-center">
-                  <img class="card-img-top" src="" height="350"
+                  <img class="card-img-top" src="images/exec/noah-ren.png" height="350"
                   style="object-fit: cover" alt="">
                   <div class="card-body">
                     <h4 class="card-title">
