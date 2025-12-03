@@ -55,7 +55,7 @@
             </div>
            
         <!-- Slide Six - Set the background image for this slide in the line below -->
-            <div class="carousel-item" style="background-image: url('images/FI_Implementation_2025/garden.jpeg')">
+            <div class="carousel-item" style="background-image: url('images/FI_Implementation_2025/garden.JPEG')">
               <div class="carousel-caption d-none d-md-block">
                 <h5> Garden for primary school in Mkutani </h5>
               </div>
