@@ -29,6 +29,13 @@
         <br> </br>
         <!-- Button linking to AlgoEd competition page -->
 
-        <div class="text-center">
-        <a href="https://www.algoed.co/competitions/mit-ewb-engineering-competition" class="btn btn-primary">Join the Competition</a>
-        </div>
+  <!-- Embedded AlgoEd Competition Page -->
+  <div class="embed-responsive" style="height: 800px;">
+    <iframe 
+      src="https://www.algoed.co/competitions/mit-ewb-engineering-competition"
+      width="100%"
+      height="100%"
+      style="border: none;"
+      allowfullscreen>
+    </iframe>
+  </div>
