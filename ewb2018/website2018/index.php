@@ -90,7 +90,7 @@
         <div class="row">
         <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
-                    <a href="#"><img class="card-img-top" src="images/algoed.jpg" height="240" alt=""></a>
+                    <a href="#"><img class="card-img-top" src="images/algoed2026.png" height="240" alt=""></a>
                     <div class="card-body">
                         <h4 class="card-title">
                             <a href="#">MIT EWB x AlgoEd Engineering Challenge</a>
