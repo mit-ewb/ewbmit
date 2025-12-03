@@ -27,34 +27,40 @@
                 <p>In January 2024, four of our members got the opportunity to travel to Tanzania to conduct an implementation trip. </p>
             </div>
           </div>
+
           <!-- Slide Two - Set the background image for this slide in the line below -->
           <div class="carousel-item" style="background-image: url('images/Mkutani_Implementation_2024/planning.jpg')">
             <div class="carousel-caption d-none d-md-block">
             </div>
           </div>
+
           <!-- Slide Three - Set the background image for this slide in the line below -->
           <div class="carousel-item" style="background-image: url('images/Mkutani_Implementation_2024/medicalequipment.jpg')">
-          <div class="carousel-caption d-none d-md-block">
-          <h5>Donated medical equipment courtesy of Boston Children's Hospital</h5>
-          
-              </div>
-      </div>
-        <!-- Slide Four - Set the background image for this slide in the line below -->
+            <div class="carousel-caption d-none d-md-block">
+              <h5>Donated medical equipment courtesy of Boston Children's Hospital</h5>
+            </div>
+          </div>
+        
+          <!-- Slide Four - Set the background image for this slide in the line below -->
         <div class="carousel-item" style="background-image: url('images/Mkutani_Implementation_2024/menstrualcups.jpg')">
             <div class="carousel-caption d-none d-md-block">
               <h5> Donated menstrual cups to the community </h5>
             </div>
         </div>
-            <!-- Slide Five - Set the background image for this slide in the line below -->
+        
+        <!-- Slide Five - Set the background image for this slide in the line below -->
             <div class="carousel-item" style="background-image: url('images/Mkutani_Implementation_2024/digging.jpg')">
                 <div class="carousel-caption d-none d-md-block">
                 </div>
             </div>
-            <!-- Slide Six - Set the background image for this slide in the line below -->
-            <!-- <div class="carousel-item" style="background-image: url('images/banner_blm.png')">
-                <div class="carousel-caption d-none d-md-block">
-                </div>
-            </div> -->
+           
+        <!-- Slide Six - Set the background image for this slide in the line below -->
+            <div class="carousel-item" style="background-image: url('images/FI_Implementation_2025/garden.jpeg')">
+              <div class="carousel-caption d-none d-md-block">
+                <h5> Garden for primary school in Mkutani </h5>
+              </div>
+            </div>
+
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
