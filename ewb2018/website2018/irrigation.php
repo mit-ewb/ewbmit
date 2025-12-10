@@ -31,7 +31,7 @@
             <img class="img-fluid rounded mb-4" src="images/projects/irrigationteam.jpeg" alt="Health & Irrigation Team with the school teacher">
             <div class="embed-responsive embed-responsive-16by9 mb-4">
                 <iframe class="embed-responsive-item" 
-                        src="https://www.youtube.com/watch?v=osqDA_bjoTA" 
+                        src="https://www.youtube.com/embed/osqDA_bjoTA" 
                         allowfullscreen>
                 </iframe>
             </div>
