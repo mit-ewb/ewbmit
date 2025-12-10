@@ -29,7 +29,13 @@
         <div class="col-lg-6">
             <!-- <img class="img-fluid rounded mb-4" src="images/projects/mkutani_assessment2.png" alt=""> -->
             <img class="img-fluid rounded mb-4" src="images/projects/irrigationteam.jpeg" alt="Health & Irrigation Team with the school teacher">
-            <img class="img-fluid rounded mb-4" src="images/projects/rainwater.png" alt="Testing Rainwater">
+            <div class="embed-responsive embed-responsive-16by9 mb-4">
+                <iframe class="embed-responsive-item" 
+                        src="https://www.youtube.com/watch?v=osqDA_bjoTA" 
+                        allowfullscreen>
+                </iframe>
+            </div>
+
         </div>
         <div class="col-lg-6">
             <h2>Project Description</h2>
