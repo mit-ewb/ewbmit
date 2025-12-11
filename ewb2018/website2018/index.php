@@ -108,7 +108,7 @@
                     </div>
                 </div>
             </div>
-        <div class="col-lg-4 col-sm-6 portfolio-item">
+        <!--<div class="col-lg-4 col-sm-6 portfolio-item"> #OLD FUNDRAISER
                 <div class="card h-100">
                     <a href="#"><img class="card-img-top" src="images/Mkutani_Implementation_2024/moreplanning.jpeg" height="240" alt=""></a>
                     <div class="card-body">
@@ -121,7 +121,21 @@
                         <a href="fifundraiser2024.php" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
-            </div>
+        </div>-->
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+                <div class="card h-100">
+                    <a href="#"><img class="card-img-top" src="images/Mkutani_Implementation_2024/moreplanning.jpeg" height="240" alt=""></a>
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            <a href="#">Help us raise funds for our projects this year in Kenya and Tanzania!</a>
+                        </h4>
+                        <p class="card-text">Our crowdfunding page is live!  </p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="fundraiser2025.php" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+        </div>
         <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
                     <a href="#"><img class="card-img-top" src="images/Mkutani_Implementation_2024/travelteam.jpg" height="240" alt=""></a>
