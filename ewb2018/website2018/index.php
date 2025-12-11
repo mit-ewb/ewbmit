@@ -124,7 +124,7 @@
         </div>-->
         <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
-                    <a href="#"><img class="card-img-top" src="images/FI_Implementation_2025/garden.jpeg" height="240" alt=""></a>
+                    <a href="#"><img class="card-img-top" src="images/crowdfunding/products.jpeg" height="240" alt=""></a>
                     <div class="card-body">
                         <h4 class="card-title">
                             <a href="#">Help us raise funds for our projects this year in Kenya and Tanzania!</a>
