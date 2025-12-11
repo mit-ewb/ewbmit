@@ -42,11 +42,6 @@
   <!-- Farm and Irrigation Team -->
   <h2 class="mt-4">Farm and Irrigation Team</h2>
   
-  <img src="images/FI_Implementation_2025/garden.jpeg" 
-     class="img-fluid rounded mb-3 float-right ml-3" 
-     style="max-width: 300px;" 
-     alt="farm and irrigation team garden project">
-
   <p>
     Our Farm and Irrigation team is currently working with a primary school in the rural village of Mkutani, Tanzania. 
     About one-third of the 650 students live too far away from the school to go home for lunch, meaning they are unable to eat during
@@ -119,10 +114,6 @@
     <li>$1,500 covers the cost of a hydrogeological survey</li>
     <li>$2,000 covers one student’s entire travel costs</li>
   </ul>
-<img src="images/crowdfunding/team.jpeg" 
-     class="img-fluid rounded mb-3 float-right ml-3" 
-     style="max-width: 300px;" 
-     alt="farm and irrigation travel team">
 
   <!-- Crowdfund Button -->
   <div class="mt-4 mb-5">
