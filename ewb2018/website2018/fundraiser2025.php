@@ -42,7 +42,7 @@
   <!-- Farm and Irrigation Team -->
   <h2 class="mt-4">Farm and Irrigation Team</h2>
   
-  <img src="images/crowdfunding/garden.jpeg" 
+  <img src="images/FI_Implementation_2025/garden.jpeg" 
      class="img-fluid rounded mb-3 float-right ml-3" 
      style="max-width: 300px;" 
      alt="farm and irrigation team garden project">
@@ -110,10 +110,7 @@
 
   <!-- Donation Levels -->
   <h3 class="mt-4">What Your Gifts Could Cover</h3>
-  <img src="images/crowdfunding/team.jpeg" 
-     class="img-fluid rounded mb-3 float-right ml-3" 
-     style="max-width: 300px;" 
-     alt="farm and irrigation travel team">
+  
   <ul>
     <li>$20 covers a night of lodging for a traveling MIT student</li>
     <li>$60 covers the cost of an MIT student’s ground transportation in Tanzania</li>
@@ -122,6 +119,10 @@
     <li>$1,500 covers the cost of a hydrogeological survey</li>
     <li>$2,000 covers one student’s entire travel costs</li>
   </ul>
+<img src="images/crowdfunding/team.jpeg" 
+     class="img-fluid rounded mb-3 float-right ml-3" 
+     style="max-width: 300px;" 
+     alt="farm and irrigation travel team">
 
   <!-- Crowdfund Button -->
   <div class="mt-4 mb-5">
@@ -129,7 +130,7 @@
       target="_blank" 
       class="btn btn-primary btn-lg"
       rel="noopener noreferrer">
-      Support Our Crowdfund Campaign
+      Support Our Crowdfunding Campaign
     </a>
   </div>
 
