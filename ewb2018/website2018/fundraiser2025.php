@@ -24,10 +24,6 @@
 
     <!-- Intro Section -->
   <div class="mb-5">
-    <img src="images/crowdfunding/students.jpeg" 
-     class="img-fluid rounded mb-3 float-right ml-3" 
-     style="max-width: 300px;" 
-     alt="students in school learning about cleanliness">
     <p>
       EWB is a nonprofit that partners with communities around the globe and works with them to find solutions that will improve their quality of life. 
       As part of the MIT Engineers Without Borders chapter, a student-run organization, we are learning practices that will make us lifelong change-makers. 
