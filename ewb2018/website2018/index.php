@@ -19,18 +19,19 @@
            <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
         </ol>
         <div class="carousel-inner" role="listbox">
+        
+          <!-- Slide Four - Set the background image for this slide in the line below -->
+        <div class="carousel-item" style="background-image: url('images/Mkutani_Implementation_2024/menstrualcups.jpg')">
+            <div class="carousel-caption d-none d-md-block">
+              <h5> Donated menstrual cups to the community </h5>
+            </div>
+        </div>
 
           <!-- Slide One - Set the background image for this slide in the line below -->
-          <div class="carousel-item active" style="background-image: url('images/Mkutani_Implementation_2024/mothers.jpg')">
+          <div class="carousel-item active" style="background-image: url('images/Mkutani_Implementation_2024/friends.heic')">
             <div class="carousel-caption d-none d-md-block">
                 <h3>Making friends in Mkutani, Tanzania</h3>
                 <p>In January 2024, four of our members got the opportunity to travel to Tanzania to conduct an implementation trip. </p>
-            </div>
-          </div>
-
-          <!-- Slide Two - Set the background image for this slide in the line below -->
-          <div class="carousel-item" style="background-image: url('images/Mkutani_Implementation_2024/planning.jpg')">
-            <div class="carousel-caption d-none d-md-block">
             </div>
           </div>
 
@@ -40,25 +41,24 @@
               <h5>Donated medical equipment courtesy of Boston Children's Hospital</h5>
             </div>
           </div>
-        
-          <!-- Slide Four - Set the background image for this slide in the line below -->
-        <div class="carousel-item" style="background-image: url('images/Mkutani_Implementation_2024/menstrualcups.jpg')">
-            <div class="carousel-caption d-none d-md-block">
-              <h5> Donated menstrual cups to the community </h5>
-            </div>
-        </div>
-        
-        <!-- Slide Five - Set the background image for this slide in the line below -->
-            <div class="carousel-item" style="background-image: url('images/Mkutani_Implementation_2024/digging.jpg')">
-                <div class="carousel-caption d-none d-md-block">
-                </div>
-            </div>
            
         <!-- Slide Six - Set the background image for this slide in the line below -->
             <div class="carousel-item" style="background-image: url('images/FI_Implementation_2025/garden.JPEG')">
               <div class="carousel-caption d-none d-md-block">
                 <h5> Garden for primary school in Mkutani </h5>
               </div>
+            </div>
+
+          <!-- Slide Two - Set the background image for this slide in the line below -->
+          <div class="carousel-item" style="background-image: url('images/Mkutani_Implementation_2024/planning.jpg')">
+            <div class="carousel-caption d-none d-md-block">
+            </div>
+          </div>
+        
+        <!-- Slide Five - Set the background image for this slide in the line below -->
+            <div class="carousel-item" style="background-image: url('images/Mkutani_Implementation_2024/digging.jpg')">
+                <div class="carousel-caption d-none d-md-block">
+                </div>
             </div>
 
         </div>
