@@ -92,8 +92,22 @@
       <!-- Portfolio Section -->
       
       
-      <h2>Most Recent</h2>
+      <h2></h2>
         <div class="row">
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+                <div class="card h-100">
+                    <a href="#"><img class="card-img-top" src="images/conference-website.jpg" height="240" alt=""></a>
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            <a href="nationalConference.php">EWB National Conference 2026</a>
+                        </h4>
+                        <p class="card-text">EWB-USA National Conference 2026: Our Lessons and Takeaways</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="nationalConference.php" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
         <div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
                     <a href="#"><img class="card-img-top" src="images/algoed2026.png" height="240" alt=""></a>
@@ -136,7 +150,7 @@
                     </div>
                 </div>
         </div>
-        <div class="col-lg-4 col-sm-6 portfolio-item">
+        <!--<div class="col-lg-4 col-sm-6 portfolio-item"> #OLD IMPLEMENTATION TRIP
                 <div class="card h-100">
                     <a href="#"><img class="card-img-top" src="images/Mkutani_Implementation_2024/travelteam.jpg" height="240" alt=""></a>
                     <div class="card-body">
@@ -149,7 +163,7 @@
                         <a href="updates.php" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
-            </div>
+            </div>-->
         <!--<div class="col-lg-4 col-sm-6 portfolio-item">
                 <div class="card h-100">
                     <a href="#"><img class="card-img-top" src="images/mkutanidispensarypicture.jpeg" height="240" alt=""></a>
